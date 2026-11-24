@@ -1,0 +1,184 @@
+[
+  {
+    "id": "3.1.2-01",
+    "topic": "3.1.2",
+    "question": "Which bond joins two monosaccharides together in a disaccharide?",
+    "options": [
+      "Ester bond",
+      "Peptide bond",
+      "Glycosidic bond",
+      "Phosphodiester bond"
+    ],
+    "answer": 2,
+    "explanation": "A condensation reaction between two monosaccharides forms a glycosidic bond and eliminates water."
+  },
+  {
+    "id": "3.1.3-01",
+    "topic": "3.1.3",
+    "question": "How many water molecules are released when one triglyceride molecule is formed from glycerol and fatty acids?",
+    "options": [
+      "1",
+      "2",
+      "3",
+      "4"
+    ],
+    "answer": 2,
+    "explanation": "Three condensation reactions form three ester bonds, releasing 3 molecules of water."
+  },
+  {
+    "id": "3.1.4-01",
+    "topic": "3.1.4",
+    "question": "Which reagent(s) are used in the Biuret test for proteins?",
+    "options": [
+      "Benedict's solution + heat",
+      "Ethanol + water",
+      "NaOH + dilute CuSO4",
+      "Iodine in potassium iodide"
+    ],
+    "answer": 2,
+    "explanation": "The Biuret test uses sodium hydroxide and dilute copper(II) sulfate, turning lilac/purple in the presence of peptide bonds."
+  },
+  {
+    "id": "3.1.5-01",
+    "topic": "3.1.5",
+    "question": "Which enzyme breaks hydrogen bonds between complementary DNA strands during replication?",
+    "options": [
+      "DNA polymerase",
+      "DNA helicase",
+      "RNA polymerase",
+      "DNA ligase"
+    ],
+    "answer": 1,
+    "explanation": "DNA helicase unwinds the double helix by breaking hydrogen bonds between complementary base pairs."
+  },
+  {
+    "id": "3.2.1-01",
+    "topic": "3.2.1",
+    "question": "Why is an isotonic buffer used during cell fractionation?",
+    "options": [
+      "To denature hydrolytic enzymes",
+      "To prevent organelles bursting or shrinking by osmosis",
+      "To increase membrane permeability",
+      "To stain the chromosomes"
+    ],
+    "answer": 1,
+    "explanation": "An isotonic solution has the same water potential as the organelles, preventing net osmotic movement of water."
+  },
+  {
+    "id": "3.2.2-01",
+    "topic": "3.2.2",
+    "question": "During which stage of mitosis do sister chromatids separate and move to opposite poles?",
+    "options": [
+      "Prophase",
+      "Metaphase",
+      "Anaphase",
+      "Telophase"
+    ],
+    "answer": 2,
+    "explanation": "In anaphase, centromeres divide and spindle fibres shorten to pull sister chromatids to opposite poles."
+  },
+  {
+    "id": "3.3.2-01",
+    "topic": "3.3.2",
+    "question": "What is the main advantage of countercurrent flow in fish gills?",
+    "options": [
+      "Reduces water loss",
+      "Maintains a concentration gradient across the entire gill lamella",
+      "Increases blood pressure",
+      "Prevents gill filaments sticking together"
+    ],
+    "answer": 1,
+    "explanation": "Countercurrent flow ensures water always has a higher O2 concentration than the adjacent blood."
+  },
+  {
+    "id": "3.3.4-01",
+    "topic": "3.3.4",
+    "question": "An increase in blood pCO2 causes the oxygen-haemoglobin dissociation curve to:",
+    "options": [
+      "Shift left, increasing O2 affinity",
+      "Shift right, decreasing O2 affinity",
+      "Remain unchanged",
+      "Become linear"
+    ],
+    "answer": 1,
+    "explanation": "This is the Bohr effect: higher pCO2 lowers pH, reducing haemoglobin's affinity for O2 so more O2 is unloaded."
+  },
+  {
+    "id": "3.5.1-01",
+    "topic": "3.5.1",
+    "question": "Where in the chloroplast does the Calvin cycle (light-independent reaction) take place?",
+    "options": [
+      "Thylakoid membrane",
+      "Thylakoid lumen",
+      "Stroma",
+      "Outer envelope"
+    ],
+    "answer": 2,
+    "explanation": "The Calvin cycle enzymes (including Rubisco) are located in the chloroplast stroma."
+  },
+  {
+    "id": "3.5.2-01",
+    "topic": "3.5.2",
+    "question": "What is the role of oxygen in aerobic respiration?",
+    "options": [
+      "Decarboxylates pyruvate",
+      "Acts as the terminal electron acceptor in the ETC",
+      "Phosphorylates glucose in glycolysis",
+      "Splits citrate in the Krebs cycle"
+    ],
+    "answer": 1,
+    "explanation": "Oxygen accepts electrons and protons at the end of the electron transport chain to form water."
+  },
+  {
+    "id": "3.6.2-01",
+    "topic": "3.6.2",
+    "question": "Depolarisation of an axon membrane during an action potential is caused by:",
+    "options": [
+      "Influx of Na+ through voltage-gated channels",
+      "Efflux of K+ through voltage-gated channels",
+      "Active transport of 3 Na+ out",
+      "Influx of Cl- ions"
+    ],
+    "answer": 0,
+    "explanation": "Once threshold is reached, voltage-gated Na+ channels open and Na+ floods into the axon."
+  },
+  {
+    "id": "3.7.2-01",
+    "topic": "3.7.2",
+    "question": "In a population in Hardy-Weinberg equilibrium, 16% show the recessive phenotype. What is the frequency of the dominant allele (p)?",
+    "options": [
+      "0.16",
+      "0.40",
+      "0.60",
+      "0.84"
+    ],
+    "answer": 2,
+    "explanation": "q^2 = 0.16, so q = 0.40. Since p + q = 1, p = 1 - 0.40 = 0.60."
+  },
+  {
+    "id": "3.8.4-01",
+    "topic": "3.8.4",
+    "question": "Which enzyme is used to synthesise DNA from mRNA during gene cloning?",
+    "options": [
+      "Restriction endonuclease",
+      "DNA ligase",
+      "Reverse transcriptase",
+      "Taq polymerase"
+    ],
+    "answer": 2,
+    "explanation": "Reverse transcriptase synthesises complementary DNA (cDNA) from an mRNA template."
+  },
+  {
+    "id": "RP-01",
+    "topic": "RP",
+    "question": "In RP4 (beetroot membrane permeability), why is a colorimeter used?",
+    "options": [
+      "To measure pH of the solution",
+      "To measure absorbance of leaked betalain pigment",
+      "To count lysed cells",
+      "To measure oxygen uptake"
+    ],
+    "answer": 1,
+    "explanation": "Greater membrane damage releases more red betalain pigment, increasing light absorbance in the colorimeter."
+  }
+]

@@ -1,0 +1,682 @@
+{
+  "3.1.1": {
+    "title": "Topic 3.1.1 · Monomers and Polymers",
+    "group": "3.1 Biological molecules",
+    "spec": "Monomers, polymers, condensation reactions, hydrolysis reactions",
+    "sections": [
+      {
+        "heading": "Core Definitions",
+        "points": [
+          "<b>Monomer:</b> A smaller unit from which larger molecules (polymers) are made (e.g. monosaccharides, amino acids, nucleotides).",
+          "<b>Polymer:</b> A large molecule made from many repeating similar/identical monomer units joined together (e.g. polysaccharides, polypeptides, polynucleotides).",
+          "<b>Condensation reaction:</b> Joins two molecules together with the formation of a chemical bond and involves the elimination of a molecule of water (H<sub>2</sub>O).",
+          "<b>Hydrolysis reaction:</b> Breaks a chemical bond between two molecules and involves the use of a water molecule (H<sub>2</sub>O)."
+        ]
+      }
+    ]
+  },
+  "3.1.2": {
+    "title": "Topic 3.1.2 · Carbohydrates",
+    "group": "3.1 Biological molecules",
+    "spec": "Monosaccharides, disaccharides, polysaccharides (starch, glycogen, cellulose), biochemical tests",
+    "sections": [
+      {
+        "heading": "Monosaccharides & Disaccharides",
+        "points": [
+          "<b>Monosaccharides:</b> Glucose (&alpha;- and &beta;-isomers), galactose, fructose. Hexose formula: C<sub>6</sub>H<sub>12</sub>O<sub>6</sub>.",
+          "<b>&alpha;-glucose vs &beta;-glucose:</b> On C1, &alpha;-glucose has H above and OH below; &beta;-glucose has OH above and H below.",
+          "<b>Glycosidic bond:</b> Formed by condensation between two monosaccharides.",
+          "<b>Disaccharides:</b> Maltose (glucose + glucose), Sucrose (glucose + fructose), Lactose (glucose + galactose)."
+        ]
+      },
+      {
+        "heading": "Polysaccharides & Biochemical Tests",
+        "points": [
+          "<b>Starch (plants):</b> Amylose (unbranched, helical &alpha;-1,4) + Amylopectin (branched &alpha;-1,4 and &alpha;-1,6). Insoluble (no osmotic effect), compact, easily hydrolysed.",
+          "<b>Glycogen (animals):</b> Highly branched &alpha;-glucose (&alpha;-1,4 and &alpha;-1,6). More ends for rapid hydrolysis to glucose for respiration.",
+          "<b>Cellulose (plant cell walls):</b> Straight, unbranched chains of &beta;-glucose (&beta;-1,4). Adjacent chains inverted 180°, linked by hydrogen bonds to form microfibrils (high tensile strength).",
+          "<b>Reducing sugars (Benedict's):</b> Heat with Benedict's reagent &rarr; brick-red precipitate. <b>Non-reducing (e.g. sucrose):</b> Boil with dilute HCl, neutralise with NaHCO<sub>3</sub>, re-test with Benedict's.",
+          "<b>Starch test:</b> Iodine in potassium iodide solution &rarr; orange-brown to blue-black."
+        ]
+      }
+    ]
+  },
+  "3.1.3": {
+    "title": "Topic 3.1.3 · Lipids",
+    "group": "3.1 Biological molecules",
+    "spec": "Triglycerides, phospholipids, saturated/unsaturated fatty acids, emulsion test",
+    "sections": [
+      {
+        "heading": "Structure & Properties",
+        "points": [
+          "<b>Triglyceride:</b> 1 glycerol + 3 fatty acids joined by 3 <b>ester bonds</b> via 3 condensation reactions (3 H<sub>2</sub>O released).",
+          "<b>Saturated vs Unsaturated:</b> Saturated has no C=C double bonds; unsaturated has at least one C=C double bond (causes a kink, lowers melting point).",
+          "<b>Phospholipid:</b> 1 glycerol + 2 fatty acids + 1 phosphate group. Hydrophilic phosphate head + hydrophobic fatty acid tails &rarr; forms phospholipid bilayer in membranes.",
+          "<b>Emulsion test:</b> Shake sample with ethanol, then pour into water &rarr; milky-white emulsion indicates lipid."
+        ]
+      }
+    ]
+  },
+  "3.1.4": {
+    "title": "Topic 3.1.4 · Proteins & Enzymes",
+    "group": "3.1 Biological molecules",
+    "spec": "Amino acids, peptide bonds, 1°–4° structure, biuret test, induced fit, inhibitors",
+    "sections": [
+      {
+        "heading": "Protein Structure & Biuret Test",
+        "points": [
+          "<b>Amino acid:</b> Central C bonded to –NH<sub>2</sub>, –COOH, –H, and variable R group. Joined by <b>peptide bonds</b> via condensation.",
+          "<b>Primary:</b> Sequence of amino acids. <b>Secondary:</b> &alpha;-helix or &beta;-pleated sheet held by hydrogen bonds. <b>Tertiary:</b> 3D folding held by H-bonds, ionic bonds, disulfide bridges. <b>Quaternary:</b> &ge;2 polypeptide chains (e.g. haemoglobin).",
+          "<b>Biuret test:</b> Add NaOH then dilute CuSO<sub>4</sub> &rarr; blue to purple/lilac."
+        ]
+      },
+      {
+        "heading": "Enzyme Action & Inhibition",
+        "points": [
+          "<b>Induced fit model:</b> Active site is not rigid; binding of substrate induces a slight conformational change in the active site, straining substrate bonds and lowering activation energy (E<sub>a</sub>).",
+          "<b>Factors:</b> Temperature (kinetic energy vs denaturation), pH (changes H<sup>+</sup>/OH<sup>-</sup> disrupting ionic/H-bonds), substrate/enzyme concentration.",
+          "<b>Competitive inhibitor:</b> Similar shape to substrate, binds active site; overcome by increasing substrate concentration.",
+          "<b>Non-competitive inhibitor:</b> Binds allosteric site, changes tertiary structure &amp; active site shape; NOT overcome by extra substrate."
+        ]
+      }
+    ]
+  },
+  "3.1.5": {
+    "title": "Topic 3.1.5 · Nucleic Acids & DNA Replication",
+    "group": "3.1 Biological molecules",
+    "spec": "DNA/RNA nucleotides, phosphodiester bonds, semi-conservative replication, Meselson-Stahl",
+    "sections": [
+      {
+        "heading": "DNA & RNA Structure",
+        "points": [
+          "<b>Nucleotide:</b> Pentose sugar (deoxyribose in DNA, ribose in RNA) + phosphate group + nitrogenous base (A, T/U, C, G).",
+          "<b>Phosphodiester bond:</b> Formed by condensation between phosphate of one nucleotide and C3 of pentose sugar of the next.",
+          "<b>DNA:</b> Antiparallel double helix; A=T (2 H-bonds), C&equiv;G (3 H-bonds). <b>RNA:</b> Single-stranded, shorter, uracil (U) instead of thymine (T)."
+        ]
+      },
+      {
+        "heading": "Semi-Conservative Replication",
+        "points": [
+          "1. <b>DNA helicase</b> breaks hydrogen bonds between complementary bases, unwinding the double helix.",
+          "2. Both strands act as templates; free DNA nucleotides align by complementary base pairing (A-T, C-G).",
+          "3. <b>DNA polymerase</b> joins adjacent nucleotides via phosphodiester bonds (5'&rarr;3' direction).",
+          "4. Each new DNA molecule contains one original (parent) strand and one newly synthesised strand (proven by Meselson &amp; Stahl using <sup>15</sup>N / <sup>14</sup>N)."
+        ]
+      }
+    ]
+  },
+  "3.1.6": {
+    "title": "Topic 3.1.6 · ATP",
+    "group": "3.1 Biological molecules",
+    "spec": "ATP structure, hydrolysis by ATP hydrolase, resynthesis by ATP synthase",
+    "sections": [
+      {
+        "heading": "ATP Energy Currency",
+        "points": [
+          "<b>Structure:</b> Ribose sugar + adenine base + 3 phosphate groups.",
+          "<b>Hydrolysis:</b> ATP + H<sub>2</sub>O &rarr; ADP + P<sub>i</sub> (catalysed by <b>ATP hydrolase</b>), releasing energy in small, manageable amounts; P<sub>i</sub> can phosphorylate other compounds to make them more reactive.",
+          "<b>Resynthesis:</b> ADP + P<sub>i</sub> &rarr; ATP + H<sub>2</sub>O (catalysed by <b>ATP synthase</b> during respiration and photosynthesis)."
+        ]
+      }
+    ]
+  },
+  "3.1.7": {
+    "title": "Topic 3.1.7 · Water",
+    "group": "3.1 Biological molecules",
+    "spec": "Hydrogen bonding and biological properties of water",
+    "sections": [
+      {
+        "heading": "5 Key Properties of Water",
+        "points": [
+          "<b>Metabolite:</b> Used in condensation and hydrolysis reactions.",
+          "<b>Solvent:</b> Polar molecule dissolves ionic/polar substances for metabolic reactions and transport.",
+          "<b>High specific heat capacity:</b> Hydrogen bonds absorb lots of energy before temperature rises &rarr; buffers temperature in cells/habitats.",
+          "<b>High latent heat of vaporisation:</b> Evaporation (sweating/transpiration) provides efficient cooling with minimal water loss.",
+          "<b>Cohesion &amp; surface tension:</b> H-bonds between water molecules allow continuous columns in xylem and support small organisms."
+        ]
+      }
+    ]
+  },
+  "3.1.8": {
+    "title": "Topic 3.1.8 · Inorganic Ions",
+    "group": "3.1 Biological molecules",
+    "spec": "Roles of H+, Fe2+, Na+, PO4^3- ions",
+    "sections": [
+      {
+        "heading": "Key Inorganic Ions",
+        "points": [
+          "<b>H<sup>+</sup>:</b> Determines pH; affects enzyme tertiary structure and haemoglobin affinity.",
+          "<b>Fe<sup>2+</sup>:</b> Haem group in haemoglobin; binds O<sub>2</sub> reversibly.",
+          "<b>Na<sup>+</sup>:</b> Co-transport of glucose and amino acids across ileum/nephron membranes; action potentials.",
+          "<b>PO<sub>4</sub><sup>3-</sup>:</b> Component of DNA/RNA nucleotides, ATP, and phospholipids."
+        ]
+      }
+    ]
+  },
+  "3.2.1": {
+    "title": "Topic 3.2.1 · Cell Structure & Microscopy",
+    "group": "3.2 Cells",
+    "spec": "Eukaryotic organelles, prokaryotes, viruses, optical/TEM/SEM microscopes, cell fractionation",
+    "sections": [
+      {
+        "heading": "Cells & Organelles",
+        "points": [
+          "<b>Eukaryotic organelles:</b> Nucleus (nuclear envelope, pores, nucleolus), mitochondria (cristae, matrix), chloroplasts (thylakoids, stroma), RER/SER, Golgi apparatus (modifies/packages proteins into vesicles), lysosomes, 80S ribosomes.",
+          "<b>Prokaryotes:</b> No membrane-bound organelles, circular DNA (no histones), plasmids, 70S ribosomes, murein (peptidoglycan) cell wall, optional capsule/flagellum.",
+          "<b>Viruses:</b> Acellular, non-living; genetic material (DNA or RNA) + capsid + attachment proteins (+ lipid envelope)."
+        ]
+      },
+      {
+        "heading": "Microscopy & Cell Fractionation",
+        "points": [
+          "<b>Magnification = Image size / Actual size.</b> Resolution = minimum distance apart two objects can be distinguished as separate.",
+          "<b>Optical:</b> Low resolution (~200 nm, light wavelength), live specimens, colour. <b>TEM:</b> Highest resolution (~0.1 nm), 2D internal ultrastructure, dead/vacuum. <b>SEM:</b> 3D surface image, lower resolution than TEM.",
+          "<b>Cell fractionation:</b> Homogenise tissue in <b>cold</b> (reduces enzyme activity), <b>isotonic</b> (prevents osmotic lysis/shrinking), <b>buffered</b> (maintains pH/protein structure) solution &rarr; filter &rarr; differential ultracentrifugation (nuclei &rarr; chloroplasts &rarr; mitochondria &rarr; lysosomes &rarr; ER &rarr; ribosomes)."
+        ]
+      }
+    ]
+  },
+  "3.2.2": {
+    "title": "Topic 3.2.2 · Mitosis & the Cell Cycle",
+    "group": "3.2 Cells",
+    "spec": "Interphase (G1, S, G2), PMAT, cytokinesis, mitotic index, cancer, binary fission",
+    "sections": [
+      {
+        "heading": "Cell Cycle & Mitosis",
+        "points": [
+          "<b>Interphase:</b> G<sub>1</sub> (growth, protein/organelle synthesis), S (DNA replication), G<sub>2</sub> (further growth).",
+          "<b>Prophase:</b> Chromosomes condense; nuclear envelope breaks down; spindle fibres form.",
+          "<b>Metaphase:</b> Chromosomes line up at the cell equator; spindle fibres attach to centromeres.",
+          "<b>Anaphase:</b> Centromeres divide; sister chromatids pulled to opposite poles by spindle shortening.",
+          "<b>Telophase &amp; Cytokinesis:</b> Chromosomes uncoil; nuclear envelopes reform; cytoplasm divides.",
+          "<b>Mitotic index</b> = (Number of cells in mitosis) / (Total number of cells). Uncontrolled cell division leads to tumours/cancer."
+        ]
+      }
+    ]
+  },
+  "3.2.3": {
+    "title": "Topic 3.2.3 · Transport Across Cell Membranes",
+    "group": "3.2 Cells",
+    "spec": "Fluid-mosaic model, simple/facilitated diffusion, osmosis, active transport, co-transport",
+    "sections": [
+      {
+        "heading": "Membrane Transport Mechanisms",
+        "points": [
+          "<b>Fluid-mosaic model:</b> Phospholipid bilayer (fluid) with embedded intrinsic/extrinsic proteins, glycoproteins, glycolipids, and cholesterol (regulates fluidity).",
+          "<b>Simple diffusion:</b> Passive, down concentration gradient, small/non-polar molecules.",
+          "<b>Facilitated diffusion:</b> Passive, via channel or carrier proteins, down concentration gradient.",
+          "<b>Osmosis:</b> Net movement of water from higher water potential (&Psi;) to lower water potential across a partially permeable membrane.",
+          "<b>Active transport:</b> Carrier proteins + ATP hydrolysis, against concentration gradient.",
+          "<b>Co-transport (ileum):</b> Na<sup>+</sup>/K<sup>+</sup> pump actively exports Na<sup>+</sup> into blood &rarr; Na<sup>+</sup> diffuses into epithelial cell via co-transporter bringing glucose against its gradient &rarr; glucose leaves into blood by facilitated diffusion."
+        ]
+      }
+    ]
+  },
+  "3.2.4": {
+    "title": "Topic 3.2.4 · Cell Recognition & the Immune System",
+    "group": "3.2 Cells",
+    "spec": "Phagocytosis, T cells, B cells, antibodies, vaccines, herd immunity, HIV, ELISA",
+    "sections": [
+      {
+        "heading": "Non-Specific & Specific Immunity",
+        "points": [
+          "<b>Phagocytosis:</b> Phagocyte attracted by chemicals &rarr; engulfs pathogen into phagosome &rarr; fuses with lysosome (lysozymes hydrolyse pathogen) &rarr; presents antigens (APC).",
+          "<b>Cell-mediated (T cells):</b> Helper T cells (T<sub>H</sub>) bind APCs, release cytokines to activate cytotoxic T cells (perforin) and B cells.",
+          "<b>Humoral (B cells):</b> B cell binds complementary antigen, activated by T<sub>H</sub> &rarr; clonal selection &amp; expansion into plasma cells (secrete monoclonal antibodies) and memory B cells.",
+          "<b>Antibody:</b> Quaternary structure (4 polypeptide chains, disulfide bridges), 2 variable antigen-binding sites &rarr; agglutination &amp; opsonisation."
+        ]
+      },
+      {
+        "heading": "Vaccines, HIV & ELISA",
+        "points": [
+          "<b>Vaccination:</b> Introduces antigens &rarr; primary response + memory cells &rarr; rapid secondary response. <b>Herd immunity</b> protects unvaccinated individuals.",
+          "<b>HIV:</b> Retrovirus (RNA + reverse transcriptase) infects T<sub>H</sub> cells &rarr; impairs humoral &amp; cell-mediated immunity &rarr; AIDS.",
+          "<b>ELISA:</b> Uses monoclonal antibodies linked to an enzyme to detect specific antigens or antibodies via a colour change."
+        ]
+      }
+    ]
+  },
+  "3.3.1": {
+    "title": "Topic 3.3.1 · Surface Area to Volume Ratio",
+    "group": "3.3 Organisms exchange substances",
+    "spec": "SA:V ratio, metabolic rate, adaptations for exchange",
+    "sections": [
+      {
+        "heading": "SA:V Principles",
+        "points": [
+          "Smaller organisms have a <b>larger SA:V ratio</b> &rarr; greater heat loss per unit body mass &rarr; higher metabolic rate.",
+          "Large organisms have a small SA:V ratio and long diffusion distances, requiring specialised exchange surfaces and mass transport systems."
+        ]
+      }
+    ]
+  },
+  "3.3.2": {
+    "title": "Topic 3.3.2 · Gas Exchange",
+    "group": "3.3 Organisms exchange substances",
+    "spec": "Insects, fish gills, xerophytic plants, human lungs and ventilation",
+    "sections": [
+      {
+        "heading": "Gas Exchange Systems",
+        "points": [
+          "<b>Insects:</b> Spiracles &rarr; tracheae &rarr; tracheoles (thin walls, short diffusion distance, abdominal pumping).",
+          "<b>Fish:</b> Gill filaments + lamellae; <b>countercurrent flow</b> (blood and water flow in opposite directions, maintaining a concentration gradient across the entire gill length).",
+          "<b>Plants:</b> Stomata + guard cells. <b>Xerophytes:</b> Thick waxy cuticle, sunken stomata, rolled leaves, hairs, reduced SA:V.",
+          "<b>Human lungs:</b> Inspiration (external intercostals + diaphragm contract &rarr; thoracic volume &uarr; &rarr; pressure &darr; below atmospheric). Alveoli: 1 cell thick, huge SA, capillary network."
+        ]
+      }
+    ]
+  },
+  "3.3.3": {
+    "title": "Topic 3.3.3 · Digestion and Absorption",
+    "group": "3.3 Organisms exchange substances",
+    "spec": "Amylase, membrane-bound disaccharidases, endopeptidases/exopeptidases, lipase, micelles",
+    "sections": [
+      {
+        "heading": "Enzymatic Digestion & Absorption",
+        "points": [
+          "<b>Carbohydrates:</b> Salivary/pancreatic amylase (starch &rarr; maltose) + membrane-bound disaccharidases (maltase, sucrase, lactase).",
+          "<b>Proteins:</b> Endopeptidases (hydrolyse internal peptide bonds &rarr; more ends), exopeptidases (terminal bonds), membrane-bound dipeptidases.",
+          "<b>Lipids:</b> Bile salts emulsify lipids (increase SA); lipase hydrolyses triglycerides &rarr; monoglycerides + fatty acids &rarr; form <b>micelles</b> &rarr; diffuse into epithelial cells &rarr; reformed into triglycerides &amp; chylomicrons &rarr; lacteals."
+        ]
+      }
+    ]
+  },
+  "3.3.4": {
+    "title": "Topic 3.3.4 · Mass Transport",
+    "group": "3.3 Organisms exchange substances",
+    "spec": "Haemoglobin & Bohr effect, cardiac cycle, tissue fluid, xylem cohesion-tension, phloem mass flow",
+    "sections": [
+      {
+        "heading": "Haemoglobin & Circulatory System",
+        "points": [
+          "<b>Haemoglobin:</b> Cooperative binding gives S-shaped dissociation curve. <b>Bohr effect:</b> High pCO<sub>2</sub> shifts curve right (lower O<sub>2</sub> affinity &rarr; more O<sub>2</sub> unloaded at respiring tissues).",
+          "<b>Cardiac cycle:</b> Atrial systole &rarr; ventricular systole (AV valves close, SL valves open) &rarr; diastole (SL valves close). CO = HR &times; SV.",
+          "<b>Tissue fluid:</b> High hydrostatic pressure at arteriole end forces fluid out (ultrafiltration); lower hydrostatic pressure &amp; lower water potential (plasma proteins) at venule end draws water back in by osmosis."
+        ]
+      },
+      {
+        "heading": "Transport in Plants",
+        "points": [
+          "<b>Xylem (cohesion-tension):</b> Evaporation from mesophyll &rarr; water potential gradient &rarr; tension pulls continuous water column up xylem (cohesion between H<sub>2</sub>O, adhesion to xylem walls).",
+          "<b>Phloem (mass flow):</b> Active loading of sucrose into sieve tubes at source &rarr; lowers &Psi; &rarr; water enters by osmosis &rarr; high hydrostatic pressure pushes sap to sink where sucrose is unloaded."
+        ]
+      }
+    ]
+  },
+  "3.4.1": {
+    "title": "Topic 3.4.1 · DNA, Genes and Chromosomes",
+    "group": "3.4 Genetic information & variation",
+    "spec": "Prokaryotic vs eukaryotic DNA, introns, exons, genetic code properties",
+    "sections": [
+      {
+        "heading": "DNA Organisation & Genetic Code",
+        "points": [
+          "<b>Prokaryotes:</b> Short, circular DNA, not associated with histones. <b>Eukaryotes:</b> Long, linear DNA associated with histones to form chromosomes (plus circular DNA in mitochondria/chloroplasts).",
+          "<b>Introns vs Exons:</b> Exons code for amino acids; introns are non-coding sequences spliced out of pre-mRNA.",
+          "<b>Genetic code:</b> Triplet (codon = 3 bases), <b>degenerate</b> (multiple codons per amino acid), <b>universal</b>, <b>non-overlapping</b>."
+        ]
+      }
+    ]
+  },
+  "3.4.2": {
+    "title": "Topic 3.4.2 · DNA and Protein Synthesis",
+    "group": "3.4 Genetic information & variation",
+    "spec": "Transcription, splicing, translation, mRNA, tRNA",
+    "sections": [
+      {
+        "heading": "Transcription & Translation",
+        "points": [
+          "<b>Transcription:</b> DNA helicase unwinds gene; RNA polymerase joins free RNA nucleotides complementary to template strand &rarr; pre-mRNA.",
+          "<b>Splicing (eukaryotes):</b> Introns removed, exons joined to form mature mRNA.",
+          "<b>Translation:</b> mRNA binds ribosome; tRNA with complementary anticodon brings specific amino acid; ATP used to form peptide bonds; stops at stop codon."
+        ]
+      }
+    ]
+  },
+  "3.4.3": {
+    "title": "Topic 3.4.3 · Mutation & Meiosis",
+    "group": "3.4 Genetic information & variation",
+    "spec": "Gene/chromosome mutations, meiosis I & II, crossing over, independent segregation",
+    "sections": [
+      {
+        "heading": "Meiosis & Variation",
+        "points": [
+          "<b>Meiosis I:</b> Homologous chromosomes separate (halves chromosome number: 2n &rarr; n). <b>Crossing over</b> (chiasmata) exchanges alleles; <b>independent segregation</b> creates new maternal/paternal combinations.",
+          "<b>Meiosis II:</b> Sister chromatids separate.",
+          "<b>Non-disjunction:</b> Failure of homologous chromosomes or chromatids to separate &rarr; aneuploidy."
+        ]
+      }
+    ]
+  },
+  "3.4.4": {
+    "title": "Topic 3.4.4 · Genetic Diversity & Natural Selection",
+    "group": "3.4 Genetic information & variation",
+    "spec": "Directional and stabilising selection, antibiotic resistance",
+    "sections": [
+      {
+        "heading": "Natural Selection",
+        "points": [
+          "1. Variation exists in a population due to random mutation.",
+          "2. Selection pressure means individuals with advantageous alleles are more likely to survive and reproduce.",
+          "3. Advantageous alleles are passed to offspring; allele frequency increases over generations.",
+          "<b>Directional selection:</b> Favours one extreme (e.g. antibiotic resistance). <b>Stabilising selection:</b> Favours the mean (e.g. human birth weight)."
+        ]
+      }
+    ]
+  },
+  "3.4.5": {
+    "title": "Topic 3.4.5 · Species and Taxonomy",
+    "group": "3.4 Genetic information & variation",
+    "spec": "Species definition, courtship behaviour, phylogenetic classification, DKPCOFGS",
+    "sections": [
+      {
+        "heading": "Classification & Courtship",
+        "points": [
+          "<b>Species:</b> Group of organisms able to interbreed to produce fertile offspring.",
+          "<b>Courtship behaviour:</b> Recognise own species, identify mate capable of breeding, form pair bond, synchronise mating.",
+          "<b>Taxonomy:</b> Hierarchical (no overlap), phylogenetic (based on evolutionary relationships): Domain, Kingdom, Phylum, Class, Order, Family, Genus, Species."
+        ]
+      }
+    ]
+  },
+  "3.4.6": {
+    "title": "Topic 3.4.6 · Biodiversity within a Community",
+    "group": "3.4 Genetic information & variation",
+    "spec": "Species richness, Simpson's Index of Diversity, farming impacts",
+    "sections": [
+      {
+        "heading": "Index of Diversity",
+        "points": [
+          "<b>Formula:</b> D = N(N &minus; 1) / &Sigma;n(n &minus; 1), where N = total number of organisms of all species, n = total number of organisms of each species.",
+          "<b>Agriculture:</b> Monoculture, hedgerow removal, pesticides/herbicides reduce biodiversity; conservation schemes (wildflower strips, hedgerows) restore it."
+        ]
+      }
+    ]
+  },
+  "3.4.7": {
+    "title": "Topic 3.4.7 · Investigating Diversity",
+    "group": "3.4 Genetic information & variation",
+    "spec": "DNA/mRNA/amino acid sequencing, random sampling, standard deviation",
+    "sections": [
+      {
+        "heading": "Measuring Diversity",
+        "points": [
+          "<b>Molecular comparison:</b> Compare DNA base sequences, mRNA sequences, or amino acid sequences (fewer differences = more closely related).",
+          "<b>Sampling:</b> Random sampling (random number generator + grid) avoids bias; large sample size increases reliability; mean &plusmn; standard deviation shows spread around the mean."
+        ]
+      }
+    ]
+  },
+  "3.5.1": {
+    "title": "Topic 3.5.1 · Photosynthesis",
+    "group": "3.5 Energy transfers",
+    "spec": "Light-dependent reaction (thylakoids), Calvin cycle (stroma), limiting factors",
+    "sections": [
+      {
+        "heading": "Light-Dependent & Light-Independent Reactions",
+        "points": [
+          "<b>Light-dependent (thylakoid membranes):</b> Photoionisation of chlorophyll &rarr; e<sup>-</sup> transport chain &rarr; H<sup>+</sup> pumped into thylakoid lumen &rarr; chemiosmosis via ATP synthase &rarr; ATP + reduced NADP. Photolysis: 2H<sub>2</sub>O &rarr; 4H<sup>+</sup> + 4e<sup>-</sup> + O<sub>2</sub>.",
+          "<b>Calvin cycle (stroma):</b> CO<sub>2</sub> + RuBP (5C) &rarr; 2 GP (3C) via Rubisco &rarr; reduced to 2 TP (3C) using ATP and reduced NADP &rarr; 1/6 TP forms hexose/organic molecules, 5/6 regenerates RuBP using ATP."
+        ]
+      }
+    ]
+  },
+  "3.5.2": {
+    "title": "Topic 3.5.2 · Respiration",
+    "group": "3.5 Energy transfers",
+    "spec": "Glycolysis, link reaction, Krebs cycle, oxidative phosphorylation, anaerobic respiration",
+    "sections": [
+      {
+        "heading": "Aerobic & Anaerobic Respiration",
+        "points": [
+          "<b>Glycolysis (cytoplasm):</b> Glucose (6C) &rarr; 2 pyruvate (3C) + net 2 ATP + 2 reduced NAD.",
+          "<b>Link reaction (mitochondrial matrix):</b> Pyruvate &rarr; acetyl CoA (2C) + CO<sub>2</sub> + reduced NAD.",
+          "<b>Krebs cycle (matrix):</b> Acetyl CoA + oxaloacetate (4C) &rarr; citrate (6C) &rarr; regenerates 4C, yielding 2 CO<sub>2</sub>, 1 ATP (substrate-level), 3 reduced NAD, 1 reduced FAD per turn.",
+          "<b>Oxidative phosphorylation (cristae):</b> Reduced NAD/FAD donate e<sup>-</sup> to ETC &rarr; H<sup>+</sup> pumped to intermembrane space &rarr; chemiosmosis via ATP synthase. O<sub>2</sub> is terminal electron acceptor (forms H<sub>2</sub>O).",
+          "<b>Anaerobic:</b> Regenerates NAD<sup>+</sup> so glycolysis continues (animals: lactate; plants/yeast: ethanol + CO<sub>2</sub>)."
+        ]
+      }
+    ]
+  },
+  "3.5.3": {
+    "title": "Topic 3.5.3 · Energy and Ecosystems",
+    "group": "3.5 Energy transfers",
+    "spec": "GPP, NPP = GPP - R, net production of consumers N = I - (F + R), farming efficiency",
+    "sections": [
+      {
+        "heading": "Productivity & Energy Transfer",
+        "points": [
+          "<b>NPP = GPP &minus; R</b> (Net Primary Production = Gross Primary Production minus respiratory losses).",
+          "<b>Consumers: N = I &minus; (F + R)</b> (I = chemical energy in ingested food, F = faeces/urine, R = respiration).",
+          "<b>Efficiency:</b> % efficiency = (Energy after transfer / Energy before transfer) &times; 100. Simplifying food webs and restricting movement/heating increases efficiency."
+        ]
+      }
+    ]
+  },
+  "3.5.4": {
+    "title": "Topic 3.5.4 · Nutrient Cycles",
+    "group": "3.5 Energy transfers",
+    "spec": "Nitrogen cycle, phosphorus cycle, mycorrhizae, fertilisers, eutrophication",
+    "sections": [
+      {
+        "heading": "Nitrogen, Phosphorus & Eutrophication",
+        "points": [
+          "<b>Nitrogen cycle:</b> Nitrogen fixation (Rhizobium: N<sub>2</sub> &rarr; NH<sub>3</sub>), ammonification (saprobionts), nitrification (NH<sub>4</sub><sup>+</sup> &rarr; NO<sub>2</sub><sup>-</sup> &rarr; NO<sub>3</sub><sup>-</sup>, aerobic), denitrification (NO<sub>3</sub><sup>-</sup> &rarr; N<sub>2</sub>, anaerobic/waterlogged).",
+          "<b>Mycorrhizae:</b> Symbiotic fungi on plant roots increase SA for water and mineral (especially phosphate) uptake.",
+          "<b>Eutrophication:</b> Leaching of nitrates/phosphates &rarr; algal bloom &rarr; blocks light &rarr; plants die &rarr; saprobionts decompose &amp; respire aerobically &rarr; O<sub>2</sub> depleted &rarr; fish die."
+        ]
+      }
+    ]
+  },
+  "3.6.1": {
+    "title": "Topic 3.6.1 · Stimuli, Receptors & Tropisms",
+    "group": "3.6 Organisms respond to changes",
+    "spec": "Taxes, kineses, IAA phototropism/gravitropism, Pacinian corpuscle, rods & cones, heart rate control",
+    "sections": [
+      {
+        "heading": "Responses & Receptors",
+        "points": [
+          "<b>Taxis:</b> Directional movement towards/away from stimulus. <b>Kinesis:</b> Non-directional change in speed/turning rate.",
+          "<b>IAA (plant):</b> Promotes cell elongation in shoots, inhibits in roots.",
+          "<b>Pacinian corpuscle:</b> Mechanical pressure deforms lamellae &rarr; opens stretch-mediated Na<sup>+</sup> channels &rarr; generator potential.",
+          "<b>Rods vs Cones:</b> Rods (rhodopsin, high sensitivity/low acuity via summation, black &amp; white); Cones (iodopsin, low sensitivity/high acuity, 1:1 bipolar connection, colour).",
+          "<b>Heart rate:</b> Chemoreceptors/baroreceptors &rarr; medulla oblongata &rarr; sympathetic (noradrenaline, SAN &uarr;) or parasympathetic (acetylcholine, SAN &darr;)."
+        ]
+      }
+    ]
+  },
+  "3.6.2": {
+    "title": "Topic 3.6.2 · Nervous Coordination & Synapses",
+    "group": "3.6 Organisms respond to changes",
+    "spec": "Resting potential, action potential, myelination/saltatory conduction, cholinergic synapses",
+    "sections": [
+      {
+        "heading": "Action Potentials & Synapses",
+        "points": [
+          "<b>Resting potential (-70 mV):</b> Na<sup>+</sup>/K<sup>+</sup> pump (3 Na<sup>+</sup> out, 2 K<sup>+</sup> in) + higher K<sup>+</sup> permeability.",
+          "<b>Action potential:</b> Threshold reached &rarr; voltage-gated Na<sup>+</sup> channels open (depolarisation to +40 mV) &rarr; Na<sup>+</sup> close, K<sup>+</sup> open (repolarisation &rarr; hyperpolarisation). Refractory period ensures unidirectional propagation.",
+          "<b>Saltatory conduction:</b> Myelinated axons depolarise only at Nodes of Ranvier &rarr; faster.",
+          "<b>Cholinergic synapse:</b> AP arrives &rarr; Ca<sup>2+</sup> channels open &rarr; vesicles fuse &amp; release ACh &rarr; binds postsynaptic receptors &rarr; Na<sup>+</sup> influx &rarr; EPSP; acetylcholinesterase hydrolyses ACh."
+        ]
+      }
+    ]
+  },
+  "3.6.3": {
+    "title": "Topic 3.6.3 · Skeletal Muscles",
+    "group": "3.6 Organisms respond to changes",
+    "spec": "Sliding filament theory, sarcomere bands, phosphocreatine, slow vs fast twitch fibres",
+    "sections": [
+      {
+        "heading": "Sliding Filament Theory",
+        "points": [
+          "<b>Sarcomere:</b> Z-line to Z-line. During contraction: I-band &amp; H-zone shorten; A-band stays same width.",
+          "<b>Mechanism:</b> Ca<sup>2+</sup> released from sarcoplasmic reticulum binds troponin &rarr; tropomyosin moves, exposing actin binding sites &rarr; myosin heads form cross-bridges &rarr; power stroke (ADP + P<sub>i</sub> released) &rarr; ATP binds myosin to detach &amp; hydrolyses to recock.",
+          "<b>Phosphocreatine:</b> Rapidly donates phosphate to ADP to regenerate ATP in fast-twitch fibres."
+        ]
+      }
+    ]
+  },
+  "3.6.4": {
+    "title": "Topic 3.6.4 · Homeostasis",
+    "group": "3.6 Organisms respond to changes",
+    "spec": "Negative feedback, insulin/glucagon/adrenaline, nephron, Loop of Henle, ADH",
+    "sections": [
+      {
+        "heading": "Blood Glucose & Osmoregulation",
+        "points": [
+          "<b>Insulin (&beta;-cells):</b> Increases glucose uptake (GLUT4), glycogenesis, respiration. <b>Glucagon (&alpha;-cells):</b> Glycogenolysis, gluconeogenesis (second messenger cAMP).",
+          "<b>Kidney:</b> Ultrafiltration at Bowman's capsule; selective reabsorption of glucose in PCT; <b>Loop of Henle</b> countercurrent multiplier creates low &Psi; in medulla.",
+          "<b>ADH:</b> Released from posterior pituitary when osmoreceptors in hypothalamus shrink &rarr; increases aquaporins in DCT/collecting duct &rarr; more water reabsorbed."
+        ]
+      }
+    ]
+  },
+  "3.7.1": {
+    "title": "Topic 3.7.1 · Inheritance & Chi-Squared",
+    "group": "3.7 Genetics, populations & ecosystems",
+    "spec": "Monohybrid, dihybrid, codominance, sex-linkage, autosomal linkage, epistasis, chi-squared",
+    "sections": [
+      {
+        "heading": "Genetic Crosses & Chi-Squared",
+        "points": [
+          "<b>Classic F<sub>2</sub> ratios:</b> Monohybrid 3:1; Dihybrid 9:3:3:1; Codominance 1:2:1; Epistasis (9:3:4, 12:3:1, 9:7).",
+          "<b>Autosomal linkage:</b> Genes on same chromosome inherited together unless separated by crossing over.",
+          "<b>Chi-squared (&chi;<sup>2</sup>):</b> &Sigma;[(O &minus; E)<sup>2</sup> / E]. Compare to critical value at p = 0.05 with df = n &minus; 1. If &chi;<sup>2</sup> &ge; critical, reject null hypothesis."
+        ]
+      }
+    ]
+  },
+  "3.7.2": {
+    "title": "Topic 3.7.2 · Populations & Hardy-Weinberg",
+    "group": "3.7 Genetics, populations & ecosystems",
+    "spec": "Gene pool, allele frequency, Hardy-Weinberg equations and assumptions",
+    "sections": [
+      {
+        "heading": "Hardy-Weinberg Principle",
+        "points": [
+          "<b>Equations:</b> p + q = 1 and p<sup>2</sup> + 2pq + q<sup>2</sup> = 1 (p = dominant allele, q = recessive allele, 2pq = heterozygotes).",
+          "<b>Assumptions:</b> Large population, random mating, no mutations, no selection, no migration (gene flow)."
+        ]
+      }
+    ]
+  },
+  "3.7.3": {
+    "title": "Topic 3.7.3 · Evolution & Speciation",
+    "group": "3.7 Genetics, populations & ecosystems",
+    "spec": "Directional/stabilising/disruptive selection, allopatric & sympatric speciation, genetic drift",
+    "sections": [
+      {
+        "heading": "Speciation & Genetic Drift",
+        "points": [
+          "<b>Allopatric speciation:</b> Geographical isolation &rarr; different selection pressures + mutations &rarr; reproductive isolation.",
+          "<b>Sympatric speciation:</b> Reproductive isolation within same area (e.g. behavioural, temporal, polyploidy).",
+          "<b>Genetic drift:</b> Random change in allele frequency, strongest in small populations."
+        ]
+      }
+    ]
+  },
+  "3.7.4": {
+    "title": "Topic 3.7.4 · Populations in Ecosystems & Succession",
+    "group": "3.7 Genetics, populations & ecosystems",
+    "spec": "Carrying capacity, predator-prey, quadrats, mark-release-recapture, primary/secondary succession",
+    "sections": [
+      {
+        "heading": "Ecology & Sampling",
+        "points": [
+          "<b>Mark-release-recapture (Lincoln Index):</b> N = (n<sub>1</sub> &times; n<sub>2</sub>) / m. Assumes no births/deaths/migration, marks don't harm or rub off, random mixing.",
+          "<b>Primary succession:</b> Pioneer species colonise bare rock &rarr; alter abiotic conditions (humus/soil) &rarr; seral stages &rarr; climax community (higher biodiversity &amp; biomass)."
+        ]
+      }
+    ]
+  },
+  "3.8.1": {
+    "title": "Topic 3.8.1 · Gene Mutations",
+    "group": "3.8 Control of gene expression",
+    "spec": "Substitution, deletion, insertion, frameshift, silent/missense/nonsense",
+    "sections": [
+      {
+        "heading": "Types of Mutation",
+        "points": [
+          "<b>Substitution:</b> May be silent (degenerate code), missense (different amino acid), or nonsense (premature stop codon).",
+          "<b>Deletion / Insertion:</b> Causes a <b>frameshift</b>, altering every downstream codon and amino acid sequence."
+        ]
+      }
+    ]
+  },
+  "3.8.2": {
+    "title": "Topic 3.8.2 · Regulation of Gene Expression & Cancer",
+    "group": "3.8 Control of gene expression",
+    "spec": "Stem cells (totipotent/pluripotent/multipotent/iPS), transcription factors, epigenetics, RNAi, oncogenes",
+    "sections": [
+      {
+        "heading": "Stem Cells, Epigenetics & Cancer",
+        "points": [
+          "<b>Stem cells:</b> Totipotent (any cell + placenta), Pluripotent (any body cell, e.g. ESCs), Multipotent/Unipotent (adult). <b>iPS cells</b> reprogrammed from adult somatic cells.",
+          "<b>Oestrogen:</b> Lipid-soluble &rarr; binds cytoplasmic receptor &rarr; transcription factor enters nucleus &amp; activates transcription.",
+          "<b>Epigenetics:</b> Increased DNA methylation (inhibits transcription) and decreased histone acetylation (tighter chromatin, inhibits transcription).",
+          "<b>RNAi:</b> siRNA/miRNA binds RISC and cleaves or blocks mRNA translation.",
+          "<b>Cancer:</b> Mutated proto-oncogenes &rarr; oncogenes (permanently active cell division); mutated/hypermethylated tumour suppressor genes (loss of inhibition)."
+        ]
+      }
+    ]
+  },
+  "3.8.3": {
+    "title": "Topic 3.8.3 · Genome Projects",
+    "group": "3.8 Control of gene expression",
+    "spec": "Sequencing genomes, determining proteome in prokaryotes vs eukaryotes",
+    "sections": [
+      {
+        "heading": "Genomes & Proteomes",
+        "points": [
+          "<b>Prokaryotes:</b> Few/no introns &rarr; proteome easily determined from genome.",
+          "<b>Eukaryotes:</b> Extensive non-coding DNA and regulatory sequences make predicting the proteome from the genome much harder."
+        ]
+      }
+    ]
+  },
+  "3.8.4": {
+    "title": "Topic 3.8.4 · Gene Technologies & Genetic Fingerprinting",
+    "group": "3.8 Control of gene expression",
+    "spec": "Reverse transcriptase, restriction endonucleases, in vivo cloning, PCR, DNA probes, VNTRs",
+    "sections": [
+      {
+        "heading": "Recombinant DNA, PCR & Fingerprinting",
+        "points": [
+          "<b>Obtaining DNA:</b> Reverse transcriptase (mRNA &rarr; cDNA), restriction endonucleases (sticky/blunt ends), gene machine.",
+          "<b>In vivo cloning:</b> Vector (plasmid) + DNA ligase &rarr; transformation (Ca<sup>2+</sup> + heat shock) &rarr; marker genes (antibiotic resistance/GFP).",
+          "<b>PCR (in vitro):</b> 95°C (denature), ~55°C (anneal primers), 72°C (Taq polymerase extends).",
+          "<b>Genetic fingerprinting:</b> Cut DNA with restriction enzymes &rarr; gel electrophoresis separates VNTRs by size &rarr; Southern blot &rarr; labelled DNA probes hybridise."
+        ]
+      }
+    ]
+  },
+  "RP": {
+    "title": "Required Practicals (RP1–RP12)",
+    "group": "Practical Assessment",
+    "spec": "All 12 AQA AS & A-Level Biology Required Practicals",
+    "sections": [
+      {
+        "heading": "AS Required Practicals (RP1–RP6)",
+        "points": [
+          "<b>RP1:</b> Effect of a named variable on rate of an enzyme-controlled reaction (e.g. trypsin + milk powder, colorimeter).",
+          "<b>RP2:</b> Preparation of stained squashes of cells from plant root tips; set-up and use of optical microscope to calculate mitotic index.",
+          "<b>RP3:</b> Dilution series of a solute to produce a calibration curve to identify water potential of plant tissue (potato cylinders, % change in mass).",
+          "<b>RP4:</b> Effect of a named variable on permeability of cell-surface membranes (beetroot pigment leakage, colorimeter).",
+          "<b>RP5:</b> Dissection of animal/plant gas exchange or mass transport system (heart, fish gills, insect).",
+          "<b>RP6:</b> Use of aseptic techniques to investigate effect of antimicrobial substances on microbial growth (zone of inhibition)."
+        ]
+      },
+      {
+        "heading": "A-Level Required Practicals (RP7–RP12)",
+        "points": [
+          "<b>RP7:</b> Use of chromatography to investigate pigments isolated from leaves of different plants (R<sub>f</sub> = distance moved by pigment / distance moved by solvent front).",
+          "<b>RP8:</b> Effect of ammonium hydroxide / light / DCPIP on dehydrogenase activity in chloroplasts (Hill reaction, colorimeter).",
+          "<b>RP9:</b> Effect of a named variable on rate of respiration of cultures of single-celled organisms (yeast + methylene blue / redox indicator).",
+          "<b>RP10:</b> Effect of an environmental variable on movement of an animal using a choice chamber or maze (chi-squared test).",
+          "<b>RP11:</b> Production of a dilution series of a glucose solution and use of colorimetric techniques to produce a calibration curve to identify concentration of glucose in an unknown 'urine' sample.",
+          "<b>RP12:</b> Investigation into the effect of a named environmental factor on the distribution of a given species (belt transect / random quadrats)."
+        ]
+      }
+    ]
+  }
+}

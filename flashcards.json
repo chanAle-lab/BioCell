@@ -1,0 +1,194 @@
+[
+  {
+    "id": "bio-fc-001",
+    "topicId": "3.1.1",
+    "topicTitle": "Topic 3.1.1 · Monomers and Polymers",
+    "category": "Definitions",
+    "question": "Define: Condensation reaction",
+    "answer": "A reaction that joins two molecules together with the formation of a chemical bond and involves the elimination of a molecule of water."
+  },
+  {
+    "id": "bio-fc-002",
+    "topicId": "3.1.1",
+    "topicTitle": "Topic 3.1.1 · Monomers and Polymers",
+    "category": "Definitions",
+    "question": "Define: Hydrolysis reaction",
+    "answer": "A reaction that breaks a chemical bond between two molecules and involves the use of a water molecule."
+  },
+  {
+    "id": "bio-fc-003",
+    "topicId": "3.1.2",
+    "topicTitle": "Topic 3.1.2 · Carbohydrates",
+    "category": "Biochemical Tests",
+    "question": "How do you test for a non-reducing sugar (e.g. sucrose)?",
+    "answer": "1. Confirm negative Benedict's test. 2. Boil with dilute HCl (hydrolyses glycosidic bond). 3. Neutralise with NaHCO3. 4. Heat with Benedict's reagent -> brick-red precipitate."
+  },
+  {
+    "id": "bio-fc-004",
+    "topicId": "3.1.2",
+    "topicTitle": "Topic 3.1.2 · Carbohydrates",
+    "category": "Structure & Function",
+    "question": "How is cellulose adapted for structural support in plant cell walls?",
+    "answer": "Unbranched chains of beta-glucose joined by 1,4-glycosidic bonds; adjacent chains are inverted 180 degrees and linked by many hydrogen bonds to form strong microfibrils."
+  },
+  {
+    "id": "bio-fc-005",
+    "topicId": "3.1.3",
+    "topicTitle": "Topic 3.1.3 · Lipids",
+    "category": "Biochemical Tests",
+    "question": "Describe the emulsion test for lipids.",
+    "answer": "Dissolve/shake the sample with ethanol, then pour into water. A milky-white emulsion indicates a lipid is present."
+  },
+  {
+    "id": "bio-fc-006",
+    "topicId": "3.1.4",
+    "topicTitle": "Topic 3.1.4 · Proteins & Enzymes",
+    "category": "Enzymes",
+    "question": "Compare competitive and non-competitive inhibitors.",
+    "answer": "Competitive: similar shape to substrate, binds active site (overcome by high [substrate]). Non-competitive: binds allosteric site, alters tertiary structure & active site shape (not overcome by extra substrate)."
+  },
+  {
+    "id": "bio-fc-007",
+    "topicId": "3.1.5",
+    "topicTitle": "Topic 3.1.5 · Nucleic Acids & DNA Replication",
+    "category": "Processes",
+    "question": "State the roles of DNA helicase and DNA polymerase in DNA replication.",
+    "answer": "DNA helicase breaks hydrogen bonds between complementary bases to unwind the double helix. DNA polymerase joins adjacent nucleotides via phosphodiester bonds."
+  },
+  {
+    "id": "bio-fc-008",
+    "topicId": "3.1.7",
+    "topicTitle": "Topic 3.1.7 · Water",
+    "category": "Properties",
+    "question": "Why does water have a high specific heat capacity and why is this biologically important?",
+    "answer": "Many hydrogen bonds between water molecules require lots of energy to break. This buffers temperature changes in cells and aquatic habitats."
+  },
+  {
+    "id": "bio-fc-009",
+    "topicId": "3.2.1",
+    "topicTitle": "Topic 3.2.1 · Cell Structure & Microscopy",
+    "category": "Practicals",
+    "question": "Why must the solution used in cell fractionation be cold, isotonic, and buffered?",
+    "answer": "Cold: reduces enzyme activity that could digest organelles. Isotonic: prevents osmotic lysis or shrinking of organelles. Buffered: maintains constant pH so proteins/enzymes do not denature."
+  },
+  {
+    "id": "bio-fc-010",
+    "topicId": "3.2.3",
+    "topicTitle": "Topic 3.2.3 · Transport Across Cell Membranes",
+    "category": "Processes",
+    "question": "Describe how glucose is absorbed by co-transport in the ileum.",
+    "answer": "Na+ is actively pumped out of the epithelial cell into the blood by the Na+/K+ pump. Na+ diffuses back into the cell down its gradient via a co-transporter protein, carrying glucose against its gradient. Glucose enters blood by facilitated diffusion."
+  },
+  {
+    "id": "bio-fc-011",
+    "topicId": "3.2.4",
+    "topicTitle": "Topic 3.2.4 · Cell Recognition & the Immune System",
+    "category": "Immunity",
+    "question": "Explain how an antibody's structure relates to its function.",
+    "answer": "Quaternary protein of 4 polypeptide chains with two identical variable antigen-binding sites complementary to one specific antigen, allowing agglutination of pathogens."
+  },
+  {
+    "id": "bio-fc-012",
+    "topicId": "3.3.2",
+    "topicTitle": "Topic 3.3.2 · Gas Exchange",
+    "category": "Adaptations",
+    "question": "Explain the advantage of countercurrent flow in fish gills.",
+    "answer": "Water and blood flow in opposite directions, maintaining a diffusion/concentration gradient for oxygen across the entire length of the gill lamellae."
+  },
+  {
+    "id": "bio-fc-013",
+    "topicId": "3.3.4",
+    "topicTitle": "Topic 3.3.4 · Mass Transport",
+    "category": "Physiology",
+    "question": "What is the Bohr effect?",
+    "answer": "High pCO2 (from respiration) lowers blood pH, reducing haemoglobin's affinity for oxygen and shifting the dissociation curve to the right so more O2 is unloaded at respiring tissues."
+  },
+  {
+    "id": "bio-fc-014",
+    "topicId": "3.4.2",
+    "topicTitle": "Topic 3.4.2 · DNA and Protein Synthesis",
+    "category": "Definitions",
+    "question": "What does it mean that the genetic code is degenerate and non-overlapping?",
+    "answer": "Degenerate: more than one codon can code for the same amino acid. Non-overlapping: each base is read only once as part of a single triplet."
+  },
+  {
+    "id": "bio-fc-015",
+    "topicId": "3.5.1",
+    "topicTitle": "Topic 3.5.1 · Photosynthesis",
+    "category": "Metabolism",
+    "question": "What are the products of the light-dependent reaction used in the Calvin cycle?",
+    "answer": "ATP and reduced NADP (NADPH) are used in the stroma to reduce GP (glycerate 3-phosphate) to TP (triose phosphate)."
+  },
+  {
+    "id": "bio-fc-016",
+    "topicId": "3.5.2",
+    "topicTitle": "Topic 3.5.2 · Respiration",
+    "category": "Metabolism",
+    "question": "What is the role of oxygen in aerobic respiration?",
+    "answer": "Oxygen acts as the terminal electron acceptor at the end of the electron transport chain, combining with electrons and protons (H+) to form water."
+  },
+  {
+    "id": "bio-fc-017",
+    "topicId": "3.5.4",
+    "topicTitle": "Topic 3.5.4 · Nutrient Cycles",
+    "category": "Ecology",
+    "question": "Outline the process of eutrophication.",
+    "answer": "Leached nitrates/phosphates cause an algal bloom that blocks light; submerged plants die; saprobiontic bacteria decompose dead matter and respire aerobically, depleting O2 so aquatic animals die."
+  },
+  {
+    "id": "bio-fc-018",
+    "topicId": "3.6.2",
+    "topicTitle": "Topic 3.6.2 · Nervous Coordination & Synapses",
+    "category": "Neurobiology",
+    "question": "Why does an action potential only travel in one direction?",
+    "answer": "The refractory period: voltage-gated Na+ channels behind the impulse are inactivated and cannot reopen immediately."
+  },
+  {
+    "id": "bio-fc-019",
+    "topicId": "3.6.4",
+    "topicTitle": "Topic 3.6.4 · Homeostasis",
+    "category": "Kidney",
+    "question": "How does ADH reduce water loss in the kidney?",
+    "answer": "ADH binds receptors on DCT/collecting duct cells, causing vesicles containing aquaporins to fuse with the cell-surface membrane, increasing water permeability and reabsorption by osmosis."
+  },
+  {
+    "id": "bio-fc-020",
+    "topicId": "3.7.2",
+    "topicTitle": "Topic 3.7.2 · Populations & Hardy-Weinberg",
+    "category": "Equations",
+    "question": "State the two Hardy-Weinberg equations and what 2pq represents.",
+    "answer": "p + q = 1 and p^2 + 2pq + q^2 = 1. 2pq represents the frequency of the heterozygous genotype in the population."
+  },
+  {
+    "id": "bio-fc-021",
+    "topicId": "3.8.2",
+    "topicTitle": "Topic 3.8.2 · Regulation of Gene Expression & Cancer",
+    "category": "Epigenetics",
+    "question": "How does increased DNA methylation affect gene expression?",
+    "answer": "Increased methylation of CpG islands prevents transcription factors from binding to the promoter (and attracts proteins that condense chromatin), inhibiting transcription."
+  },
+  {
+    "id": "bio-fc-022",
+    "topicId": "3.8.4",
+    "topicTitle": "Topic 3.8.4 · Gene Technologies & Genetic Fingerprinting",
+    "category": "Biotechnology",
+    "question": "State the three temperature steps of a PCR cycle and their purposes.",
+    "answer": "95°C: denature DNA (break H-bonds). ~55°C: anneal primers to complementary sequences. 72°C: Taq polymerase synthesises new DNA strands."
+  },
+  {
+    "id": "bio-fc-023",
+    "topicId": "RP",
+    "topicTitle": "Required Practicals (RP1–RP12)",
+    "category": "Practicals",
+    "question": "In RP7 (chloroplast pigment chromatography), how is Rf calculated?",
+    "answer": "Rf = distance moved by pigment / distance moved by solvent front (always <= 1.0)."
+  },
+  {
+    "id": "bio-fc-024",
+    "topicId": "RP",
+    "topicTitle": "Required Practicals (RP1–RP12)",
+    "category": "Practicals",
+    "question": "In RP3 (potato water potential), how do you determine the water potential of the potato tissue?",
+    "answer": "Plot % change in mass against solute concentration; find the concentration where % change in mass is 0% (isotonic), then read the corresponding water potential from a calibration table."
+  }
+]
