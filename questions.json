@@ -556,6 +556,43 @@
       "optionalMarks": 25,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "date": "2020-06-04",
+      "title": "AQA A-Level Biology Paper 1 (7402/1) June 2020",
+      "totalMarks": 91,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "date": "2020-06-11",
+      "title": "AQA A-Level Biology Paper 2 (7402/2) June 2020",
+      "totalMarks": 91,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "date": "2020-06-15",
+      "title": "AQA A-Level Biology Paper 3 (7402/3) June 2020",
+      "totalMarks": 78,
+      "optionalMarks": 25,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -21577,6 +21614,2048 @@
       "summary": "Essay: The importance of bonds and bonding in organisms.",
       "image": "img/2019-june-7402-3/q07-2.jpg",
       "markscheme": "img/2019-june-7402-3/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q01.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Explain the function of the membrane-bound ATP hydrolase linked to carrier protein X (Figure 1).",
+      "image": "img/2020-june-7402-1/q01-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q01-1.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q01.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Explain how the movement of Na+ out of the cell allows the absorption of glucose into the cell lining the ileum.",
+      "image": "img/2020-june-7402-1/q01-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q01-2.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q01.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "Describe and explain two features you would expect to find in a cell specialised for absorption.",
+      "image": "img/2020-june-7402-1/q01-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q01.4",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Draw phospholipids on Figure 2 to show how the SGLT1 carrier protein fits into the cell-surface membrane.",
+      "image": "img/2020-june-7402-1/q01-4.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q01.5",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 5,
+      "marks": 2,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Describe how amino acids join to form a polypeptide so there is always NH2 at one end and COOH at the other (Figure 2).",
+      "image": "img/2020-june-7402-1/q01-5.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q01-5.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q1-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q02.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 6,
+      "marks": 3,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "Use your knowledge of lipid digestion to explain the differences in the results for samples A and B in Table 1.",
+      "image": "img/2020-june-7402-1/q02-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q02.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Explain why the scientist immediately heated the collected samples to 70 degrees C for 10 minutes.",
+      "image": "img/2020-june-7402-1/q02-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q02.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 7,
+      "marks": 3,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "Describe the role of micelles in the absorption of fats into the cells lining the ileum.",
+      "image": "img/2020-june-7402-1/q02-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q03.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 8,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Use evidence from Figure 3 to explain why the rate of blood flow has not yet started to increase in the aorta at P.",
+      "image": "img/2020-june-7402-1/q03-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q03-1.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q03.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Explain how the small increase in pressure and rate of blood flow in the aorta at Q (Figure 3) happens and its importance.",
+      "image": "img/2020-june-7402-1/q03-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q03-2.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q03.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Describe one similarity and one difference between right ventricle pressure and left ventricle pressure in Figure 3.",
+      "image": "img/2020-june-7402-1/q03-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q03-3.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q03.4",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 9,
+      "marks": 1,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Use information from Figure 3 to calculate the heart rate of this dog.",
+      "image": "img/2020-june-7402-1/q03-4.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q03-4.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q04.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 1,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Tick the most appropriate volumes to make up 100 cm^3 of extraction solvent E in a 70:30:1 ratio.",
+      "image": "img/2020-june-7402-1/q04-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q04.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 10,
+      "marks": 2,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Name two other variables the student should have kept constant during the blueberry anthocyanin extraction.",
+      "image": "img/2020-june-7402-1/q04-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q04.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 11,
+      "marks": 4,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Use your knowledge of membrane structure to explain the absorbance results in Figure 4.",
+      "image": "img/2020-june-7402-1/q04-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q04.4",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 12,
+      "marks": 3,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Describe a method to prepare colour standards and use them to determine total anthocyanin extracted without a colorimeter.",
+      "image": "img/2020-june-7402-1/q04-4.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q05.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.1.5.2",
+      "topics": [
+        "3.1.5.2"
+      ],
+      "summary": "Describe the role of DNA polymerase in the semi-conservative replication of DNA.",
+      "image": "img/2020-june-7402-1/q05-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q05.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Use Figure 5 to calculate the percentage decrease in time for 25% of cells with cyclin D vs without cyclin D to undergo DNA replication.",
+      "image": "img/2020-june-7402-1/q05-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q05-2.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q5-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q05.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.1.6",
+      "topics": [
+        "3.1.6"
+      ],
+      "summary": "Describe how an enzyme can be phosphorylated.",
+      "image": "img/2020-june-7402-1/q05-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q05.4",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Use Figure 5 to suggest why higher than normal concentrations of cyclin D could result in a tumour.",
+      "image": "img/2020-june-7402-1/q05-4.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q05-4.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q5-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q06.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 16,
+      "marks": 3,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Explain why death of alveolar epithelium cells reduces gas exchange in human lungs.",
+      "image": "img/2020-june-7402-1/q06-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q06.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 17,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Use suitable calculations from Figure 6 to justify whether the relationship between particulate matter and dead cells is linear.",
+      "image": "img/2020-june-7402-1/q06-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q06-2.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q07.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.1.2",
+      "topics": [
+        "3.1.2"
+      ],
+      "summary": "Give the chemical formula for alpha-gal and describe how it is formed from two galactose molecules.",
+      "image": "img/2020-june-7402-1/q07-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q07.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 18,
+      "marks": 3,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Draw a labelled diagram of an antibody and identify the specific alpha-gal binding site.",
+      "image": "img/2020-june-7402-1/q07-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q07.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 19,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Suggest how one antibody can be specific to tick protein and to alpha-gal.",
+      "image": "img/2020-june-7402-1/q07-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q07.4",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 20,
+      "marks": 3,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Consider whether Figure 7 supports the hypothesis that an earlier immune response to tick protein causes the allergic reaction.",
+      "image": "img/2020-june-7402-1/q07-4.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q07-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q08.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 21,
+      "marks": 3,
+      "specRef": "3.4.1",
+      "topics": [
+        "3.4.1"
+      ],
+      "summary": "Complete Table 2 to show three differences between DNA in the nucleus of a plant cell and DNA in a prokaryotic cell.",
+      "image": "img/2020-june-7402-1/q08-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q08.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 21,
+      "marks": 2,
+      "specRef": "3.4.1",
+      "topics": [
+        "3.4.1"
+      ],
+      "summary": "Define non-coding base sequences and describe where non-coding multiple repeats are positioned in the genome.",
+      "image": "img/2020-june-7402-1/q08-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q08.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 22,
+      "marks": 1,
+      "specRef": "3.4.5",
+      "topics": [
+        "3.4.5"
+      ],
+      "summary": "Use the information in Table 3 to complete the phylogenetic tree shown in Figure 8.",
+      "image": "img/2020-june-7402-1/q08-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q08-3.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q8-table3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q08.4",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.4.5",
+      "topics": [
+        "3.4.5"
+      ],
+      "summary": "Use Table 3 to evaluate how a 66% similarity within five individuals of species T affects the validity of the phylogenetic tree.",
+      "image": "img/2020-june-7402-1/q08-4.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q08-4.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q8-table3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q09.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 25,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Calculate the mean stomatal density per mm^2 in the three fields of view in Figure 9.",
+      "image": "img/2020-june-7402-1/q09-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q09-1.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q9-fig9.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q09.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 26,
+      "marks": 2,
+      "specRef": "3.4.7",
+      "topics": [
+        "3.4.7"
+      ],
+      "summary": "Give a null hypothesis for the stomatal density investigation and name an appropriate statistical test (Figure 10).",
+      "image": "img/2020-june-7402-1/q09-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q09-2.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q9-fig10.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q09.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 27,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Use Figure 10 to calculate the mean rate of change in stomatal density from 1910 to 2000 per 10-year period.",
+      "image": "img/2020-june-7402-1/q09-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q09-3.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q9-fig10.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q09.4",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 27,
+      "marks": 4,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Evaluate the journalist's suggestion from Figure 10 that future increases in atmospheric CO2 could result in less transpiration.",
+      "image": "img/2020-june-7402-1/q09-4.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q09-4.png",
+      "figures": [
+        "img/2020-june-7402-1/fig-q9-fig10.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-1-q10.1",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 28,
+      "marks": 5,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Describe how mRNA is formed by transcription in eukaryotes.",
+      "image": "img/2020-june-7402-1/q10-1.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q10-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q10.2",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 29,
+      "marks": 6,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Describe how a polypeptide is formed by translation of mRNA.",
+      "image": "img/2020-june-7402-1/q10-2.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q10-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-1-q10.3",
+      "paper": "2020-june-7402-1",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 30,
+      "marks": 4,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Define gene mutation and explain how a gene mutation can have no effect or a positive effect on an individual.",
+      "image": "img/2020-june-7402-1/q10-3.jpg",
+      "markscheme": "img/2020-june-7402-1/ms/q10-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q01.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.6.3",
+      "topics": [
+        "3.6.3"
+      ],
+      "summary": "Suggest and explain how the interaction between the muscles labelled in Figure 1 could cause the pupil to constrict.",
+      "image": "img/2020-june-7402-2/q01-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q01-1.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-2-q01.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 3,
+      "specRef": "3.6.1.2",
+      "topics": [
+        "3.6.1.2"
+      ],
+      "summary": "Explain how the fovea enables an eagle to see its prey in detail without referring to colour vision.",
+      "image": "img/2020-june-7402-2/q01-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q01.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.6.1.2",
+      "topics": [
+        "3.6.1.2"
+      ],
+      "summary": "Calculate the area of the human fovea as a percentage of the area of the retina.",
+      "image": "img/2020-june-7402-2/q01-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q01.4",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 3,
+      "specRef": "3.6.1.2",
+      "topics": [
+        "3.6.1.2"
+      ],
+      "summary": "Explain how a high density of rod cells enables an owl to hunt its prey at night without referring to rhodopsin.",
+      "image": "img/2020-june-7402-2/q01-4.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q02.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 5,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Explain why hydrophobic steroid hormones can rapidly enter a cell by passing through its cell-surface membrane.",
+      "image": "img/2020-june-7402-2/q02-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q02.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 5,
+      "marks": 2,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Suggest and explain why testosterone binds to a specific androgen receptor (AR).",
+      "image": "img/2020-june-7402-2/q02-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q02.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 6,
+      "marks": 2,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Suggest how the androgen receptor could stimulate gene expression.",
+      "image": "img/2020-june-7402-2/q02-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q02.4",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 6,
+      "marks": 3,
+      "specRef": "3.4.7",
+      "topics": [
+        "3.4.7"
+      ],
+      "summary": "State what can be concluded from the statistical P-value data in Table 1 on CAG repeats and prostate cancer.",
+      "image": "img/2020-june-7402-2/q02-4.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q03.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Other than the thermometer, explain how two features of the calorimeter in Figure 2 enable a valid measurement.",
+      "image": "img/2020-june-7402-2/q03-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q03-1.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-2-q03.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 8,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Calculate the heat energy released in kJ per g of biomass from the calorimeter measurements.",
+      "image": "img/2020-june-7402-2/q03-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q03.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 8,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Suggest two reasons why most of the light falling on producers in natural ecosystems is not used in photosynthesis.",
+      "image": "img/2020-june-7402-2/q03-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q03.4",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "Name the two products of the light-dependent reaction that are required for the light-independent reaction.",
+      "image": "img/2020-june-7402-2/q03-4.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q03.5",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Calculate in standard form the number of Chlorella cells in the culture after 24 hours.",
+      "image": "img/2020-june-7402-2/q03-5.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q04.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 3,
+      "specRef": "3.6.3",
+      "topics": [
+        "3.6.3"
+      ],
+      "summary": "Explain the banding pattern of a single sarcomere shown in Figure 3.",
+      "image": "img/2020-june-7402-2/q04-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q04.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 11,
+      "marks": 4,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Describe how you could produce a calibration curve for creatinine using a colorimeter.",
+      "image": "img/2020-june-7402-2/q04-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q04.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 12,
+      "marks": 2,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Describe how you would determine the concentration of creatinine in a urine sample using your calibration curve.",
+      "image": "img/2020-june-7402-2/q04-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q05",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05",
+      "questionNumber": "05",
+      "page": 13,
+      "marks": 5,
+      "specRef": "3.6.2.2",
+      "topics": [
+        "3.6.2.2"
+      ],
+      "summary": "Describe the sequence of events involved in transmission across a cholinergic synapse.",
+      "image": "img/2020-june-7402-2/q05.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q05.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q06.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Give two causes of genetic variation in organisms other than mutation.",
+      "image": "img/2020-june-7402-2/q06-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q06.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 14,
+      "marks": 1,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Name the relationship between the two alleles that code for flower colour.",
+      "image": "img/2020-june-7402-2/q06-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q06.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 15,
+      "marks": 3,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Complete the genetic diagram for a dwarf, pink-flowered plant crossed with a heterozygous tall, white-flowered plant.",
+      "image": "img/2020-june-7402-2/q06-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q06.4",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Use the Hardy-Weinberg equation to calculate the percentage of pink-flowered plants given 9% red-flowered plants.",
+      "image": "img/2020-june-7402-2/q06-4.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q06-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q07.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 16,
+      "marks": 1,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Calculate how many times greater the mean growth rate per day was using 37.5 g potassium nitrate than ammonium sulfate (Figure 4).",
+      "image": "img/2020-june-7402-2/q07-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q07-1.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q7-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-2-q07.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 17,
+      "marks": 5,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Using all the information in Figure 4, evaluate the effect on plant growth of adding the different fertilisers to the soil.",
+      "image": "img/2020-june-7402-2/q07-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q07-2.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q7-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-2-q07.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 17,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Suggest what the scientist should do to ensure that all water has been removed when determining dry mass.",
+      "image": "img/2020-june-7402-2/q07-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q08.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Suggest how Alport syndrome (AS) could cause proteinuria.",
+      "image": "img/2020-june-7402-2/q08-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q08.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 18,
+      "marks": 1,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Tick where a sex-linked mutation would be located in a male with Alport syndrome.",
+      "image": "img/2020-june-7402-2/q08-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q08.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 19,
+      "marks": 4,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "Using all the information in Table 2, evaluate the use of stem cells to treat Alport syndrome in humans.",
+      "image": "img/2020-june-7402-2/q08-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q08-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q08.4",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 20,
+      "marks": 2,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "Suggest how the transplanted stem cells reduce proteinuria.",
+      "image": "img/2020-june-7402-2/q08-4.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q08-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q09.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 22,
+      "marks": 2,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Describe how enzymes could be used to insert the GH gene into a plasmid.",
+      "image": "img/2020-june-7402-2/q09-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q09.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 22,
+      "marks": 2,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Suggest and explain how delayed insertion of the GH gene could produce offspring without the desired characteristic.",
+      "image": "img/2020-june-7402-2/q09-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q09.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.4.7",
+      "topics": [
+        "3.4.7"
+      ],
+      "summary": "Using Table 3, state what can be concluded about the effectiveness of the GH gene on zebrafish growth.",
+      "image": "img/2020-june-7402-2/q09-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q09-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q09.4",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.4.7",
+      "topics": [
+        "3.4.7"
+      ],
+      "summary": "Explain how two features of the investigation design helped ensure the validity of conclusions.",
+      "image": "img/2020-june-7402-2/q09-4.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q09-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-2-q10.1",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 24,
+      "marks": 3,
+      "specRef": "3.5.2",
+      "topics": [
+        "3.5.2"
+      ],
+      "summary": "Suggest and explain how black bears can hibernate for up to 7 months without food or water (lines 1-2).",
+      "image": "img/2020-june-7402-2/q10-1.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q10-1.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-2-q10.2",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 25,
+      "marks": 4,
+      "specRef": "3.6.1.3",
+      "topics": [
+        "3.6.1.3"
+      ],
+      "summary": "Use your knowledge of nervous control of heart rate to describe how decreased heart rate and metabolic rate are linked (lines 3-5).",
+      "image": "img/2020-june-7402-2/q10-2.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q10-2.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-2-q10.3",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 25,
+      "marks": 2,
+      "specRef": "3.5.2",
+      "topics": [
+        "3.5.2"
+      ],
+      "summary": "Suggest and explain how uncoupling proteins help maintain a constant body temperature during hibernation (lines 6-7).",
+      "image": "img/2020-june-7402-2/q10-3.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q10-3.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-2-q10.4",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.4",
+      "questionNumber": "10.4",
+      "page": 26,
+      "marks": 2,
+      "specRef": "3.7.3",
+      "topics": [
+        "3.7.3"
+      ],
+      "summary": "Suggest and explain how climatic change has reduced the survival rate of snowshoe hares in mountain habitats (lines 11-13).",
+      "image": "img/2020-june-7402-2/q10-4.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q10-4.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-2-q10.5",
+      "paper": "2020-june-7402-2",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.5",
+      "questionNumber": "10.5",
+      "page": 26,
+      "marks": 4,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Explain how moulting at different times could ensure the survival of snowshoe hare populations (line 15).",
+      "image": "img/2020-june-7402-2/q10-5.jpg",
+      "markscheme": "img/2020-june-7402-2/ms/q10-5.png",
+      "figures": [
+        "img/2020-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-3-q01.1",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "specRef": "3.4.5",
+      "topics": [
+        "3.4.5"
+      ],
+      "summary": "Suggest three possible limitations of the guppy mate-choice investigation (Figure 1).",
+      "image": "img/2020-june-7402-3/q01-1.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q01-1.png",
+      "figures": [
+        "img/2020-june-7402-3/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-3-q01.2",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 3,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Suggest and explain the advantage of only large-brained female guppies being attracted to bright-coloured males.",
+      "image": "img/2020-june-7402-3/q01-2.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q01.3",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 3,
+      "specRef": "3.7.3",
+      "topics": [
+        "3.7.3"
+      ],
+      "summary": "Describe how the behaviour of female guppies could result in sympatric speciation.",
+      "image": "img/2020-june-7402-3/q01-3.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q02.1",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Name the type of competition between livestock and ibex.",
+      "image": "img/2020-june-7402-3/q02-1.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q02.2",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 5,
+      "marks": 3,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Using all the information in Table 1, suggest and explain three actions farmers could take to balance ibex conservation and livestock.",
+      "image": "img/2020-june-7402-3/q02-2.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q02-2.png",
+      "figures": [
+        "img/2020-june-7402-3/fig-q2-table1.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-3-q03.1",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 2,
+      "specRef": "3.8.1",
+      "topics": [
+        "3.8.1"
+      ],
+      "summary": "Suggest and explain how Ranaviruses became able to infect other species of frog.",
+      "image": "img/2020-june-7402-3/q03-1.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q03.2",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 1,
+      "specRef": "3.8.4.3",
+      "topics": [
+        "3.8.4.3"
+      ],
+      "summary": "Name two techniques scientists may have used when analysing viral DNA to determine they were closely related.",
+      "image": "img/2020-june-7402-3/q03-2.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q03.3",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 6,
+      "marks": 2,
+      "specRef": "3.8.3",
+      "topics": [
+        "3.8.3"
+      ],
+      "summary": "Explain how determining the genome of the viruses could allow scientists to develop a vaccine.",
+      "image": "img/2020-june-7402-3/q03-3.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q03.4",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 3,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Describe how the B lymphocytes of a frog would respond to vaccination against Ranavirus.",
+      "image": "img/2020-june-7402-3/q03-4.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q04.1",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 8,
+      "marks": 2,
+      "specRef": "3.1.1",
+      "topics": [
+        "3.1.1"
+      ],
+      "summary": "Use suitable calculations from Table 2 to determine whether the journalist's statement about sodium RDA is true for both medicines.",
+      "image": "img/2020-june-7402-3/q04-1.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q04.2",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.4.7",
+      "topics": [
+        "3.4.7"
+      ],
+      "summary": "Give two factors that should have been the same and one factor different for each pair of patients.",
+      "image": "img/2020-june-7402-3/q04-2.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q04.3",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.4.7",
+      "topics": [
+        "3.4.7"
+      ],
+      "summary": "Calculate how many of the control patients had hypertension.",
+      "image": "img/2020-june-7402-3/q04-3.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q04.4",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 10,
+      "marks": 3,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Use your knowledge of water potential to suggest how high sodium concentrations in medicines could affect blood volume.",
+      "image": "img/2020-june-7402-3/q04-4.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q05.1",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 11,
+      "marks": 2,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "Calculate the mean number of people who died of throat cancer per month in 2016.",
+      "image": "img/2020-june-7402-3/q05-1.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q05.2",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 11,
+      "marks": 3,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "Suggest how EGCG allows the production of mRNA from the tumour suppressor gene in daughter cells.",
+      "image": "img/2020-june-7402-3/q05-2.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q05.3",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 12,
+      "marks": 3,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "Suggest three reasons why the reporter's conclusion that drinking green tea could cure cancer might not be valid.",
+      "image": "img/2020-june-7402-3/q05-3.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q06.1",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Describe the advantage of the Bohr effect during intense exercise.",
+      "image": "img/2020-june-7402-3/q06-1.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q06.2",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Use Figure 3 to determine the time when the cyclist reached VT and calculate the ratio of pO2 to pCO2.",
+      "image": "img/2020-june-7402-3/q06-2.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q06-2.png",
+      "figures": [
+        "img/2020-june-7402-3/fig-q6-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-3-q06.3",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Suggest and explain one physiological change causing pCO2 in breathed-out air not to show a large increase during exercise.",
+      "image": "img/2020-june-7402-3/q06-3.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q06-3.png",
+      "figures": [
+        "img/2020-june-7402-3/fig-q6-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-3-q06.4",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 16,
+      "marks": 1,
+      "specRef": "3.6.3",
+      "topics": [
+        "3.6.3"
+      ],
+      "summary": "Tick why ATP can only be made for a limited time at more than 80% maximum muscle effort (Figure 4).",
+      "image": "img/2020-june-7402-3/q06-4.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q06-4.png",
+      "figures": [
+        "img/2020-june-7402-3/fig-q6-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-3-q06.5",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.5",
+      "questionNumber": "06.5",
+      "page": 17,
+      "marks": 4,
+      "specRef": "3.6.3",
+      "topics": [
+        "3.6.3"
+      ],
+      "summary": "Use Figure 4 to justify why professional athletes are not allowed to take GW1516.",
+      "image": "img/2020-june-7402-3/q06-5.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q06-5.png",
+      "figures": [
+        "img/2020-june-7402-3/fig-q6-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2020-june-7402-3-q06.6",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.6",
+      "questionNumber": "06.6",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Suggest how overuse of EPO can increase the risk of a heart attack.",
+      "image": "img/2020-june-7402-3/q06-6.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q06-6.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q06.7",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.7",
+      "questionNumber": "06.7",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Give two reasons why allowing male cyclists to use EPO until their haematocrit is 50% is not valid.",
+      "image": "img/2020-june-7402-3/q06-7.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q06-7.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q07.1",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 19,
+      "marks": 25,
+      "specRef": "Essay",
+      "topics": [
+        "Essay"
+      ],
+      "summary": "Essay: The functions of enzymes and their importance in organisms.",
+      "image": "img/2020-june-7402-3/q07-1.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2020-june-7402-3-q07.2",
+      "paper": "2020-june-7402-3",
+      "year": 2020,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 19,
+      "marks": 25,
+      "specRef": "Essay",
+      "topics": [
+        "Essay"
+      ],
+      "summary": "Essay: The causes and importance of variation and diversity in organisms.",
+      "image": "img/2020-june-7402-3/q07-2.jpg",
+      "markscheme": "img/2020-june-7402-3/ms/q07-2.png",
       "figures": []
     }
   ]
