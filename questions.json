@@ -197,7 +197,7 @@
     },
     {
       "id": "RP",
-      "name": "Required Practicals (RP1–RP12)",
+      "name": "Required Practicals (RP1\u2013RP12)",
       "group": "Practical Assessment"
     }
   ],
@@ -237,7 +237,7 @@
       "unit": "7401/1",
       "level": "AS",
       "date": "2016-05-26",
-      "title": "7401/1 — AS Paper 1 (June 2016)",
+      "title": "7401/1 \u2014 AS Paper 1 (June 2016)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -249,7 +249,7 @@
       "unit": "7401/2R",
       "level": "AS",
       "date": "2016-06-07",
-      "title": "7401/2R — AS Paper 2 (June 2016)",
+      "title": "7401/2R \u2014 AS Paper 2 (June 2016)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -261,7 +261,7 @@
       "unit": "7401/1",
       "level": "AS",
       "date": "2017-05-25",
-      "title": "7401/1 — AS Paper 1 (June 2017)",
+      "title": "7401/1 \u2014 AS Paper 1 (June 2017)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -273,7 +273,7 @@
       "unit": "7401/2",
       "level": "AS",
       "date": "2017-06-06",
-      "title": "7401/2 — AS Paper 2 (June 2017)",
+      "title": "7401/2 \u2014 AS Paper 2 (June 2017)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -285,7 +285,7 @@
       "unit": "7401/1",
       "level": "AS",
       "date": "2018-05-24",
-      "title": "7401/1 — AS Paper 1 (June 2018)",
+      "title": "7401/1 \u2014 AS Paper 1 (June 2018)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -297,7 +297,7 @@
       "unit": "7401/2",
       "level": "AS",
       "date": "2018-06-04",
-      "title": "7401/2 — AS Paper 2 (June 2018)",
+      "title": "7401/2 \u2014 AS Paper 2 (June 2018)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -309,7 +309,7 @@
       "unit": "7401/1",
       "level": "AS",
       "date": "2019-05-21",
-      "title": "7401/1 — AS Paper 1 (June 2019)",
+      "title": "7401/1 \u2014 AS Paper 1 (June 2019)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -321,7 +321,7 @@
       "unit": "7401/2",
       "level": "AS",
       "date": "2019-05-24",
-      "title": "7401/2 — AS Paper 2 (June 2019)",
+      "title": "7401/2 \u2014 AS Paper 2 (June 2019)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -333,7 +333,7 @@
       "unit": "7401/1",
       "level": "AS",
       "date": "2020-05-19",
-      "title": "7401/1 — AS Paper 1 (June 2020)",
+      "title": "7401/1 \u2014 AS Paper 1 (June 2020)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -345,7 +345,7 @@
       "unit": "7401/2",
       "level": "AS",
       "date": "2020-05-22",
-      "title": "7401/2 — AS Paper 2 (June 2020)",
+      "title": "7401/2 \u2014 AS Paper 2 (June 2020)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -357,7 +357,7 @@
       "unit": "7401/1",
       "level": "AS",
       "date": "2021-06-01",
-      "title": "7401/1 — AS Paper 1 (June 2021)",
+      "title": "7401/1 \u2014 AS Paper 1 (June 2021)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -369,7 +369,7 @@
       "unit": "7401/2",
       "level": "AS",
       "date": "2021-06-01",
-      "title": "7401/2 — AS Paper 2 (June 2021)",
+      "title": "7401/2 \u2014 AS Paper 2 (June 2021)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -381,7 +381,7 @@
       "unit": "7401/1",
       "level": "AS",
       "date": "2022-06-01",
-      "title": "7401/1 — AS Paper 1 (June 2022)",
+      "title": "7401/1 \u2014 AS Paper 1 (June 2022)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -393,7 +393,7 @@
       "unit": "7401/2",
       "level": "AS",
       "date": "2022-06-01",
-      "title": "7401/2 — AS Paper 2 (June 2022)",
+      "title": "7401/2 \u2014 AS Paper 2 (June 2022)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -405,7 +405,7 @@
       "unit": "7401/1",
       "level": "AS",
       "date": "2016-01-01",
-      "title": "7401/1 — AS Paper 1 (Specimen Set 2)",
+      "title": "7401/1 \u2014 AS Paper 1 (Specimen Set 2)",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -417,7 +417,31 @@
       "unit": "7401/2",
       "level": "AS",
       "date": "2016-01-01",
-      "title": "7401/2 — AS Paper 2 (Specimen Set 2)",
+      "title": "7401/2 \u2014 AS Paper 2 (Specimen Set 2)",
+      "totalMarks": 75,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "date": "2014-09-23",
+      "title": "AQA AS Biology Paper 2 (7401/2) Specimen Set 1",
+      "totalMarks": 75,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "date": "2014-09-23",
+      "title": "AQA AS Biology Paper 1 (7401/1) Specimen Set 1",
       "totalMarks": 75,
       "pdf": null,
       "ms": null
@@ -1725,7 +1749,7 @@
       "skills": [
         "maths"
       ],
-      "summary": "Calculate the ratio of mean phosphate mass at 5 °C to 25 °C after 9 weeks of chilling (Figure 6).",
+      "summary": "Calculate the ratio of mean phosphate mass at 5 \u00b0C to 25 \u00b0C after 9 weeks of chilling (Figure 6).",
       "specRef": "3.1.8",
       "image": "img/2016-june-7401-2r/q05-3.jpg",
       "markscheme": "img/2016-june-7401-2r/ms/q05-3.png",
@@ -4734,7 +4758,7 @@
       "skills": [
         "analysis"
       ],
-      "summary": "Suggest why the scientist used µmol g-1 h-1 for the rate of oxygen uptake.",
+      "summary": "Suggest why the scientist used \u00b5mol g-1 h-1 for the rate of oxygen uptake.",
       "specRef": "3.3.1",
       "image": "img/2018-june-7401-2/q03-3.jpg",
       "markscheme": "img/2018-june-7401-2/ms/q03-3.png",
@@ -4847,7 +4871,7 @@
       "skills": [
         "analysis"
       ],
-      "summary": "Explain the shape of the monosaccharide uptake curve in Figure 1 between A–B and C–D.",
+      "summary": "Explain the shape of the monosaccharide uptake curve in Figure 1 between A\u2013B and C\u2013D.",
       "specRef": "3.2.3",
       "image": "img/2018-june-7401-2/q04-2.jpg",
       "markscheme": "img/2018-june-7401-2/ms/q04-2.png",
@@ -13089,6 +13113,1510 @@
       "image": "img/2016-specimen-set2-7401-2/q10-2.jpg",
       "markscheme": "img/2016-specimen-set2-7401-2/ms/q10-2.png",
       "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q01.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Explain why a student preparing an onion root tip squash pushes down hard on the cover slip but not sideways.",
+      "image": "img/2014-specimen-7401-2/q01-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q01.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "State whether the cell in Figure 1 is in anaphase of mitosis and give two reasons.",
+      "image": "img/2014-specimen-7401-2/q01-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q01.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Calculate how many minutes onion root tip cells spend in anaphase given 6 of 200 cells and a 16-hour cycle.",
+      "image": "img/2014-specimen-7401-2/q01-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q02.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Calculate the rate of uptake of sodium ions by the tissue in flask G during the first 20 minutes.",
+      "image": "img/2014-specimen-7401-2/q02-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q02-1.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q02.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 5,
+      "marks": 4,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Explain how the information and Figure 2 support the conclusion that cells in flask G took up sodium ions by active transport.",
+      "image": "img/2014-specimen-7401-2/q02-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q02-2.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q02.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Explain why the curve for flask F in Figure 2 levelled off after 20 minutes.",
+      "image": "img/2014-specimen-7401-2/q02-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q02-3.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q03.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 1,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Name the process of protein synthesis shown in Figure 3.",
+      "image": "img/2014-specimen-7401-2/q03-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q03-1.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q03.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 1,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Identify molecule Q shown in Figure 3.",
+      "image": "img/2014-specimen-7401-2/q03-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q03-2.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q03.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 6,
+      "marks": 2,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Give the complementary DNA base sequence and missing anticodon for the first codon AUG in Figure 3.",
+      "image": "img/2014-specimen-7401-2/q03-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q03-3.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q03.4",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 1,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Describe how two amino acids such as aspartic acid and proline differ from one another.",
+      "image": "img/2014-specimen-7401-2/q03-4.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q03-4.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q3-table1.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q03.5",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 7,
+      "marks": 3,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Explain why deletion of the sixth base (G) in Figure 3 changes the protein whereas substitution does not.",
+      "image": "img/2014-specimen-7401-2/q03-5.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q03-5.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q3-fig3.jpg",
+        "img/2014-specimen-7401-2/fig-q3-table1.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q04.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 8,
+      "marks": 4,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Describe and explain the mechanism that causes forced expiration.",
+      "image": "img/2014-specimen-7401-2/q04-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q04.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 9,
+      "marks": 1,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Calculate the percentage decrease in FEV for group B compared with group A using Figure 4.",
+      "image": "img/2014-specimen-7401-2/q04-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q04-2.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q04.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 9,
+      "marks": 4,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Explain how an asthma attack caused the drop in mean FEV shown for group B in Figure 4.",
+      "image": "img/2014-specimen-7401-2/q04-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q04-3.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q05.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 11,
+      "marks": 2,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "Suggest two non-ethical reasons why scientists used kittens as model organisms for milk digestion.",
+      "image": "img/2014-specimen-7401-2/q05-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q05.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 11,
+      "marks": 2,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "Explain why monitoring the pH of the mixture could show whether cat's milk contained bile-activated lipase.",
+      "image": "img/2014-specimen-7401-2/q05-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q05.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 13,
+      "marks": 3,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "Conclude from Figure 5 the importance of bile-activated lipase in breast milk.",
+      "image": "img/2014-specimen-7401-2/q05-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q05-3.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q5-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q06.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 14,
+      "marks": 1,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Give the species richness of the heathland plant sample in Table 2.",
+      "image": "img/2014-specimen-7401-2/q06-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q06-1.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q6-table2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q06.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Calculate the index of diversity of the heathland plant sample in Table 2.",
+      "image": "img/2014-specimen-7401-2/q06-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q06-2.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q6-table2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q06.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Suggest how the student would obtain data to give a more precise index of diversity for the habitat.",
+      "image": "img/2014-specimen-7401-2/q06-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q07.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 17,
+      "marks": 1,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Explain whether Figure 6 allows you to conclude the Bt-resistant insect pest in 2002-2005 was the same species.",
+      "image": "img/2014-specimen-7401-2/q07-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q07-1.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q7-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q07.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 17,
+      "marks": 4,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Evaluate the farmer's claim that Bt crops caused a mutation that spread to other insect species.",
+      "image": "img/2014-specimen-7401-2/q07-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q07-2.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q7-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q07.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 18,
+      "marks": 3,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Explain why there was a time lag between introducing Bt crops and the appearance of the first resistant species.",
+      "image": "img/2014-specimen-7401-2/q07-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q07-3.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q7-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q08.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 21,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Explain why monoclonal antibody A attaches only to the protein found in species of Plasmodium.",
+      "image": "img/2014-specimen-7401-2/q08-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q08-1.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q8-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q08.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 21,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Explain why antibody B is important if the malaria test shows a person is not infected.",
+      "image": "img/2014-specimen-7401-2/q08-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q08-2.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q8-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q08.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 22,
+      "marks": 4,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "State what can be concluded from the malaria test strip result in Figure 8 and explain how.",
+      "image": "img/2014-specimen-7401-2/q08-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q08-3.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q8-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q09.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 23,
+      "marks": 3,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Describe how a high hydrostatic pressure is produced in the leaves for translocation.",
+      "image": "img/2014-specimen-7401-2/q09-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q09.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 24,
+      "marks": 2,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Explain why it was important to keep the rate of photosynthesis constant during the PCMBS translocation experiment.",
+      "image": "img/2014-specimen-7401-2/q09-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q09-2.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q9-fig9.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q09.3",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 25,
+      "marks": 2,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Explain how Figure 9 supports the conclusion that some translocation occurs in the spaces in cell walls.",
+      "image": "img/2014-specimen-7401-2/q09-3.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q09-3.png",
+      "figures": [
+        "img/2014-specimen-7401-2/fig-q9-fig9.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-2-q10.1",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 26,
+      "marks": 5,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Describe how giving a vaccine leads to the production of antibodies against a pathogen.",
+      "image": "img/2014-specimen-7401-2/q10-1.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q10-1.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-2-q10.2",
+      "paper": "2014-specimen-7401-2",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 27,
+      "marks": 5,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Describe the differences between active and passive immunity.",
+      "image": "img/2014-specimen-7401-2/q10-2.jpg",
+      "markscheme": "img/2014-specimen-7401-2/ms/q10-2.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q01.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Describe how to use cell fractionation to isolate chloroplasts from leaf tissue.",
+      "image": "img/2014-specimen-7401-1/q01-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q01.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.2.1.1",
+      "topics": [
+        "3.2.1.1"
+      ],
+      "summary": "Name the parts of the chloroplast labelled A and B in Figure 1.",
+      "image": "img/2014-specimen-7401-1/q01-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q01-2.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q01.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 1,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Calculate the length of the chloroplast shown in Figure 1.",
+      "image": "img/2014-specimen-7401-1/q01-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q01-3.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q01.4",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 1,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Name two structures in a eukaryotic cell that cannot be identified using an optical microscope.",
+      "image": "img/2014-specimen-7401-1/q01-4.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q02.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Give one other factor the technician would have controlled in the enzyme temperature investigation.",
+      "image": "img/2014-specimen-7401-1/q02-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q02-1.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q02.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Calculate the rate of reaction at 25 \u00b0C from Figure 2.",
+      "image": "img/2014-specimen-7401-1/q02-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q02-2.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q02.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 5,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Describe and explain the differences between the 37 \u00b0C and 25 \u00b0C curves in Figure 2.",
+      "image": "img/2014-specimen-7401-1/q02-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q02-3.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q03.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 3,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Describe and explain the appearance of one of the chromosomes in cell X in Figure 3.",
+      "image": "img/2014-specimen-7401-1/q03-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q03-1.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q03.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Describe what has happened during division 1 of meiosis in Figure 3.",
+      "image": "img/2014-specimen-7401-1/q03-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q03-2.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q03.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 7,
+      "marks": 1,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Identify one event that occurred during division 2 but not during division 1.",
+      "image": "img/2014-specimen-7401-1/q03-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q03-3.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q03.4",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Name two ways in which meiosis produces genetic variation.",
+      "image": "img/2014-specimen-7401-1/q03-4.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q04.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 8,
+      "marks": 1,
+      "specRef": "3.1.5.1",
+      "topics": [
+        "3.1.5.1"
+      ],
+      "summary": "Name part F of each DNA nucleotide shown in Figure 4.",
+      "image": "img/2014-specimen-7401-1/q04-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q04-1.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q04.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 8,
+      "marks": 2,
+      "specRef": "3.1.5.1",
+      "topics": [
+        "3.1.5.1"
+      ],
+      "summary": "Determine the percentages of thymine and guanine in a DNA sample containing 18% adenine.",
+      "image": "img/2014-specimen-7401-1/q04-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q04.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 9,
+      "marks": 1,
+      "specRef": "3.1.5.2",
+      "topics": [
+        "3.1.5.2"
+      ],
+      "summary": "Name the enzyme shown in DNA replication in Figure 5.",
+      "image": "img/2014-specimen-7401-1/q04-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q04-3.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q4-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q04.4",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 9,
+      "marks": 4,
+      "specRef": "3.1.5.2",
+      "topics": [
+        "3.1.5.2"
+      ],
+      "summary": "Use Figure 4, Figure 5 and enzyme action to explain why new DNA strands are produced in opposite directions.",
+      "image": "img/2014-specimen-7401-1/q04-4.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q04-4.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q4-fig4.jpg",
+        "img/2014-specimen-7401-1/fig-q4-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q05.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 10,
+      "marks": 1,
+      "specRef": "3.4.5",
+      "topics": [
+        "3.4.5"
+      ],
+      "summary": "Put the taxonomic letters from Table 1 into the correct hierarchical order.",
+      "image": "img/2014-specimen-7401-1/q05-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q05-1.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q5-table1.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q05.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 10,
+      "marks": 1,
+      "specRef": "3.4.5",
+      "topics": [
+        "3.4.5"
+      ],
+      "summary": "Give the binomial scientific name of the otter from Table 1.",
+      "image": "img/2014-specimen-7401-1/q05-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q05-2.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q5-table1.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q05.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 11,
+      "marks": 1,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Suggest one source of DNA from otters alive before hunting started.",
+      "image": "img/2014-specimen-7401-1/q05-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q05-3.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q5-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q05.4",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 11,
+      "marks": 2,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Conclude the effect of hunting on genetic diversity in otters using data from Figure 6.",
+      "image": "img/2014-specimen-7401-1/q05-4.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q05-4.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q5-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q05.5",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.5",
+      "questionNumber": "05.5",
+      "page": 12,
+      "marks": 2,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Suggest two reasons other than hunting why populations might show very low genetic diversity.",
+      "image": "img/2014-specimen-7401-1/q05-5.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q05-5.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q06.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Use hydrostatic pressure values in Figure 7 to explain how tissue fluid is formed.",
+      "image": "img/2014-specimen-7401-1/q06-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q06-1.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q06.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 13,
+      "marks": 1,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Explain why hydrostatic pressure falls from the arteriole end to the venule end of the capillary.",
+      "image": "img/2014-specimen-7401-1/q06-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q06-2.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q06.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 14,
+      "marks": 3,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Explain how high blood pressure leads to an accumulation of tissue fluid.",
+      "image": "img/2014-specimen-7401-1/q06-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q06.4",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 14,
+      "marks": 3,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Explain why the water potential of blood plasma is more negative at the venule end than the arteriole end.",
+      "image": "img/2014-specimen-7401-1/q06-4.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q06-4.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q07.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 16,
+      "marks": 2,
+      "specRef": "3.1.3",
+      "topics": [
+        "3.1.3"
+      ],
+      "summary": "Describe how to test a piece of food for the presence of lipid.",
+      "image": "img/2014-specimen-7401-1/q07-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q07.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 17,
+      "marks": 1,
+      "specRef": "3.1.3",
+      "topics": [
+        "3.1.3"
+      ],
+      "summary": "Name the molecule from which part A of the phospholipid in Figure 8 is formed.",
+      "image": "img/2014-specimen-7401-1/q07-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q07-2.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q7-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q07.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 17,
+      "marks": 1,
+      "specRef": "3.1.3",
+      "topics": [
+        "3.1.3"
+      ],
+      "summary": "Name the type of bond between part A and fatty acid X in Figure 8.",
+      "image": "img/2014-specimen-7401-1/q07-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q07-3.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q7-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q07.4",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 17,
+      "marks": 1,
+      "specRef": "3.1.3",
+      "topics": [
+        "3.1.3"
+      ],
+      "summary": "Identify which fatty acid (X or Y) in Figure 8 is unsaturated and explain why.",
+      "image": "img/2014-specimen-7401-1/q07-4.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q07-4.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q7-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q07.5",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.5",
+      "questionNumber": "07.5",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Explain how scientists calculated Percentage of lipid in plasma membrane by mass in Table 2.",
+      "image": "img/2014-specimen-7401-1/q07-5.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q07-5.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q07.6",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.6",
+      "questionNumber": "07.6",
+      "page": 18,
+      "marks": 1,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Suggest one advantage of the higher percentage of cholesterol in red blood cells compared with ileum cells.",
+      "image": "img/2014-specimen-7401-1/q07-6.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q07-6.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q07.7",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.7",
+      "questionNumber": "07.7",
+      "page": 19,
+      "marks": 2,
+      "specRef": "3.2.1.2",
+      "topics": [
+        "3.2.1.2"
+      ],
+      "summary": "Explain why E. coli maintains a constant shape despite having no cholesterol in its membrane.",
+      "image": "img/2014-specimen-7401-1/q07-7.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q07-7.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q08.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 20,
+      "marks": 1,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Explain why the data in Table 3 are described as processed results.",
+      "image": "img/2014-specimen-7401-1/q08-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q08-1.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q8-table3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q08.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 21,
+      "marks": 2,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Describe how to use a 1.0 mol dm^-3 sucrose solution to produce 30 cm^3 of 0.15 mol dm^-3 sucrose solution.",
+      "image": "img/2014-specimen-7401-1/q08-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2014-specimen-7401-1-q08.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 21,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Explain the change in mass of potato tissue in the 0.40 mol dm^-3 sucrose solution.",
+      "image": "img/2014-specimen-7401-1/q08-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q08-3.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q8-table3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q08.4",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 21,
+      "marks": 3,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Describe how to use the results in Table 3 to find the water potential of the potato tissue.",
+      "image": "img/2014-specimen-7401-1/q08-4.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q08-4.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q8-table3.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q09.1",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 22,
+      "marks": 3,
+      "specRef": "3.2.1.2",
+      "topics": [
+        "3.2.1.2"
+      ],
+      "summary": "Explain why Herpes simplex virus (HSV) infects only nerve cells.",
+      "image": "img/2014-specimen-7401-1/q09-1.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q09-1.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q9-passage.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q09.2",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.2.1.2",
+      "topics": [
+        "3.2.1.2"
+      ],
+      "summary": "Explain why HSV can be described as inactive while remaining in the body for years.",
+      "image": "img/2014-specimen-7401-1/q09-2.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q09-2.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q9-passage.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q09.3",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 23,
+      "marks": 1,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Suggest one advantage of programmed cell death in virus-infected cells.",
+      "image": "img/2014-specimen-7401-1/q09-3.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q09-3.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q9-passage.jpg"
+      ]
+    },
+    {
+      "id": "2014-specimen-7401-1-q09.4",
+      "paper": "2014-specimen-7401-1",
+      "year": 2014,
+      "series": "Specimen",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 23,
+      "marks": 4,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Explain how microRNA produced from the LAT gene allows HSV to remain in the body for years.",
+      "image": "img/2014-specimen-7401-1/q09-4.jpg",
+      "markscheme": "img/2014-specimen-7401-1/ms/q09-4.png",
+      "figures": [
+        "img/2014-specimen-7401-1/fig-q9-passage.jpg"
+      ]
     }
   ]
 }
