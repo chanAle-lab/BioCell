@@ -53,7 +53,7 @@ QUESTIONS = [
 FIGURES = [
     ("fig-q3-fig3.jpg",        7,  64, 445),
     ("fig-q4-fig4.jpg",        10, 64, 715),
-    ("fig-q5-fig5-table1.jpg", 14, 64, 690),
+    ("fig-q5-fig5-table1.jpg", 14, 64, 725),
     ("fig-q8-fig9.jpg",        22, 64, 630),
     ("fig-q9-fig10-11.jpg",    24, 64, 660),
     ("fig-q9-fig12.jpg",       26, 64, 426),

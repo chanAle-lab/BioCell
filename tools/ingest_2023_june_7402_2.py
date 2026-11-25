@@ -35,7 +35,7 @@ QUESTIONS = [
     ("07.2", 18, 2, "3.7.4",   "Two reasons for conserving rainforests", []),
     ("07.3", 18, 3, "3.5.3",   "Reasons for low energy transfer efficiency to tertiary consumers", []),
     ("08.1", 20, 3, "3.8.2.3", "How alteration in KRAS gene produces oncogene and tumour", []),
-    ("08.2", 20, 5, "3.8.2.3", "Evaluating survival times of CRC patients with diabetes/metformin", []),
+    ("08.2", 20, 5, "3.8.2.3", "Evaluating survival times of CRC patients with diabetes/metformin", ["fig-q8-table1.jpg"]),
     ("09.1", 22, 2, "3.8.4.1", "Removing STRs from DNA using restriction endonucleases", []),
     ("09.2", 22, 2, "3.8.4.2", "Importance of knowing flanking base sequences for PCR primers", []),
     ("09.3", 23, 2, "3.8.4.2", "Total base pairs in STR molecules after 50 PCR cycles", []),
@@ -51,6 +51,7 @@ FIGURES = [
     ("fig-q3-fig1.jpg",     5,  64, 275),
     ("fig-q3-fig2.jpg",     6,  64, 740),
     ("fig-q4-stem.jpg",     10, 64, 200),
+    ("fig-q8-table1.jpg",   21, 64, 335),
     ("fig-q10-passage.jpg", 24, 64, 342),
 ]
 
