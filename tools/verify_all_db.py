@@ -55,12 +55,13 @@ def verify() -> bool:
     print("\n--- Summary per Paper ---")
     for pid in sorted(papers.keys()):
         expected = papers[pid].get("totalMarks")
+        optional = papers[pid].get("optionalMarks", 0)
         actual = paper_marks.get(pid, 0)
         cnt = paper_counts.get(pid, 0)
-        status = "OK" if (expected is None or actual == expected) else f"MISMATCH (expected {expected})"
+        status = "OK" if (expected is None or actual == expected + optional) else f"MISMATCH (expected {expected + optional})"
         print(f"  {pid}: {cnt} questions, {actual}m [{status}]")
-        if expected is not None and actual != expected:
-            marks_mismatch.append((pid, actual, expected))
+        if expected is not None and actual != expected + optional:
+            marks_mismatch.append((pid, actual, expected + optional))
 
     print("\n--- Integrity Results ---")
     print(f"Missing or empty question images: {len(missing_images)}")
