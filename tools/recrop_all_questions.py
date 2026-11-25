@@ -26,6 +26,8 @@ PDF_MAP: dict[str, str] = {
     "2017-june-7401-2": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795595930411_ee6b458f.pdf",
     "2018-june-7401-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795597620242_43544a5c.pdf",
     "2018-june-7401-2": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795597620145_9e2b44f7.pdf",
+    "2019-june-7401-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795597880988_f0c92384.pdf",
+    "2019-june-7401-2": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795597881001_6e69c1c5.pdf",
 }
 
 
