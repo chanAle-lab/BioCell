@@ -26,8 +26,12 @@ PAPER_META = {
 
 FIGURES = [
     {"filename": "fig-q1-fig1.jpg", "page": 2, "x0": 45, "y0": 98, "x1": 540, "y1": 335},
+    {"filename": "fig-q2-table1.jpg", "page": 6, "x0": 95, "y0": 298, "x1": 540, "y1": 495},
     {"filename": "fig-q3-fig2.jpg", "page": 7, "x0": 45, "y0": 64, "x1": 540, "y1": 408},
+    {"filename": "fig-q4-fig3.jpg", "page": 10, "x0": 45, "y0": 64, "x1": 540, "y1": 200},
     {"filename": "fig-q7-fig4.jpg", "page": 16, "x0": 45, "y0": 64, "x1": 540, "y1": 552},
+    {"filename": "fig-q8-table2.jpg", "page": 19, "x0": 95, "y0": 64, "x1": 540, "y1": 402},
+    {"filename": "fig-q9-table3.jpg", "page": 23, "x0": 95, "y0": 64, "x1": 540, "y1": 295},
     {"filename": "fig-q10-passage.jpg", "page": 24, "x0": 45, "y0": 64, "x1": 540, "y1": 350},
 ]
 
@@ -40,7 +44,7 @@ QUESTIONS = [
     {"qnum": "02.1", "page": 5, "marks": 2, "specRef": "3.2.3", "summary": "Explain why hydrophobic steroid hormones can rapidly enter a cell by passing through its cell-surface membrane.", "figures": []},
     {"qnum": "02.2", "page": 5, "marks": 2, "specRef": "3.1.4.1", "summary": "Suggest and explain why testosterone binds to a specific androgen receptor (AR).", "figures": []},
     {"qnum": "02.3", "page": 6, "marks": 2, "specRef": "3.8.2.2", "summary": "Suggest how the androgen receptor could stimulate gene expression.", "figures": []},
-    {"qnum": "02.4", "page": 6, "marks": 3, "specRef": "3.4.7", "summary": "State what can be concluded from the statistical P-value data in Table 1 on CAG repeats and prostate cancer.", "figures": []},
+    {"qnum": "02.4", "page": 6, "marks": 3, "specRef": "3.4.7", "summary": "State what can be concluded from the statistical P-value data in Table 1 on CAG repeats and prostate cancer.", "figures": ["fig-q2-table1.jpg"]},
 
     {"qnum": "03.1", "page": 7, "marks": 2, "specRef": "3.5.3", "summary": "Other than the thermometer, explain how two features of the calorimeter in Figure 2 enable a valid measurement.", "figures": ["fig-q3-fig2.jpg"]},
     {"qnum": "03.2", "page": 8, "marks": 2, "specRef": "3.5.3", "summary": "Calculate the heat energy released in kJ per g of biomass from the calorimeter measurements.", "figures": []},
@@ -48,7 +52,7 @@ QUESTIONS = [
     {"qnum": "03.4", "page": 9, "marks": 2, "specRef": "3.5.1", "summary": "Name the two products of the light-dependent reaction that are required for the light-independent reaction.", "figures": []},
     {"qnum": "03.5", "page": 9, "marks": 2, "specRef": "3.7.2", "summary": "Calculate in standard form the number of Chlorella cells in the culture after 24 hours.", "figures": []},
 
-    {"qnum": "04.1", "page": 10, "marks": 3, "specRef": "3.6.3", "summary": "Explain the banding pattern of a single sarcomere shown in Figure 3.", "figures": []},
+    {"qnum": "04.1", "page": 10, "marks": 3, "specRef": "3.6.3", "summary": "Explain the banding pattern of a single sarcomere shown in Figure 3.", "figures": ["fig-q4-fig3.jpg"]},
     {"qnum": "04.2", "page": 11, "marks": 4, "specRef": "RP", "summary": "Describe how you could produce a calibration curve for creatinine using a colorimeter.", "figures": []},
     {"qnum": "04.3", "page": 12, "marks": 2, "specRef": "RP", "summary": "Describe how you would determine the concentration of creatinine in a urine sample using your calibration curve.", "figures": []},
 
@@ -65,12 +69,12 @@ QUESTIONS = [
 
     {"qnum": "08.1", "page": 18, "marks": 2, "specRef": "3.6.4.3", "summary": "Suggest how Alport syndrome (AS) could cause proteinuria.", "figures": []},
     {"qnum": "08.2", "page": 18, "marks": 1, "specRef": "3.7.1", "summary": "Tick where a sex-linked mutation would be located in a male with Alport syndrome.", "figures": []},
-    {"qnum": "08.3", "page": 19, "marks": 4, "specRef": "3.8.2.3", "summary": "Using all the information in Table 2, evaluate the use of stem cells to treat Alport syndrome in humans.", "figures": []},
+    {"qnum": "08.3", "page": 19, "marks": 4, "specRef": "3.8.2.3", "summary": "Using all the information in Table 2, evaluate the use of stem cells to treat Alport syndrome in humans.", "figures": ["fig-q8-table2.jpg"]},
     {"qnum": "08.4", "page": 20, "marks": 2, "specRef": "3.8.2.3", "summary": "Suggest how the transplanted stem cells reduce proteinuria.", "figures": []},
 
     {"qnum": "09.1", "page": 22, "marks": 2, "specRef": "3.8.4.1", "summary": "Describe how enzymes could be used to insert the GH gene into a plasmid.", "figures": []},
     {"qnum": "09.2", "page": 22, "marks": 2, "specRef": "3.8.4.1", "summary": "Suggest and explain how delayed insertion of the GH gene could produce offspring without the desired characteristic.", "figures": []},
-    {"qnum": "09.3", "page": 23, "marks": 2, "specRef": "3.4.7", "summary": "Using Table 3, state what can be concluded about the effectiveness of the GH gene on zebrafish growth.", "figures": []},
+    {"qnum": "09.3", "page": 23, "marks": 2, "specRef": "3.4.7", "summary": "Using Table 3, state what can be concluded about the effectiveness of the GH gene on zebrafish growth.", "figures": ["fig-q9-table3.jpg"]},
     {"qnum": "09.4", "page": 23, "marks": 2, "specRef": "3.4.7", "summary": "Explain how two features of the investigation design helped ensure the validity of conclusions.", "figures": []},
 
     {"qnum": "10.1", "page": 24, "marks": 3, "specRef": "3.5.2", "summary": "Suggest and explain how black bears can hibernate for up to 7 months without food or water (lines 1-2).", "figures": ["fig-q10-passage.jpg"]},

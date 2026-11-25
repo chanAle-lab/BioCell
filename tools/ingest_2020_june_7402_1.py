@@ -27,10 +27,13 @@ PAPER_META = {
 FIGURES = [
     {"filename": "fig-q1-fig1.jpg", "page": 2, "x0": 45, "y0": 98, "x1": 540, "y1": 316},
     {"filename": "fig-q1-fig2.jpg", "page": 4, "x0": 95, "y0": 64, "x1": 540, "y1": 445},
+    {"filename": "fig-q2-table1.jpg", "page": 6, "x0": 45, "y0": 64, "x1": 540, "y1": 330},
     {"filename": "fig-q3-fig3.jpg", "page": 8, "x0": 45, "y0": 64, "x1": 540, "y1": 468},
+    {"filename": "fig-q4-fig4.jpg", "page": 11, "x0": 95, "y0": 64, "x1": 540, "y1": 420},
     {"filename": "fig-q5-fig5.jpg", "page": 14, "x0": 95, "y0": 300, "x1": 540, "y1": 765},
     {"filename": "fig-q6-fig6.jpg", "page": 17, "x0": 95, "y0": 64, "x1": 540, "y1": 385},
     {"filename": "fig-q8-table3.jpg", "page": 22, "x0": 95, "y0": 64, "x1": 540, "y1": 258},
+    {"filename": "fig-q8-fig8.jpg", "page": 22, "x0": 95, "y0": 325, "x1": 540, "y1": 645},
     {"filename": "fig-q9-fig9.jpg", "page": 25, "x0": 45, "y0": 64, "x1": 540, "y1": 320},
     {"filename": "fig-q9-fig10.jpg", "page": 26, "x0": 95, "y0": 64, "x1": 540, "y1": 570},
 ]
@@ -39,10 +42,10 @@ QUESTIONS = [
     {"qnum": "01.1", "page": 2, "marks": 2, "specRef": "3.2.3", "summary": "Explain the function of the membrane-bound ATP hydrolase linked to carrier protein X (Figure 1).", "figures": ["fig-q1-fig1.jpg"]},
     {"qnum": "01.2", "page": 2, "marks": 2, "specRef": "3.2.3", "summary": "Explain how the movement of Na+ out of the cell allows the absorption of glucose into the cell lining the ileum.", "figures": ["fig-q1-fig1.jpg"]},
     {"qnum": "01.3", "page": 3, "marks": 2, "specRef": "3.3.3", "summary": "Describe and explain two features you would expect to find in a cell specialised for absorption.", "figures": []},
-    {"qnum": "01.4", "page": 4, "marks": 2, "specRef": "3.2.3", "summary": "Draw phospholipids on Figure 2 to show how the SGLT1 carrier protein fits into the cell-surface membrane.", "figures": []},
+    {"qnum": "01.4", "page": 4, "marks": 2, "specRef": "3.2.3", "summary": "Draw phospholipids on Figure 2 to show how the SGLT1 carrier protein fits into the cell-surface membrane.", "figures": ["fig-q1-fig2.jpg"]},
     {"qnum": "01.5", "page": 5, "marks": 2, "specRef": "3.1.4.1", "summary": "Describe how amino acids join to form a polypeptide so there is always NH2 at one end and COOH at the other (Figure 2).", "figures": ["fig-q1-fig2.jpg"]},
 
-    {"qnum": "02.1", "page": 6, "marks": 3, "specRef": "3.3.3", "summary": "Use your knowledge of lipid digestion to explain the differences in the results for samples A and B in Table 1.", "figures": []},
+    {"qnum": "02.1", "page": 6, "marks": 3, "specRef": "3.3.3", "summary": "Use your knowledge of lipid digestion to explain the differences in the results for samples A and B in Table 1.", "figures": ["fig-q2-table1.jpg"]},
     {"qnum": "02.2", "page": 7, "marks": 2, "specRef": "3.1.4.2", "summary": "Explain why the scientist immediately heated the collected samples to 70 degrees C for 10 minutes.", "figures": []},
     {"qnum": "02.3", "page": 7, "marks": 3, "specRef": "3.3.3", "summary": "Describe the role of micelles in the absorption of fats into the cells lining the ileum.", "figures": []},
 
@@ -53,7 +56,7 @@ QUESTIONS = [
 
     {"qnum": "04.1", "page": 10, "marks": 1, "specRef": "RP", "summary": "Tick the most appropriate volumes to make up 100 cm^3 of extraction solvent E in a 70:30:1 ratio.", "figures": []},
     {"qnum": "04.2", "page": 10, "marks": 2, "specRef": "RP", "summary": "Name two other variables the student should have kept constant during the blueberry anthocyanin extraction.", "figures": []},
-    {"qnum": "04.3", "page": 11, "marks": 4, "specRef": "3.2.3", "summary": "Use your knowledge of membrane structure to explain the absorbance results in Figure 4.", "figures": []},
+    {"qnum": "04.3", "page": 11, "marks": 4, "specRef": "3.2.3", "summary": "Use your knowledge of membrane structure to explain the absorbance results in Figure 4.", "figures": ["fig-q4-fig4.jpg"]},
     {"qnum": "04.4", "page": 12, "marks": 3, "specRef": "RP", "summary": "Describe a method to prepare colour standards and use them to determine total anthocyanin extracted without a colorimeter.", "figures": []},
 
     {"qnum": "05.1", "page": 14, "marks": 2, "specRef": "3.1.5.2", "summary": "Describe the role of DNA polymerase in the semi-conservative replication of DNA.", "figures": []},
@@ -71,7 +74,7 @@ QUESTIONS = [
 
     {"qnum": "08.1", "page": 21, "marks": 3, "specRef": "3.4.1", "summary": "Complete Table 2 to show three differences between DNA in the nucleus of a plant cell and DNA in a prokaryotic cell.", "figures": []},
     {"qnum": "08.2", "page": 21, "marks": 2, "specRef": "3.4.1", "summary": "Define non-coding base sequences and describe where non-coding multiple repeats are positioned in the genome.", "figures": []},
-    {"qnum": "08.3", "page": 22, "marks": 1, "specRef": "3.4.5", "summary": "Use the information in Table 3 to complete the phylogenetic tree shown in Figure 8.", "figures": ["fig-q8-table3.jpg"]},
+    {"qnum": "08.3", "page": 22, "marks": 1, "specRef": "3.4.5", "summary": "Use the information in Table 3 to complete the phylogenetic tree shown in Figure 8.", "figures": ["fig-q8-table3.jpg", "fig-q8-fig8.jpg"]},
     {"qnum": "08.4", "page": 23, "marks": 2, "specRef": "3.4.5", "summary": "Use Table 3 to evaluate how a 66% similarity within five individuals of species T affects the validity of the phylogenetic tree.", "figures": ["fig-q8-table3.jpg"]},
 
     {"qnum": "09.1", "page": 25, "marks": 2, "specRef": "3.3.2", "summary": "Calculate the mean stomatal density per mm^2 in the three fields of view in Figure 9.", "figures": ["fig-q9-fig9.jpg"]},

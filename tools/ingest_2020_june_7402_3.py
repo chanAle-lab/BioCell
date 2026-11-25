@@ -28,6 +28,7 @@ PAPER_META = {
 FIGURES = [
     {"filename": "fig-q1-fig1.jpg", "page": 2, "x0": 45, "y0": 150, "x1": 540, "y1": 455},
     {"filename": "fig-q2-table1.jpg", "page": 4, "x0": 95, "y0": 250, "x1": 540, "y1": 565},
+    {"filename": "fig-q4-table2.jpg", "page": 8, "x0": 45, "y0": 64, "x1": 540, "y1": 235},
     {"filename": "fig-q6-fig3.jpg", "page": 14, "x0": 95, "y0": 270, "x1": 540, "y1": 645},
     {"filename": "fig-q6-fig4.jpg", "page": 16, "x0": 95, "y0": 64, "x1": 540, "y1": 432},
 ]
@@ -45,7 +46,7 @@ QUESTIONS = [
     {"qnum": "03.3", "page": 6, "marks": 2, "specRef": "3.8.3", "summary": "Explain how determining the genome of the viruses could allow scientists to develop a vaccine.", "figures": []},
     {"qnum": "03.4", "page": 7, "marks": 3, "specRef": "3.2.4", "summary": "Describe how the B lymphocytes of a frog would respond to vaccination against Ranavirus.", "figures": []},
 
-    {"qnum": "04.1", "page": 8, "marks": 2, "specRef": "3.1.1", "summary": "Use suitable calculations from Table 2 to determine whether the journalist's statement about sodium RDA is true for both medicines.", "figures": []},
+    {"qnum": "04.1", "page": 8, "marks": 2, "specRef": "3.1.1", "summary": "Use suitable calculations from Table 2 to determine whether the journalist's statement about sodium RDA is true for both medicines.", "figures": ["fig-q4-table2.jpg"]},
     {"qnum": "04.2", "page": 9, "marks": 2, "specRef": "3.4.7", "summary": "Give two factors that should have been the same and one factor different for each pair of patients.", "figures": []},
     {"qnum": "04.3", "page": 9, "marks": 2, "specRef": "3.4.7", "summary": "Calculate how many of the control patients had hypertension.", "figures": []},
     {"qnum": "04.4", "page": 10, "marks": 3, "specRef": "3.2.3", "summary": "Use your knowledge of water potential to suggest how high sodium concentrations in medicines could affect blood volume.", "figures": []},

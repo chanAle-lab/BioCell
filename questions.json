@@ -21698,7 +21698,9 @@
       "summary": "Draw phospholipids on Figure 2 to show how the SGLT1 carrier protein fits into the cell-surface membrane.",
       "image": "img/2020-june-7402-1/q01-4.jpg",
       "markscheme": "img/2020-june-7402-1/ms/q01-4.png",
-      "figures": []
+      "figures": [
+        "img/2020-june-7402-1/fig-q1-fig2.jpg"
+      ]
     },
     {
       "id": "2020-june-7402-1-q01.5",
@@ -21740,7 +21742,9 @@
       "summary": "Use your knowledge of lipid digestion to explain the differences in the results for samples A and B in Table 1.",
       "image": "img/2020-june-7402-1/q02-1.jpg",
       "markscheme": "img/2020-june-7402-1/ms/q02-1.png",
-      "figures": []
+      "figures": [
+        "img/2020-june-7402-1/fig-q2-table1.jpg"
+      ]
     },
     {
       "id": "2020-june-7402-1-q02.2",
@@ -21928,7 +21932,9 @@
       "summary": "Use your knowledge of membrane structure to explain the absorbance results in Figure 4.",
       "image": "img/2020-june-7402-1/q04-3.jpg",
       "markscheme": "img/2020-june-7402-1/ms/q04-3.png",
-      "figures": []
+      "figures": [
+        "img/2020-june-7402-1/fig-q4-fig4.jpg"
+      ]
     },
     {
       "id": "2020-june-7402-1-q04.4",
@@ -22215,7 +22221,8 @@
       "image": "img/2020-june-7402-1/q08-3.jpg",
       "markscheme": "img/2020-june-7402-1/ms/q08-3.png",
       "figures": [
-        "img/2020-june-7402-1/fig-q8-table3.jpg"
+        "img/2020-june-7402-1/fig-q8-table3.jpg",
+        "img/2020-june-7402-1/fig-q8-fig8.jpg"
       ]
     },
     {
@@ -22548,7 +22555,9 @@
       "summary": "State what can be concluded from the statistical P-value data in Table 1 on CAG repeats and prostate cancer.",
       "image": "img/2020-june-7402-2/q02-4.jpg",
       "markscheme": "img/2020-june-7402-2/ms/q02-4.png",
-      "figures": []
+      "figures": [
+        "img/2020-june-7402-2/fig-q2-table1.jpg"
+      ]
     },
     {
       "id": "2020-june-7402-2-q03.1",
@@ -22670,7 +22679,9 @@
       "summary": "Explain the banding pattern of a single sarcomere shown in Figure 3.",
       "image": "img/2020-june-7402-2/q04-1.jpg",
       "markscheme": "img/2020-june-7402-2/ms/q04-1.png",
-      "figures": []
+      "figures": [
+        "img/2020-june-7402-2/fig-q4-fig3.jpg"
+      ]
     },
     {
       "id": "2020-june-7402-2-q04.2",
@@ -22934,7 +22945,9 @@
       "summary": "Using all the information in Table 2, evaluate the use of stem cells to treat Alport syndrome in humans.",
       "image": "img/2020-june-7402-2/q08-3.jpg",
       "markscheme": "img/2020-june-7402-2/ms/q08-3.png",
-      "figures": []
+      "figures": [
+        "img/2020-june-7402-2/fig-q8-table2.jpg"
+      ]
     },
     {
       "id": "2020-june-7402-2-q08.4",
@@ -23014,7 +23027,9 @@
       "summary": "Using Table 3, state what can be concluded about the effectiveness of the GH gene on zebrafish growth.",
       "image": "img/2020-june-7402-2/q09-3.jpg",
       "markscheme": "img/2020-june-7402-2/ms/q09-3.png",
-      "figures": []
+      "figures": [
+        "img/2020-june-7402-2/fig-q9-table3.jpg"
+      ]
     },
     {
       "id": "2020-june-7402-2-q09.4",
@@ -23348,7 +23363,9 @@
       "summary": "Use suitable calculations from Table 2 to determine whether the journalist's statement about sodium RDA is true for both medicines.",
       "image": "img/2020-june-7402-3/q04-1.jpg",
       "markscheme": "img/2020-june-7402-3/ms/q04-1.png",
-      "figures": []
+      "figures": [
+        "img/2020-june-7402-3/fig-q4-table2.jpg"
+      ]
     },
     {
       "id": "2020-june-7402-3-q04.2",
