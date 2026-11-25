@@ -373,6 +373,30 @@
       "totalMarks": 75,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "date": "2022-06-01",
+      "title": "7401/1 — AS Paper 1 (June 2022)",
+      "totalMarks": 75,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "date": "2022-06-01",
+      "title": "7401/2 — AS Paper 2 (June 2022)",
+      "totalMarks": 75,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -9998,6 +10022,1477 @@
       "specRef": "3.1.5",
       "image": "img/2021-june-7401-2/q09-2.jpg",
       "markscheme": "img/2021-june-7401-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q01.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 4,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Complete Table 1 matching biological molecules A to E in Figure 1 to each statement.",
+      "specRef": "3.1.1",
+      "image": "img/2022-june-7401-1/q01-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q01-1.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q1-fig1.jpg",
+        "img/2022-june-7401-1/fig-q1-table1.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q01.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 4,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Describe the mechanism for the absorption of amino acids in the ileum.",
+      "specRef": "3.3.3",
+      "image": "img/2022-june-7401-1/q01-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q02.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Give the two types of molecule from which a ribosome is made.",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-1/q02-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q02.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 4,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Complete Table 2 to give four structural differences between a DNA molecule and an mRNA molecule.",
+      "specRef": "3.1.5",
+      "image": "img/2022-june-7401-1/q02-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q03.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Name the bacterial structure labelled X in the scanning electron micrograph (Figure 2).",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-1/q03-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q03-1.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q03.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Describe and explain one difference between an SEM image (Figure 2) and a TEM image of this bacterium.",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-1/q03-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q03-2.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q03.3",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 5,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Explain why the resolution of an electron microscope is higher than that of an optical microscope.",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-1/q03-3.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q03.4",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Describe how a student determined the actual size in micrometres of a cell structure from a microscope photograph.",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-1/q03-4.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q03.5",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Name two structures found in all bacteria that are not found in plant cells.",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-1/q03-5.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q03.6",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.6",
+      "questionNumber": "03.6",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [],
+      "summary": "Name two features of HIV particles (excluding attachment protein) that are not found in bacteria.",
+      "specRef": "3.2.4",
+      "image": "img/2022-june-7401-1/q03-6.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q03-6.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q04.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 7,
+      "marks": 4,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 3 to conclude about oxygen uptake over the entire body of the lugworm.",
+      "specRef": "3.3.1",
+      "image": "img/2022-june-7401-1/q04-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q04-1.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q4-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q04.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Use Figure 4 and the CdO2 equation to calculate the volume of dissolved oxygen in 0.2 cm3 of lugworm blood at 92% saturation.",
+      "specRef": "3.3.4",
+      "image": "img/2022-june-7401-1/q04-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q04-2.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q04.3",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Describe how to use a colorimeter and calibration curve to determine the pO2 in a sample of lugworm blood.",
+      "specRef": "3.3.4",
+      "image": "img/2022-june-7401-1/q04-3.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q05.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 10,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Describe how monomers join to form the primary structure of a protein.",
+      "specRef": "3.1.4",
+      "image": "img/2022-june-7401-1/q05-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q05.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Describe one similarity and one difference between the induced-fit model and lock-and-key model (Figure 5).",
+      "specRef": "3.1.4",
+      "image": "img/2022-june-7401-1/q05-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q05-2.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q5-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q05.3",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "State how enzymes help reactions to proceed quickly at lower temperatures.",
+      "specRef": "3.1.4",
+      "image": "img/2022-june-7401-1/q05-3.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q05.4",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Complete Table 3 by calculating the time taken for complete hydrolysis of maltose in solution H.",
+      "specRef": "3.1.4",
+      "image": "img/2022-june-7401-1/q05-4.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q05-4.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q5-table3.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q05.5",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.5",
+      "questionNumber": "05.5",
+      "page": 12,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Tick the box for the independent variable changed to produce curve I in Figure 6.",
+      "specRef": "3.1.4",
+      "image": "img/2022-june-7401-1/q05-5.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q05-5.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q06.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Explain a property of iron ions that enables them to carry out their role in red blood cells.",
+      "specRef": "3.1.8",
+      "image": "img/2022-june-7401-1/q06-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q06.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 13,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 7 to explain why plasma iron ion concentration is higher in people with haemochromatosis.",
+      "specRef": "3.2.3",
+      "image": "img/2022-june-7401-1/q06-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q06-2.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q06.3",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the ratio of plasma iron ion mass in a haemochromatosis patient to a healthy person.",
+      "specRef": "3.1.8",
+      "image": "img/2022-june-7401-1/q06-3.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q07.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "Define what a tumour is.",
+      "specRef": "3.2.2",
+      "image": "img/2022-june-7401-1/q07-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q07.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 15,
+      "marks": 3,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Describe how to determine a reliable mitotic index (MI) from tissue observed with an optical microscope.",
+      "specRef": "RP",
+      "image": "img/2022-june-7401-1/q07-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q07.3",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 17,
+      "marks": 4,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 8 and Table 4 to evaluate the conclusion that MI > 5 is a reliable indicator of cancer severity in dogs.",
+      "specRef": "3.2.2",
+      "image": "img/2022-june-7401-1/q07-3.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q07-3.png",
+      "figures": [
+        "img/2022-june-7401-1/fig-q7-fig8-table4.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-1-q08.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 18,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Explain why E. coli cell density might be lower after 24 hours if a non-sterilised pipette was used.",
+      "specRef": "RP",
+      "image": "img/2022-june-7401-1/q08-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q08.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 18,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the number of E. coli cells per mm3 in undiluted culture 1 from dilution and haemocytometer counts.",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-1/q08-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q08.3",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 19,
+      "marks": 3,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Sketch a bar chart on Figure 9 comparing E. coli cell density in cultures 1, 2 (J), and 3 (K).",
+      "specRef": "3.2.2",
+      "image": "img/2022-june-7401-1/q08-3.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q08-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q09.1",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 20,
+      "marks": 2,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Describe and explain how blood composition in a fetal pulmonary artery differs from its mother's pulmonary artery.",
+      "specRef": "3.3.4",
+      "image": "img/2022-june-7401-1/q09-1.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q09.2",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 21,
+      "marks": 3,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain how a fetus is protected against pathogens infecting its mother during pregnancy via IgG transfer.",
+      "specRef": "3.2.4",
+      "image": "img/2022-june-7401-1/q09-2.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q09.3",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 21,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest how vaccinating babies protects the UK population against measles viruses and tetanus bacteria.",
+      "specRef": "3.2.4",
+      "image": "img/2022-june-7401-1/q09-3.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q09-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q09.4",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 22,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest why there has been a recent increase in the number of children catching measles.",
+      "specRef": "3.2.4",
+      "image": "img/2022-june-7401-1/q09-4.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q09-4.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-1-q09.5",
+      "paper": "2022-june-7401-1",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.5",
+      "questionNumber": "09.5",
+      "page": 22,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why giving children more than one tetanus vaccination develops good immunity.",
+      "specRef": "3.2.4",
+      "image": "img/2022-june-7401-1/q09-5.jpg",
+      "markscheme": "img/2022-june-7401-1/ms/q09-5.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q01.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.4.1"
+      ],
+      "skills": [],
+      "summary": "Define what a gene is.",
+      "specRef": "3.4.1",
+      "image": "img/2022-june-7401-2/q01-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q01.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [],
+      "summary": "Describe how mRNA production in a eukaryote cell differs from mRNA production in a prokaryote cell.",
+      "specRef": "3.4.2",
+      "image": "img/2022-june-7401-2/q01-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q01.3",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest how single-stranded PNA binding to DNA reduced transcription of mRNA.",
+      "specRef": "3.4.2",
+      "image": "img/2022-june-7401-2/q01-3.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q01.4",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [],
+      "summary": "Describe the role of ATP in translation during protein synthesis.",
+      "specRef": "3.4.2",
+      "image": "img/2022-june-7401-2/q01-4.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q02.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Name the term describing the different structures of alpha-glucose and beta-glucose.",
+      "specRef": "3.1.2",
+      "image": "img/2022-june-7401-2/q02-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q02.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Describe how colorimeter results identify the fruit juice with higher reducing sugar content.",
+      "specRef": "3.1.2",
+      "image": "img/2022-june-7401-2/q02-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q02.3",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Give two variables controlled in the Benedict's test on fruit juices.",
+      "specRef": "3.1.2",
+      "image": "img/2022-june-7401-2/q02-3.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q02.4",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the mass of sugar in the flesh tissue of a 180 g apple with 5:1 flesh-to-core ratio and 8% sugar.",
+      "specRef": "3.1.2",
+      "image": "img/2022-june-7401-2/q02-4.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q02.5",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.5",
+      "questionNumber": "02.5",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest why the water potential of apple juice decreases and iodine stains less black when apples are stored.",
+      "specRef": "3.1.2",
+      "image": "img/2022-june-7401-2/q02-5.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q02-5.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q03.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Describe and explain two ways structures in Figure 1 (microvilli/mitochondria) increase ileum cell absorption rate.",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-2/q03-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q03-1.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q3-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q03.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the surface area ratio of an ileum cell with 1000 microvilli to one without microvilli.",
+      "specRef": "3.3.1",
+      "image": "img/2022-june-7401-2/q03-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q03.3",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest how an anti-ZO-1 monoclonal antibody helped identify ileum cells under an optical microscope.",
+      "specRef": "3.2.4",
+      "image": "img/2022-june-7401-2/q03-3.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q04.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 9,
+      "marks": 4,
+      "topics": [
+        "3.4.3"
+      ],
+      "skills": [],
+      "summary": "Describe how meiosis results in haploid cells (excluding sources of genetic variation).",
+      "specRef": "3.4.3",
+      "image": "img/2022-june-7401-2/q04-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q04.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.4.3"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate how many of 300 meiotic cells are expected to have the identical chromosome arrangement shown in Figure 2.",
+      "specRef": "3.4.3",
+      "image": "img/2022-june-7401-2/q04-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q04-2.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q4-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q04.3",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.4.3"
+      ],
+      "skills": [],
+      "summary": "Draw a diagram to show the chromosomes in one gamete produced by meiosis from Figure 2.",
+      "specRef": "3.4.3",
+      "image": "img/2022-june-7401-2/q04-3.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q04-3.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q4-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q04.4",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 11,
+      "marks": 1,
+      "topics": [
+        "3.4.3"
+      ],
+      "skills": [],
+      "summary": "Tick the box naming process A in the fungus life cycle (Figure 3).",
+      "specRef": "3.4.3",
+      "image": "img/2022-june-7401-2/q04-4.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q04-4.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q4-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q05.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [],
+      "summary": "Describe how organisms are grouped in a phylogenetic classification system.",
+      "specRef": "3.4.5",
+      "image": "img/2022-june-7401-2/q05-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q05.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [],
+      "summary": "Use Table 1 to give the scientific name of taxon B in Figure 4.",
+      "specRef": "3.4.5",
+      "image": "img/2022-june-7401-2/q05-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q05-2.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q5-table1.jpg",
+        "img/2022-june-7401-2/fig-q5-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q05.3",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [],
+      "summary": "Draw an oval on Figure 4 to show the species Rhinoceros sondaicus.",
+      "specRef": "3.4.5",
+      "image": "img/2022-june-7401-2/q05-3.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q05-3.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q5-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q05.4",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 14,
+      "marks": 4,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Conclude and evaluate phylogenetic relationships between five rhinoceros species from Table 2 cyt b differences.",
+      "specRef": "3.4.5",
+      "image": "img/2022-june-7401-2/q05-4.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q05-4.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q5-table2.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q05.5",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.5",
+      "questionNumber": "05.5",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Conclude which species a confiscated horn with 14% cyt b difference came from and suggest how to improve identification.",
+      "specRef": "3.4.5",
+      "image": "img/2022-june-7401-2/q05-5.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q05-5.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q5-table2.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q06.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Complete Table 3 with three control measures for carrying and using a scalpel during heart dissection.",
+      "specRef": "RP",
+      "image": "img/2022-june-7401-2/q06-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q06.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 17,
+      "marks": 2,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Use Figure 5 to calculate the total volume of blood pumped from the left ventricle in 1 minute.",
+      "specRef": "3.3.4",
+      "image": "img/2022-june-7401-2/q06-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q06-2.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q6-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q06.3",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 19,
+      "marks": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 6 and Figure 7 to evaluate blood pressure treatments 1 and 2 in reducing cardiovascular disease risk.",
+      "specRef": "3.3.4",
+      "image": "img/2022-june-7401-2/q06-3.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q06-3.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q6-fig6.jpg",
+        "img/2022-june-7401-2/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q07.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 20,
+      "marks": 3,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Produce a labelled tissue-plan drawing of the vertical leaf section in Figure 8 without drawing individual cells.",
+      "specRef": "3.2.1",
+      "image": "img/2022-june-7401-2/q07-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q07-1.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q7-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q07.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 23,
+      "marks": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Conclude and explain from Table 4 (+/- 2 SD) how stomata density and transpiration rate affect cut flower shelf life.",
+      "specRef": "3.3.4",
+      "image": "img/2022-june-7401-2/q07-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q07-2.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q7-table4.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q07.3",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 23,
+      "marks": 3,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Other than temperature, give and explain one environmental change to increase cut flowers' shelf life.",
+      "specRef": "3.3.4",
+      "image": "img/2022-june-7401-2/q07-3.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q08.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 24,
+      "marks": 1,
+      "topics": [
+        "3.4.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest one type of guppy behaviour affected by brightly coloured stones in Figure 9.",
+      "specRef": "3.4.4",
+      "image": "img/2022-june-7401-2/q08-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q08-1.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q8-fig9.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q08.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 25,
+      "marks": 2,
+      "topics": [
+        "3.4.7"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Suggest a further investigation and null hypothesis to confirm brightly coloured stones affected guppy behaviour.",
+      "specRef": "3.4.7",
+      "image": "img/2022-june-7401-2/q08-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q08.3",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 26,
+      "marks": 4,
+      "topics": [
+        "3.4.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Name and explain the type of selection in Figure 10 after predators were added to the guppy tank.",
+      "specRef": "3.4.4",
+      "image": "img/2022-june-7401-2/q08-3.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q08-3.png",
+      "figures": [
+        "img/2022-june-7401-2/fig-q8-fig10.jpg"
+      ]
+    },
+    {
+      "id": "2022-june-7401-2-q09.1",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 27,
+      "marks": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "extended"
+      ],
+      "summary": "Describe and explain how the insect gas exchange system provides cells with sufficient oxygen and limits water loss.",
+      "specRef": "3.3.2",
+      "image": "img/2022-june-7401-2/q09-1.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2022-june-7401-2-q09.2",
+      "paper": "2022-june-7401-2",
+      "year": 2022,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 28,
+      "marks": 5,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [
+        "extended"
+      ],
+      "summary": "Describe how humans breathe in and out.",
+      "specRef": "3.3.2",
+      "image": "img/2022-june-7401-2/q09-2.jpg",
+      "markscheme": "img/2022-june-7401-2/ms/q09-2.png",
       "figures": []
     }
   ]
