@@ -277,6 +277,30 @@
       "totalMarks": 75,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "date": "2018-05-24",
+      "title": "7401/1 — AS Paper 1 (June 2018)",
+      "totalMarks": 75,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "date": "2018-06-04",
+      "title": "7401/2 — AS Paper 2 (June 2018)",
+      "totalMarks": 75,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -3610,6 +3634,1598 @@
       "specRef": "3.4.2",
       "image": "img/2017-june-7401-2/q09-2.jpg",
       "markscheme": "img/2017-june-7401-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q01.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Identify the letters representing the aorta, renal vein, and vena cava in Figure 1.",
+      "specRef": "3.3.4",
+      "image": "img/2018-june-7401-1/q01-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q01-1.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q01.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Name the blood vessels that carry blood to the heart muscle.",
+      "specRef": "3.3.4",
+      "image": "img/2018-june-7401-1/q01-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q01.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 4,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Produce a labelled scientific drawing of the mitochondrion in Figure 2.",
+      "specRef": "3.2.1",
+      "image": "img/2018-june-7401-1/q01-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q01-3.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q1-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q02.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.1.1"
+      ],
+      "skills": [],
+      "summary": "Define what a monomer is.",
+      "specRef": "3.1.1",
+      "image": "img/2018-june-7401-1/q02-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q02.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Give one similarity and one difference between the structures of lactulose and lactose.",
+      "specRef": "3.1.2",
+      "image": "img/2018-june-7401-1/q02-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q02.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use water potential to suggest why lactulose helps people suffering from constipation.",
+      "specRef": "3.2.3",
+      "image": "img/2018-june-7401-1/q02-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q02.4",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the minimum percentage decrease required to bring a patient's blood H+ concentration into the normal range.",
+      "specRef": "3.1.8",
+      "image": "img/2018-june-7401-1/q02-4.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q03.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Draw and label a single DNA nucleotide.",
+      "specRef": "3.1.5",
+      "image": "img/2018-june-7401-1/q03-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q03.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Give two features of DNA and explain how each is important in semi-conservative replication.",
+      "specRef": "3.1.5",
+      "image": "img/2018-june-7401-1/q03-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q03.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate how long it takes to copy 16 500 bp mitochondrial DNA when the second strand starts after two-thirds of the first.",
+      "specRef": "3.1.5",
+      "image": "img/2018-june-7401-1/q03-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q04.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Name the prokaryotic cell structures labelled W to Z in Figure 3.",
+      "specRef": "3.2.1",
+      "image": "img/2018-june-7401-1/q04-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q04-1.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q4-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q04.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Name the main biological molecule in structures W and X of the prokaryotic cell.",
+      "specRef": "3.2.1",
+      "image": "img/2018-june-7401-1/q04-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q04.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "Name the process by which prokaryotic cells divide.",
+      "specRef": "3.2.2",
+      "image": "img/2018-june-7401-1/q04-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q04.4",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the number of prokaryotic cells after 3 hours when dividing every 30 minutes.",
+      "specRef": "3.2.2",
+      "image": "img/2018-june-7401-1/q04-4.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q05.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 10,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Name the molecules represented by P and Q in the triglyceride diagram (Figure 4).",
+      "specRef": "3.1.3",
+      "image": "img/2018-june-7401-1/q05-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q05-1.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q5-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q05.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [],
+      "summary": "Name the type of bond between P and Q in Figure 4.",
+      "specRef": "3.1.3",
+      "image": "img/2018-june-7401-1/q05-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q05-2.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q5-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q05.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.1.3"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Describe how to test a liquid sample for lipid and recognise a positive result.",
+      "specRef": "3.1.3",
+      "image": "img/2018-june-7401-1/q05-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q06.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [],
+      "summary": "Explain how Figure 5 shows a hierarchical classification.",
+      "specRef": "3.4.5",
+      "image": "img/2018-june-7401-1/q06-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q06-1.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q6-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q06.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [],
+      "summary": "Name the taxon to which Drosophilidae belongs.",
+      "specRef": "3.4.5",
+      "image": "img/2018-june-7401-1/q06-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q06-2.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q6-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q06.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Describe evidence from Figure 6 that D. erecta and D. willistoni are closely related but different species.",
+      "specRef": "3.4.5",
+      "image": "img/2018-june-7401-1/q06-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q06-3.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q06.4",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 6 to suggest why two female D. willistoni did not attempt to mate.",
+      "specRef": "3.4.5",
+      "image": "img/2018-june-7401-1/q06-4.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q06-4.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q07.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 16,
+      "marks": 1,
+      "topics": [
+        "3.4.1"
+      ],
+      "skills": [],
+      "summary": "Define the proteome of a cell.",
+      "specRef": "3.4.1",
+      "image": "img/2018-june-7401-1/q07-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q07.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [],
+      "summary": "Give two structural differences between mRNA and tRNA.",
+      "specRef": "3.4.2",
+      "image": "img/2018-june-7401-1/q07-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q07.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 17,
+      "marks": 5,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [
+        "extended"
+      ],
+      "summary": "Starting with mRNA in the cytoplasm, describe how translation produces a polypeptide.",
+      "specRef": "3.4.2",
+      "image": "img/2018-june-7401-1/q07-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q08.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "State and explain the property of water that helps buffer temperature changes.",
+      "specRef": "3.1.7",
+      "image": "img/2018-june-7401-1/q08-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q08.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [],
+      "summary": "Name the two products of ATP hydrolysis.",
+      "specRef": "3.1.6",
+      "image": "img/2018-june-7401-1/q08-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q08.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 20,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Name two variables the student should have controlled in the muscle contraction ATP investigation.",
+      "specRef": "RP",
+      "image": "img/2018-june-7401-1/q08-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q08-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q08.4",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 21,
+      "marks": 2,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Describe and explain the pattern shown in Table 1.",
+      "specRef": "3.1.6",
+      "image": "img/2018-june-7401-1/q08-4.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q08-4.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q8-table1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q08.5",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.5",
+      "questionNumber": "08.5",
+      "page": 21,
+      "marks": 3,
+      "topics": [
+        "3.1.6"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the energy available from ATP for muscle contraction on slide D.",
+      "specRef": "3.1.6",
+      "image": "img/2018-june-7401-1/q08-5.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q08-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q09.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 22,
+      "marks": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Describe the pathway taken by an oxygen molecule from an alveolus to the blood.",
+      "specRef": "3.3.2",
+      "image": "img/2018-june-7401-1/q09-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q09.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 22,
+      "marks": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Explain how one feature of an alveolus allows efficient gas exchange.",
+      "specRef": "3.3.2",
+      "image": "img/2018-june-7401-1/q09-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q09.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 25,
+      "marks": 4,
+      "topics": [
+        "3.4.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 7 and the information provided to evaluate the politician's statement on smoking in cars.",
+      "specRef": "3.4.7",
+      "image": "img/2018-june-7401-1/q09-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q09-3.png",
+      "figures": [
+        "img/2018-june-7401-1/fig-q9-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-1-q10.1",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 27,
+      "marks": 3,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest how pathogenic bacteria could trigger intestinal swelling in Crohn's disease.",
+      "specRef": "3.2.4",
+      "image": "img/2018-june-7401-1/q10-1.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q10-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q10.2",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 28,
+      "marks": 2,
+      "topics": [
+        "3.4.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest the meaning of 'a genetic tendency to Crohn's disease'.",
+      "specRef": "3.4.1",
+      "image": "img/2018-june-7401-1/q10-2.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q10-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q10.3",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 28,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest why 5-ASA is only effective in controlling swelling in some people with Crohn's disease.",
+      "specRef": "3.2.4",
+      "image": "img/2018-june-7401-1/q10-3.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q10-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-1-q10.4",
+      "paper": "2018-june-7401-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "10.4",
+      "questionNumber": "10.4",
+      "page": 29,
+      "marks": 3,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest why 6-MP can be used to control symptoms of Crohn's disease.",
+      "specRef": "3.1.5",
+      "image": "img/2018-june-7401-1/q10-4.jpg",
+      "markscheme": "img/2018-june-7401-1/ms/q10-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q01.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Complete Table 1 matching plant cell structures to their descriptions.",
+      "specRef": "3.2.1",
+      "image": "img/2018-june-7401-2/q01-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q01.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Explain the role of many mitochondria and Golgi vesicles in breast milk production and secretion.",
+      "specRef": "3.2.1",
+      "image": "img/2018-june-7401-2/q01-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q02.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Describe how a peptide bond is formed between two amino acids to form a dipeptide.",
+      "specRef": "3.1.4",
+      "image": "img/2018-june-7401-2/q02-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q02.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Describe how the secondary structure of a polypeptide is produced.",
+      "specRef": "3.1.4",
+      "image": "img/2018-june-7401-2/q02-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q02.3",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Explain why two proteins with the same number and type of amino acids can have different tertiary structures.",
+      "specRef": "3.1.4",
+      "image": "img/2018-june-7401-2/q02-3.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q03.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Describe the relationship between organism size and surface area to volume ratio.",
+      "specRef": "3.3.1",
+      "image": "img/2018-june-7401-2/q03-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q03.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the mean diameter of a spherical frog egg with surface area 9.73 mm2.",
+      "specRef": "3.3.1",
+      "image": "img/2018-june-7401-2/q03-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q03.3",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest why the scientist used µmol g-1 h-1 for the rate of oxygen uptake.",
+      "specRef": "3.3.1",
+      "image": "img/2018-june-7401-2/q03-3.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q03.4",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Suggest one practical advantage of measuring mass rather than volume of frog eggs, tadpoles, and adults.",
+      "specRef": "3.3.1",
+      "image": "img/2018-june-7401-2/q03-4.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q03.5",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.3.1"
+      ],
+      "skills": [],
+      "summary": "Explain why oxygen uptake is a measure of metabolic rate.",
+      "specRef": "3.3.1",
+      "image": "img/2018-june-7401-2/q03-5.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q03.6",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.6",
+      "questionNumber": "03.6",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.4.7"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Table 2 to explain why a conclusion cannot be made about development stage and metabolic rate.",
+      "specRef": "3.4.7",
+      "image": "img/2018-june-7401-2/q03-6.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q03-6.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q3-table2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q04.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Give two similarities in the movement of substances by diffusion and osmosis.",
+      "specRef": "3.2.3",
+      "image": "img/2018-june-7401-2/q04-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q04.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 11,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain the shape of the monosaccharide uptake curve in Figure 1 between A–B and C–D.",
+      "specRef": "3.2.3",
+      "image": "img/2018-june-7401-2/q04-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q04-2.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q4-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q04.3",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest how Figure 1 provides evidence that monoglycerides are lipid-soluble.",
+      "specRef": "3.2.3",
+      "image": "img/2018-june-7401-2/q04-3.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q04-3.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q4-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q05.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 13,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Explain why only the first 5 mm of onion root tip is used and why the cover slip is pressed firmly.",
+      "specRef": "RP",
+      "image": "img/2018-june-7401-2/q05-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q05.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "maths",
+        "practical"
+      ],
+      "summary": "Use Figure 2 to calculate anaphase duration and percentage difference from the scientists' mean.",
+      "specRef": "RP",
+      "image": "img/2018-june-7401-2/q05-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q05-2.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q5-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q05.3",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "Identify the name given to division of the cytoplasm during the cell cycle.",
+      "specRef": "3.2.2",
+      "image": "img/2018-june-7401-2/q05-3.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q05.4",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Describe and explain what the student should do when counting cells to ensure an accurate mitotic index.",
+      "specRef": "RP",
+      "image": "img/2018-june-7401-2/q05-4.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q05-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q05.5",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.5",
+      "questionNumber": "05.5",
+      "page": 16,
+      "marks": 3,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 3 to suggest how the chemical stops the growth of roots.",
+      "specRef": "3.2.2",
+      "image": "img/2018-june-7401-2/q05-5.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q05-5.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q5-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q06.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Explain how the measurement from control treatment D is used by the scientist.",
+      "specRef": "RP",
+      "image": "img/2018-june-7401-2/q06-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q06.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 19,
+      "marks": 3,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Conclude from treatments D and E in Figure 4 and Table 3 about root growth.",
+      "specRef": "3.3.4",
+      "image": "img/2018-june-7401-2/q06-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q06-2.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q6-fig4-t3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q06.3",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 20,
+      "marks": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Evaluate whether Figure 4 and Table 3 support the mass flow hypothesis for phloem transport.",
+      "specRef": "3.3.4",
+      "image": "img/2018-june-7401-2/q06-3.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q06-3.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q6-fig4-t3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q07.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 21,
+      "marks": 2,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Define digestion.",
+      "specRef": "3.3.3",
+      "image": "img/2018-june-7401-2/q07-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q07.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 21,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Suggest why endocellulases and exocellulases act at different places on cellulose molecules.",
+      "specRef": "3.1.4",
+      "image": "img/2018-june-7401-2/q07-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q07.3",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 22,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Use Table 4 to calculate the rate of cellulose digestion in g min-1 in standard form when both enzymes are present.",
+      "specRef": "3.1.4",
+      "image": "img/2018-june-7401-2/q07-3.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q07-3.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q7-table4.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q07.4",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 23,
+      "marks": 2,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest why the rate of cellulose digestion is greatest when both endocellulase and exocellulase are present.",
+      "specRef": "3.3.3",
+      "image": "img/2018-june-7401-2/q07-4.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q07-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q07.5",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.5",
+      "questionNumber": "07.5",
+      "page": 23,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Write the equation for calculating percentage loss in mass of cellulose.",
+      "specRef": "3.1.4",
+      "image": "img/2018-june-7401-2/q07-5.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q07-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q08.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 24,
+      "marks": 3,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Describe how to make a 1 in 10 dilution and use it to make a 1 in 1000 dilution of a bacterial culture.",
+      "specRef": "RP",
+      "image": "img/2018-june-7401-2/q08-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q08.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 25,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "maths",
+        "practical"
+      ],
+      "summary": "Calculate the number of cells in 1 cm3 of undiluted culture from 15 cells in 0.004 mm3 of a 1 in 1000 dilution.",
+      "specRef": "RP",
+      "image": "img/2018-june-7401-2/q08-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q08.3",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 25,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Suggest why the student decided not to use the 1 in 10 dilution to count cells.",
+      "specRef": "RP",
+      "image": "img/2018-june-7401-2/q08-3.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q08-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q08.4",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 26,
+      "marks": 2,
+      "topics": [
+        "3.4.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Table 5 to suggest and explain why tetracycline-resistant bacteria are more common than streptomycin-resistant bacteria.",
+      "specRef": "3.4.4",
+      "image": "img/2018-june-7401-2/q08-4.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q08-4.png",
+      "figures": [
+        "img/2018-june-7401-2/fig-q8-table5.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7401-2-q08.5",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.5",
+      "questionNumber": "08.5",
+      "page": 27,
+      "marks": 1,
+      "topics": [
+        "3.4.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest why the percentage of tetracycline-resistant bacteria remained constant after stopping tetracycline.",
+      "specRef": "3.4.4",
+      "image": "img/2018-june-7401-2/q08-5.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q08-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q09.1",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 28,
+      "marks": 5,
+      "topics": [
+        "3.4.1"
+      ],
+      "skills": [
+        "extended"
+      ],
+      "summary": "Compare and contrast the DNA in eukaryotic cells with the DNA in prokaryotic cells.",
+      "specRef": "3.4.1",
+      "image": "img/2018-june-7401-2/q09-1.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7401-2-q09.2",
+      "paper": "2018-june-7401-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 29,
+      "marks": 5,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [
+        "extended"
+      ],
+      "summary": "Explain how differences in haemoglobin primary structure provide evidence of phylogenetic relationships.",
+      "specRef": "3.4.5",
+      "image": "img/2018-june-7401-2/q09-2.jpg",
+      "markscheme": "img/2018-june-7401-2/ms/q09-2.png",
       "figures": []
     }
   ]
