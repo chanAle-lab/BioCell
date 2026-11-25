@@ -482,6 +482,43 @@
       "optionalMarks": 25,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "date": "2018-06-07",
+      "title": "AQA A-Level Biology Paper 1 (7402/1) June 2018",
+      "totalMarks": 91,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "date": "2018-06-11",
+      "title": "AQA A-Level Biology Paper 2 (7402/2) June 2018",
+      "totalMarks": 91,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "date": "2018-06-18",
+      "title": "AQA A-Level Biology Paper 3 (7402/3) June 2018",
+      "totalMarks": 78,
+      "optionalMarks": 25,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -16913,6 +16950,2332 @@
       "summary": "Essay: The importance of diffusion in organisms.",
       "image": "img/2017-june-7402-3/q07-2.jpg",
       "markscheme": "img/2017-june-7402-3/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q01.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Give two pieces of evidence from Figure 1 that the human cell was undergoing mitosis.",
+      "image": "img/2018-june-7402-1/q01-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q01.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 1,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Tick the box giving the stage of mitosis shown in Figure 1.",
+      "image": "img/2018-june-7402-1/q01-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q01-2.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q1-fig1-2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q01.3",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Suggest how placing the cells in a higher water potential solution moved chromosomes apart.",
+      "image": "img/2018-june-7402-1/q01-3.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q01.4",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.4.1",
+      "topics": [
+        "3.4.1"
+      ],
+      "summary": "Suggest one way chromosome structure differs along its length causing a striped staining appearance.",
+      "image": "img/2018-june-7402-1/q01-4.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q01.5",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.4.1",
+      "topics": [
+        "3.4.1"
+      ],
+      "summary": "Define a homologous pair of chromosomes (as arranged in Figure 2).",
+      "image": "img/2018-june-7402-1/q01-5.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q01-5.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q1-fig1-2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q01.6",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.6",
+      "questionNumber": "01.6",
+      "page": 4,
+      "marks": 2,
+      "specRef": "3.4.1",
+      "topics": [
+        "3.4.1"
+      ],
+      "summary": "Give two ways the arrangement of prokaryotic DNA differs from human DNA in Figure 1.",
+      "image": "img/2018-june-7402-1/q01-6.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q01-6.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q1-fig1-2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q02.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 7,
+      "marks": 3,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Describe the method used to obtain the potato cube osmosis results in Figure 3 and variables controlled.",
+      "image": "img/2018-june-7402-1/q02-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q02-1.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q2-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q02.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 8,
+      "marks": 3,
+      "specRef": "3.3.1",
+      "topics": [
+        "3.3.1"
+      ],
+      "summary": "Calculate whether the rate of osmosis per mm^2 per minute differs between large cube A and small cubes B in Figure 3.",
+      "image": "img/2018-june-7402-1/q02-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q02-2.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q2-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q03.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 10,
+      "marks": 1,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "State what is meant by species richness.",
+      "image": "img/2018-june-7402-1/q03-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q03.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 11,
+      "marks": 4,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Evaluate whether Figure 4 supports conclusions about natural and town habitats for bees.",
+      "image": "img/2018-june-7402-1/q03-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q03-2.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q3-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q03.3",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 12,
+      "marks": 2,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Suggest one ethical consideration and one identification consideration when collecting bees.",
+      "image": "img/2018-june-7402-1/q03-3.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q03.4",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Suggest and explain two ways to improve data collection in the bee biodiversity investigation.",
+      "image": "img/2018-june-7402-1/q03-4.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q03.5",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.4.5",
+      "topics": [
+        "3.4.5"
+      ],
+      "summary": "Explain what the binomial names of three bee species suggest about their evolutionary relationships.",
+      "image": "img/2018-june-7402-1/q03-5.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q04.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Explain how formation of an enzyme-substrate complex increases the rate of reaction.",
+      "image": "img/2018-june-7402-1/q04-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q04.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Calculate in standard form how many times faster amino acid removal is with the enzyme present.",
+      "image": "img/2018-june-7402-1/q04-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q04.3",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 17,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Calculate the rate without lyxose at 2.5 mmol dm^-3 ATP as a percentage of the maximum rate with lyxose in Figure 5.",
+      "image": "img/2018-june-7402-1/q04-3.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q04-3.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q4-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q04.4",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 18,
+      "marks": 3,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Suggest a reason for the difference in enzyme activity with and without lyxose in Figure 5.",
+      "image": "img/2018-june-7402-1/q04-4.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q04-4.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q4-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q05.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 20,
+      "marks": 1,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Draw the general structure of an amino acid.",
+      "image": "img/2018-june-7402-1/q05-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q05.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 21,
+      "marks": 2,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Explain what is meant by a degenerate genetic code using an example from Table 1.",
+      "image": "img/2018-june-7402-1/q05-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q05-2.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q5-table1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q05.3",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 22,
+      "marks": 1,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Give the minimum number of bases in the gene coding for a 465-amino-acid polypeptide.",
+      "image": "img/2018-june-7402-1/q05-3.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q05.4",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 23,
+      "marks": 1,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Use Table 1 to tick the single base substitution in DNA changing Val to Ala at position 203.",
+      "image": "img/2018-june-7402-1/q05-4.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q05-4.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q5-table1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q05.5",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.5",
+      "questionNumber": "05.5",
+      "page": 23,
+      "marks": 3,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Suggest why changing Glu to Lys at amino acid 300 had no effect whereas at 279 it reduced enzyme rate.",
+      "image": "img/2018-june-7402-1/q05-5.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q05-5.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q5-table1.jpg",
+        "img/2018-june-7402-1/fig-q5-table2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q06.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 25,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Complete Figure 7 to show chromosomes resulting from normal meiosis of the diploid cell in Figure 6.",
+      "image": "img/2018-june-7402-1/q06-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q06-1.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q06.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 26,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Complete Table 3 with expected numbers of plants producing and not producing 2n gametes after 1 cycle.",
+      "image": "img/2018-june-7402-1/q06-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q06.3",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 27,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Interpret the chi-squared result (350 vs critical value 3.841 at P=0.05) for the red clover breeding cycles.",
+      "image": "img/2018-june-7402-1/q06-3.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q06-3.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q6-table3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q06.4",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 27,
+      "marks": 3,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Use directional selection to explain the results in Table 3.",
+      "image": "img/2018-june-7402-1/q06-4.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q06-4.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q6-table3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q07.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 28,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Explain how antivenom works and why passive immunity is essential rather than active immunity.",
+      "image": "img/2018-june-7402-1/q07-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q07.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 29,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Suggest why a mixture of venoms from several snakes of the same species is used in Figure 8.",
+      "image": "img/2018-june-7402-1/q07-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q07.3",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 30,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Use a calculation to suggest whether horses (350 kg) or rabbits (2 kg) are better for antivenom production.",
+      "image": "img/2018-june-7402-1/q07-3.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q07.4",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 30,
+      "marks": 1,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Suggest one reason why animals are under ongoing veterinary observation during antivenom production in Figure 8.",
+      "image": "img/2018-june-7402-1/q07-4.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q07-4.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q7-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q07.5",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.5",
+      "questionNumber": "07.5",
+      "page": 31,
+      "marks": 3,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Use the humoral immune response to explain the two-dose venom vaccination programme.",
+      "image": "img/2018-june-7402-1/q07-5.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q07-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q08.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 33,
+      "marks": 2,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Explain how Figure 9 supports the conclusion that heat treatment damaged the phloem.",
+      "image": "img/2018-june-7402-1/q08-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q08-1.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q8-fig9-table4.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q08.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 33,
+      "marks": 2,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Explain how Table 4 supports the conclusion that heat treatment did not affect the xylem.",
+      "image": "img/2018-june-7402-1/q08-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q08-2.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q8-fig9-table4.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q08.3",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 34,
+      "marks": 4,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Conclude from Figure 10 how Fe3+ ions move in barley plants.",
+      "image": "img/2018-june-7402-1/q08-3.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q08-3.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q8-fig10.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q09.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 37,
+      "marks": 3,
+      "specRef": "3.1.5.2",
+      "topics": [
+        "3.1.5.2"
+      ],
+      "summary": "Describe the role of two named enzymes in semi-conservative DNA replication.",
+      "image": "img/2018-june-7402-1/q09-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q09.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 38,
+      "marks": 3,
+      "specRef": "3.1.5.2",
+      "topics": [
+        "3.1.5.2"
+      ],
+      "summary": "Suggest explanations for the DNA replication results with cyclin A treatments in Table 5.",
+      "image": "img/2018-june-7402-1/q09-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q09-2.png",
+      "figures": [
+        "img/2018-june-7402-1/fig-q9-table5.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-1-q10.1",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 40,
+      "marks": 6,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Describe the gross structure of the human gas exchange system and how we breathe in and out.",
+      "image": "img/2018-june-7402-1/q10-1.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q10-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q10.2",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 41,
+      "marks": 5,
+      "specRef": "3.1.3",
+      "topics": [
+        "3.1.3"
+      ],
+      "summary": "Compare and contrast the structure and properties of triglycerides and phospholipids.",
+      "image": "img/2018-june-7402-1/q10-2.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q10-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-1-q10.3",
+      "paper": "2018-june-7402-1",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 42,
+      "marks": 4,
+      "specRef": "3.1.2",
+      "topics": [
+        "3.1.2"
+      ],
+      "summary": "Describe how lactose is formed and where in the cell it is attached to a polypeptide to form a glycoprotein.",
+      "image": "img/2018-june-7402-1/q10-3.jpg",
+      "markscheme": "img/2018-june-7402-1/ms/q10-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q01.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "Explain why a decrease in the light-dependent reaction due to heat stress decreases the light-independent reaction.",
+      "image": "img/2018-june-7402-2/q01-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q01.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "Explain why a decrease in rubisco activity would limit the rate of photosynthesis.",
+      "image": "img/2018-june-7402-2/q01-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q01.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 2,
+      "marks": 1,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "State precisely where rubisco is found in a cell.",
+      "image": "img/2018-june-7402-2/q01-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q01.4",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 4,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "Evaluate the conclusion that heat stress reduces rubisco activity by affecting rubisco activase using Figures 1 and 2.",
+      "image": "img/2018-june-7402-2/q01-4.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q02.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Tick the statement that describes incorrectly the effect of a mutation in an exon.",
+      "image": "img/2018-june-7402-2/q02-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q02.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 3,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "Describe how alterations to tumour suppressor genes can lead to the development of tumours.",
+      "image": "img/2018-june-7402-2/q02-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q02.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 2,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Calculate in standard form how many tumour cells are present after 4 weeks if one cell divides every 8 hours.",
+      "image": "img/2018-june-7402-2/q02-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q03.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 1,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Suggest why the student left the yeast respiration apparatus in Figure 3 for one hour at constant temperature.",
+      "image": "img/2018-june-7402-2/q03-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q03-1.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q03.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.5.2",
+      "topics": [
+        "3.5.2"
+      ],
+      "summary": "Explain why the coloured liquid in Figure 3 moved to the right.",
+      "image": "img/2018-june-7402-2/q03-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q03-2.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q03.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 7,
+      "marks": 2,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Calculate the volume of gas produced in cm^3 hour^-1 from the capillary tubing movement.",
+      "image": "img/2018-june-7402-2/q03-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q03.4",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 8,
+      "marks": 1,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Explain why a log scale is used to record yeast cell numbers in Figure 4.",
+      "image": "img/2018-june-7402-2/q03-4.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q03.5",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 8,
+      "marks": 1,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Suggest one reason why many yeast cells die during the death phase in Figure 4.",
+      "image": "img/2018-june-7402-2/q03-5.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q03.6",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.6",
+      "questionNumber": "03.6",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Use X_t = X_0 e^(rt) to calculate the predicted yeast population after 10 hours.",
+      "image": "img/2018-june-7402-2/q03-6.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q03-6.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q04.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 3,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Describe how to determine the mean percentage cover for beach grass on a sand dune.",
+      "image": "img/2018-june-7402-2/q04-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q04-1.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q4-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q04.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 11,
+      "marks": 4,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Use Figure 5 to explain why scientists concluded the sand dune results were due to succession.",
+      "image": "img/2018-june-7402-2/q04-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q04-2.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q4-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q04.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 12,
+      "marks": 1,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Use Figure 5 to explain the sunlight results in Figure 6.",
+      "image": "img/2018-june-7402-2/q04-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q04-3.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q4-fig5.jpg",
+        "img/2018-june-7402-2/fig-q4-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q04.4",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 12,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Use Figure 6 to conclude about net primary productivity (NPP) in sand dunes older than 1000 years.",
+      "image": "img/2018-june-7402-2/q04-4.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q04-4.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q4-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q05.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Suggest and explain one reason why all volunteers were given the same food for 3 days.",
+      "image": "img/2018-june-7402-2/q05-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q05-1.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q5-table1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q05.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Use Table 1 to conclude the effectiveness of furosemide and CVT in removing excess fluid.",
+      "image": "img/2018-june-7402-2/q05-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q05-2.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q5-table1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q05.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 1,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Suggest how furosemide causes a decrease in blood pressure.",
+      "image": "img/2018-june-7402-2/q05-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q05.4",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 15,
+      "marks": 3,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Explain how inhibiting sodium and chloride ion reabsorption in nephrons increases urine volume.",
+      "image": "img/2018-june-7402-2/q05-4.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q05-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q05.5",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.5",
+      "questionNumber": "05.5",
+      "page": 16,
+      "marks": 1,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Use Table 2 to calculate how much greater blood flow into kidneys is with furosemide than placebo over 4 hours.",
+      "image": "img/2018-june-7402-2/q05-5.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q05-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q06.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Suggest two reasons why observed phenotypic ratios in genetic crosses often differ from expected ratios.",
+      "image": "img/2018-june-7402-2/q06-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q06.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 18,
+      "marks": 1,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Give the genotype of tomato offspring with dwarf plants and mottled leaves from Figure 7 and Table 3.",
+      "image": "img/2018-june-7402-2/q06-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q06-2.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q6-fig7-table3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q06.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 19,
+      "marks": 3,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Use Figure 7 to explain the offspring numbers in Table 3.",
+      "image": "img/2018-june-7402-2/q06-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q06-3.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q6-fig7-table3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q06.4",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 19,
+      "marks": 2,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Complete Table 4 for the expected phenotypic ratio if the two genes were unlinked.",
+      "image": "img/2018-june-7402-2/q06-4.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q06-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q07.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 20,
+      "marks": 3,
+      "specRef": "3.6.2.2",
+      "topics": [
+        "3.6.2.2"
+      ],
+      "summary": "Describe how dopamine stimulates the production of nerve impulses in postsynaptic neurones.",
+      "image": "img/2018-june-7402-2/q07-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q07.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 20,
+      "marks": 2,
+      "specRef": "3.6.2.2",
+      "topics": [
+        "3.6.2.2"
+      ],
+      "summary": "Explain how morphine, which has a similar structure to endorphins, provides pain relief.",
+      "image": "img/2018-june-7402-2/q07-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q07.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 21,
+      "marks": 3,
+      "specRef": "3.6.2.2",
+      "topics": [
+        "3.6.2.2"
+      ],
+      "summary": "Explain how GABA causing chloride ions to enter postsynaptic neurones inhibits them.",
+      "image": "img/2018-june-7402-2/q07-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q08.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 22,
+      "marks": 1,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "State what is meant by a genome.",
+      "image": "img/2018-june-7402-2/q08-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q08.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Explain why the antibody binds specifically to the transcription factor in Figure 8.",
+      "image": "img/2018-june-7402-2/q08-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q08-2.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q8-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q08.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 23,
+      "marks": 1,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Use Figure 8 to explain what 'precipitated DNA' consists of.",
+      "image": "img/2018-june-7402-2/q08-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q08-3.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q8-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q08.4",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 23,
+      "marks": 1,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Suggest how single-stranded cDNA could prevent transcription of the P34 gene.",
+      "image": "img/2018-june-7402-2/q08-4.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q08-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q08.5",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.5",
+      "questionNumber": "08.5",
+      "page": 24,
+      "marks": 2,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Describe the roles of two named types of enzymes used to insert DNA fragments into plasmids.",
+      "image": "img/2018-june-7402-2/q08-5.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q08-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q08.6",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.6",
+      "questionNumber": "08.6",
+      "page": 24,
+      "marks": 2,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Suggest two features of different proteins that enable separation by gel electrophoresis.",
+      "image": "img/2018-june-7402-2/q08-6.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q08-6.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q09.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 26,
+      "marks": 4,
+      "specRef": "3.7.3",
+      "topics": [
+        "3.7.3"
+      ],
+      "summary": "Describe how farming cattle as a source of milk could have led to an increase in lactase persistence (LP).",
+      "image": "img/2018-june-7402-2/q09-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q09.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 26,
+      "marks": 2,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Explain why the number of people showing lactase persistence would rapidly increase once selection was established.",
+      "image": "img/2018-june-7402-2/q09-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q09.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 27,
+      "marks": 2,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Suggest and explain how a mutation outside the lactase gene causes lactase persistence.",
+      "image": "img/2018-june-7402-2/q09-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q09-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-2-q10.1",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 28,
+      "marks": 3,
+      "specRef": "3.6.1.2",
+      "topics": [
+        "3.6.1.2"
+      ],
+      "summary": "Explain why people with complete achromatopsia have difficulty seeing detail.",
+      "image": "img/2018-june-7402-2/q10-1.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q10-1.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q10.2",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 29,
+      "marks": 2,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Use the Hardy-Weinberg equation to calculate the percentage heterozygous for complete achromatopsia on Pingelap.",
+      "image": "img/2018-june-7402-2/q10-2.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q10-2.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q10.3",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 29,
+      "marks": 2,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Explain why sex-linked recessive red-green colour blindness affects more men than women.",
+      "image": "img/2018-june-7402-2/q10-3.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q10-3.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q10.4",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.4",
+      "questionNumber": "10.4",
+      "page": 30,
+      "marks": 3,
+      "specRef": "3.6.1.2",
+      "topics": [
+        "3.6.1.2"
+      ],
+      "summary": "Explain why people with red-green colour blindness cannot distinguish between red, green and other colours.",
+      "image": "img/2018-june-7402-2/q10-4.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q10-4.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q10.5",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.5",
+      "questionNumber": "10.5",
+      "page": 30,
+      "marks": 2,
+      "specRef": "3.8.2.1",
+      "topics": [
+        "3.8.2.1"
+      ],
+      "summary": "Suggest how induced pluripotent stem cells (iPS cells) could correct red-green colour blindness.",
+      "image": "img/2018-june-7402-2/q10-5.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q10-5.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-2-q10.6",
+      "paper": "2018-june-7402-2",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.6",
+      "questionNumber": "10.6",
+      "page": 31,
+      "marks": 3,
+      "specRef": "3.8.4.2",
+      "topics": [
+        "3.8.4.2"
+      ],
+      "summary": "Suggest and explain advantages of iPS cells over gene therapy to correct red-green colour blindness.",
+      "image": "img/2018-june-7402-2/q10-6.jpg",
+      "markscheme": "img/2018-june-7402-2/ms/q10-6.png",
+      "figures": [
+        "img/2018-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q01.1",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.6.4.1",
+      "topics": [
+        "3.6.4.1"
+      ],
+      "summary": "Use Figure 1 to explain why osteocalcin secretion by osteoblasts is controlled by positive feedback.",
+      "image": "img/2018-june-7402-3/q01-1.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q01-1.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q01.2",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Suggest how acidic pH created by osteoclasts changes inactive osteocalcin into the active form.",
+      "image": "img/2018-june-7402-3/q01-2.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q01-2.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q01.3",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 4,
+      "marks": 2,
+      "specRef": "3.6.4.2",
+      "topics": [
+        "3.6.4.2"
+      ],
+      "summary": "Explain how binding of insulin leads to an increase in the rate of respiration in osteoblasts.",
+      "image": "img/2018-june-7402-3/q01-3.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q02.1",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 6,
+      "marks": 1,
+      "specRef": "3.4.7",
+      "topics": [
+        "3.4.7"
+      ],
+      "summary": "Name the statistical test for a relationship between CD20 amount and % B cells destroyed in Figure 2, and give a reason.",
+      "image": "img/2018-june-7402-3/q02-1.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q02-1.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q02.2",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 7,
+      "marks": 3,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Conclude from Figure 2 the effectiveness of Rituximab in treating patients with CLL.",
+      "image": "img/2018-june-7402-3/q02-2.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q02-2.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q02.3",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 8,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Use Table 1 to calculate in standard form the difference in B cells per dm^3 between patients with and without NOTCH1 mutation.",
+      "image": "img/2018-june-7402-3/q02-3.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q02-3.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q2-table1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q02.4",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 9,
+      "marks": 3,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Suggest how the NOTCH1 mutation led to the difference in percentage of B cells destroyed by Rituximab.",
+      "image": "img/2018-june-7402-3/q02-4.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q02-4.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q2-table1.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q03.1",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 11,
+      "marks": 1,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Complete Figure 3 with A or a in the boxes for meiotic division.",
+      "image": "img/2018-june-7402-3/q03-1.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q03-1.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q03.2",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 11,
+      "marks": 1,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Tick the process that produced the allele combination on the chromosome in the first polar body in Figure 3.",
+      "image": "img/2018-june-7402-3/q03-2.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q03-2.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q03.3",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 11,
+      "marks": 2,
+      "specRef": "3.2.1.1",
+      "topics": [
+        "3.2.1.1"
+      ],
+      "summary": "Calculate the number of mitochondria in the spherical polar body given diameters and mitochondrial density.",
+      "image": "img/2018-june-7402-3/q03-3.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q03.4",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 12,
+      "marks": 2,
+      "specRef": "3.8.4.2",
+      "topics": [
+        "3.8.4.2"
+      ],
+      "summary": "Suggest how replacing a donated egg's nucleus with a polar body prevents inheritance of mitochondrial diseases.",
+      "image": "img/2018-june-7402-3/q03-4.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q03.5",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.1.6",
+      "topics": [
+        "3.1.6"
+      ],
+      "summary": "Suggest and explain why faulty mitochondria prevent or slow down many enzyme-catalysed reactions.",
+      "image": "img/2018-june-7402-3/q03-5.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q04.1",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Explain why binding of one oxygen molecule to haemoglobin makes it easier for a second oxygen to bind.",
+      "image": "img/2018-june-7402-3/q04-1.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q04.2",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 17,
+      "marks": 2,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Calculate in standard form the number of red blood cells per mm^3 in the original blood sample using Figure 4.",
+      "image": "img/2018-june-7402-3/q04-2.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q04-2.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q04.3",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 17,
+      "marks": 2,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Suggest two reasons for the haemocytometer rule of counting top/left lines and excluding right/bottom lines.",
+      "image": "img/2018-june-7402-3/q04-3.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q04-3.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q04.4",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 18,
+      "marks": 1,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Suggest why the doctor only diluted the blood sample by 20 times when counting white blood cells.",
+      "image": "img/2018-june-7402-3/q04-4.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q04.5",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.5",
+      "questionNumber": "04.5",
+      "page": 18,
+      "marks": 1,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Explain how a nuclear stain allowed the doctor to count white blood cells amongst red blood cells.",
+      "image": "img/2018-june-7402-3/q04-5.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q04-5.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q05.1",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 20,
+      "marks": 2,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Suggest how a detergent that dissolves lipids releases CENP-W from cells and organelles.",
+      "image": "img/2018-june-7402-3/q05-1.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q05.2",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 20,
+      "marks": 2,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Explain how ultracentrifugation separates CENP-W from other molecules.",
+      "image": "img/2018-june-7402-3/q05-2.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q05.3",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 21,
+      "marks": 3,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Suggest how siRNA against the CENP-W gene produced the electrophoresis results in Figure 5.",
+      "image": "img/2018-june-7402-3/q05-3.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q06.1",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Suggest why scientists used units of ug g^-1 for ammonia concentration in soil.",
+      "image": "img/2018-june-7402-3/q06-1.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q06-1.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q06.2",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Calculate the difference in rate of ammonia breakdown per day between day 0 and day 2 in soil A and soil B.",
+      "image": "img/2018-june-7402-3/q06-2.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q06-2.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q06.3",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 24,
+      "marks": 3,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Give evidence from Figure 6 supporting the conclusion that soils A and B had different bacterial communities.",
+      "image": "img/2018-june-7402-3/q06-3.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q06-3.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q06.4",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 27,
+      "marks": 2,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Use a calculation from Figure 7 to show which species' amoA mRNA copies were more affected by pH 4.9 to 7.5.",
+      "image": "img/2018-june-7402-3/q06-4.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q06-4.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q06.5",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.5",
+      "questionNumber": "06.5",
+      "page": 28,
+      "marks": 4,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Explain why this method estimated amoA gene expression but not bacterial population growth.",
+      "image": "img/2018-june-7402-3/q06-5.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q06-5.png",
+      "figures": [
+        "img/2018-june-7402-3/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2018-june-7402-3-q06.6",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.6",
+      "questionNumber": "06.6",
+      "page": 29,
+      "marks": 2,
+      "specRef": "RP",
+      "topics": [
+        "RP"
+      ],
+      "summary": "Suggest a suitable method to sterilise glass bottles and explain why sterilisation was necessary.",
+      "image": "img/2018-june-7402-3/q06-6.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q06-6.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q07.1",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 30,
+      "marks": 25,
+      "specRef": "Essay",
+      "topics": [
+        "Essay"
+      ],
+      "summary": "Essay: The importance of the control of movement in cells and organisms.",
+      "image": "img/2018-june-7402-3/q07-1.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2018-june-7402-3-q07.2",
+      "paper": "2018-june-7402-3",
+      "year": 2018,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 30,
+      "marks": 25,
+      "specRef": "Essay",
+      "topics": [
+        "Essay"
+      ],
+      "summary": "Essay: The importance of interactions between cells and between organisms.",
+      "image": "img/2018-june-7402-3/q07-2.jpg",
+      "markscheme": "img/2018-june-7402-3/ms/q07-2.png",
       "figures": []
     }
   ]
