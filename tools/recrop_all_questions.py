@@ -22,6 +22,8 @@ QUESTIONS_FILE = os.path.join(REPO_DIR, "questions.json")
 PDF_MAP: dict[str, str] = {
     "2016-june-7401-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795595891833_d3501bca.pdf",
     "2016-june-7401-2r": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795595891937_a37df9a8.pdf",
+    "2017-june-7401-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795595930340_683151dc.pdf",
+    "2017-june-7401-2": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795595930411_ee6b458f.pdf",
 }
 
 
@@ -161,8 +163,8 @@ def main() -> None:
                     dot_sub = f". {m_dot.group(2)}"
                     left_box = f"{d1[0]} {d1[1]}"
                     for bbox, txt in lines:
-                        if search_start - 5 <= bbox[1] < max_search_y and 95 <= bbox[0] < 140 and txt.strip() in (dot_sub, f".{m_dot.group(2)}"):
-                            if any(b2[0] < 100 and abs(b2[1] - bbox[1]) < 5 and t2.strip() in (left_box, d1) for b2, t2 in lines):
+                        if search_start - 5 <= bbox[1] < max_search_y and 90 <= bbox[0] < 140 and txt.strip() in (dot_sub, f".{m_dot.group(2)}"):
+                            if any(b2[0] < 95 and abs(b2[1] - bbox[1]) < 5 and t2.strip() in (left_box, d1, d1[1]) for b2, t2 in lines):
                                 found_y0 = bbox[1]
                                 break
 
