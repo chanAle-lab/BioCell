@@ -397,6 +397,30 @@
       "totalMarks": 75,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "date": "2016-01-01",
+      "title": "7401/1 — AS Paper 1 (Specimen Set 2)",
+      "totalMarks": 75,
+      "pdf": null,
+      "ms": null
+    },
+    {
+      "id": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "date": "2016-01-01",
+      "title": "7401/2 — AS Paper 2 (Specimen Set 2)",
+      "totalMarks": 75,
+      "pdf": null,
+      "ms": null
     }
   ],
   "questions": [
@@ -11493,6 +11517,1577 @@
       "specRef": "3.3.2",
       "image": "img/2022-june-7401-2/q09-2.jpg",
       "markscheme": "img/2022-june-7401-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q01.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [],
+      "summary": "Explain the meaning of degenerate and non-overlapping as applied to the genetic code.",
+      "specRef": "3.4.2",
+      "image": "img/2016-specimen-set2-7401-1/q01-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q01.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Name the bases represented by A, C, G, and U in Table 1.",
+      "specRef": "3.1.5",
+      "image": "img/2016-specimen-set2-7401-1/q01-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q01-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q1-table1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q01.3",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [],
+      "summary": "Use Table 1 to give the DNA base sequence coding for serine.",
+      "specRef": "3.4.2",
+      "image": "img/2016-specimen-set2-7401-1/q01-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q01-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q1-table1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q02.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Explain two ways in which the structure of fish gills is adapted for efficient gas exchange.",
+      "specRef": "3.3.2",
+      "image": "img/2016-specimen-set2-7401-1/q02-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q02.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 3,
+      "marks": 3,
+      "topics": [
+        "3.3.2"
+      ],
+      "skills": [],
+      "summary": "Explain how the counter-current mechanism in fish gills ensures maximum oxygen passes into blood.",
+      "specRef": "3.3.2",
+      "image": "img/2016-specimen-set2-7401-1/q02-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q03.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [],
+      "summary": "Explain what phylogenetic classification starting with Apodemus indicates about European field mice.",
+      "specRef": "3.4.5",
+      "image": "img/2016-specimen-set2-7401-1/q03-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q03.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [],
+      "summary": "Complete Table 2 to show the taxonomic hierarchy of the long-tailed field mouse.",
+      "specRef": "3.4.5",
+      "image": "img/2016-specimen-set2-7401-1/q03-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q03.3",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 5,
+      "marks": 3,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [
+        "maths",
+        "analysis"
+      ],
+      "summary": "Use ratios and SDs in Table 3 to evaluate whether St. Kilda and long-tailed field mice are different species.",
+      "specRef": "3.4.5",
+      "image": "img/2016-specimen-set2-7401-1/q03-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q03-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q3-table3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q03.4",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.4.5"
+      ],
+      "skills": [],
+      "summary": "Describe how breeding experiments could determine whether the two mouse populations are the same species.",
+      "specRef": "3.4.5",
+      "image": "img/2016-specimen-set2-7401-1/q03-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q04.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 6,
+      "marks": 3,
+      "topics": [
+        "3.3.3"
+      ],
+      "skills": [],
+      "summary": "Explain how cells lining the ileum absorb glucose by co-transport with sodium ions.",
+      "specRef": "3.3.3",
+      "image": "img/2016-specimen-set2-7401-1/q04-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q04.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Complete Table 4 with expected positive biochemical test results inside and outside Visking tubing (Figure 1).",
+      "specRef": "3.1.2",
+      "image": "img/2016-specimen-set2-7401-1/q04-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q04-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q4-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q04.3",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 7,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Justify the biochemical test results in Table 4 for the Visking tubing experiment (Figure 1).",
+      "specRef": "3.2.3",
+      "image": "img/2016-specimen-set2-7401-1/q04-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q04-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q4-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q05.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 8,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Name the animal cell organelles labelled B and C in Figure 2.",
+      "specRef": "3.2.1",
+      "image": "img/2016-specimen-set2-7401-1/q05-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q05-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q5-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q05.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 8,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Name two structures present in plant cells that are not present in animal cells.",
+      "specRef": "3.2.1",
+      "image": "img/2016-specimen-set2-7401-1/q05-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q05.3",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 9,
+      "marks": 3,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Explain why the cell fractionation solution was ice-cold, buffered, and of the same water potential.",
+      "specRef": "3.2.1",
+      "image": "img/2016-specimen-set2-7401-1/q05-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q05-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q5-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q05.4",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Explain why the biologist used a blender and then filtered the liver tissue mixture.",
+      "specRef": "3.2.1",
+      "image": "img/2016-specimen-set2-7401-1/q05-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q05-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q05.5",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.5",
+      "questionNumber": "05.5",
+      "page": 9,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Name the organelle that made up most of the first pellet after low-speed centrifugation.",
+      "specRef": "3.2.1",
+      "image": "img/2016-specimen-set2-7401-1/q05-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q05-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q05.6",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "05.6",
+      "questionNumber": "05.6",
+      "page": 10,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Suggest why the second centrifuge tube was spun at a higher speed to isolate organelle C (Figure 2).",
+      "specRef": "3.2.1",
+      "image": "img/2016-specimen-set2-7401-1/q05-6.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q05-6.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q5-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q06.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 12,
+      "marks": 4,
+      "topics": [
+        "3.1.7"
+      ],
+      "skills": [],
+      "summary": "Give and explain two properties of water that are important in the cytoplasm of cells.",
+      "specRef": "3.1.7",
+      "image": "img/2016-specimen-set2-7401-1/q06-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q06.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 12,
+      "marks": 2,
+      "topics": [
+        "3.1.8"
+      ],
+      "skills": [],
+      "summary": "Other than sodium, name one inorganic ion and give one example of its biological importance in a cell.",
+      "specRef": "3.1.8",
+      "image": "img/2016-specimen-set2-7401-1/q06-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q06.3",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 13,
+      "marks": 3,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [],
+      "summary": "Compare and contrast the processes by which water and inorganic ions enter cells.",
+      "specRef": "3.2.3",
+      "image": "img/2016-specimen-set2-7401-1/q06-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q07.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [],
+      "summary": "Define what an antigen is.",
+      "specRef": "3.2.4",
+      "image": "img/2016-specimen-set2-7401-1/q07-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q07.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [],
+      "summary": "Define what an antibody is.",
+      "specRef": "3.2.4",
+      "image": "img/2016-specimen-set2-7401-1/q07-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q07.3",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 15,
+      "marks": 1,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Use Figure 3 to calculate the percentage increase in mean blood antibody concentration between samples 2 and 3.",
+      "specRef": "3.2.4",
+      "image": "img/2016-specimen-set2-7401-1/q07-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q07-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q7-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q07.4",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 15,
+      "marks": 4,
+      "topics": [
+        "3.2.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain the differences between the mean antibody concentrations in blood samples 1, 2, and 3 in Figure 3.",
+      "specRef": "3.2.4",
+      "image": "img/2016-specimen-set2-7401-1/q07-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q07-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q7-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q08.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 16,
+      "marks": 4,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths",
+        "practical"
+      ],
+      "summary": "Process the protease rate of hydrolysis data in Table 5 and plot it on the graph paper.",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-1/q08-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q08-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q8-table5.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q08.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 17,
+      "marks": 4,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Evaluate whether Table 5 supports the conclusion that the bacterium lives at 15 C.",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-1/q08-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q08-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-1/fig-q8-table5.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q08.3",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 17,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Suggest two variables the biochemist controlled in the protease temperature investigation.",
+      "specRef": "RP",
+      "image": "img/2016-specimen-set2-7401-1/q08-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q08-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q09.1",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 18,
+      "marks": 3,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain why phloem-sap-feeding insects can take up sap without using their jaw muscles.",
+      "specRef": "3.3.4",
+      "image": "img/2016-specimen-set2-7401-1/q09-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q09.2",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest the advantage to a phloem-sap-feeder of polymerising sugars into insoluble polysaccharides.",
+      "specRef": "3.1.2",
+      "image": "img/2016-specimen-set2-7401-1/q09-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q09.3",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "3.4.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest how receiving only a few gut bacteria from a parent reduces bacterial genetic diversity.",
+      "specRef": "3.4.4",
+      "image": "img/2016-specimen-set2-7401-1/q09-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q09-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q09.4",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 19,
+      "marks": 2,
+      "topics": [
+        "3.4.7"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Other than environmental factors, give two features to control when comparing insect feeding effects on plant growth.",
+      "specRef": "3.4.7",
+      "image": "img/2016-specimen-set2-7401-1/q09-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q09-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-1-q09.5",
+      "paper": "2016-specimen-set2-7401-1",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/1",
+      "level": "AS",
+      "question": "09.5",
+      "questionNumber": "09.5",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.4.7"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Outline a method by which you could find the area of a plant leaf.",
+      "specRef": "3.4.7",
+      "image": "img/2016-specimen-set2-7401-1/q09-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-1/ms/q09-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q01.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Explain why Milk B contains glucose after passing through the lactase gel bead column (Figure 1).",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-2/q01-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q01-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q01.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Suggest one advantage of trapping the enzyme lactase within gel beads (Figure 1).",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-2/q01-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q01-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q01.3",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain the difference in Milk B glucose concentration at 50 vs 100 cm3 min^-1 flow rate in Table 1.",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-2/q01-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q01-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q1-table1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q01.4",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 1,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the volume in mm3 of a spherical gel bead with a 3.0 mm diameter.",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-2/q01-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q01.5",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 3,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [],
+      "summary": "Explain how galactose inhibits the enzyme lactase.",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-2/q01-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q01-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q02.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the magnification of the bacterium image using the 0.5 um scale bar in Figure 2.",
+      "specRef": "3.2.1",
+      "image": "img/2016-specimen-set2-7401-2/q02-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q02-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q02.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 2,
+      "topics": [
+        "3.2.1"
+      ],
+      "skills": [],
+      "summary": "Complete Table 2 comparing features of a bacterium and a virus.",
+      "specRef": "3.2.1",
+      "image": "img/2016-specimen-set2-7401-2/q02-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q02.3",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 2,
+      "topics": [
+        "3.1.5"
+      ],
+      "skills": [],
+      "summary": "Give two ways in which DNA nucleotides differ from RNA nucleotides.",
+      "specRef": "3.1.5",
+      "image": "img/2016-specimen-set2-7401-2/q02-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q03.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Explain why the student did not add a buffer to the lipase solution in Figure 3.",
+      "specRef": "RP",
+      "image": "img/2016-specimen-set2-7401-2/q03-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q03-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q03.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Give two variables the student would have controlled in the lipase lipid hydrolysis investigation.",
+      "specRef": "RP",
+      "image": "img/2016-specimen-set2-7401-2/q03-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q03-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q03.3",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 6,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Give a suitable control for the lipase lipid hydrolysis investigation.",
+      "specRef": "RP",
+      "image": "img/2016-specimen-set2-7401-2/q03-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q03-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q03.4",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Draw a tangent on Figure 4 and calculate the rate of pH change at 5 minutes.",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-2/q03-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q03-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q3-table1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q03.5",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 7,
+      "marks": 2,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Explain the shape of the pH curve over time in Figure 4.",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-2/q03-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q03-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q03.6",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "03.6",
+      "questionNumber": "03.6",
+      "page": 8,
+      "marks": 3,
+      "topics": [
+        "3.1.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Describe and explain the expected pH results when repeating the experiment with a higher lipase concentration.",
+      "specRef": "3.1.4",
+      "image": "img/2016-specimen-set2-7401-2/q03-6.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q03-6.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q04.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [],
+      "summary": "Explain why transcription produces pre-mRNA in eukaryotes but mRNA directly in prokaryotes.",
+      "specRef": "3.4.2",
+      "image": "img/2016-specimen-set2-7401-2/q04-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q04.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 9,
+      "marks": 2,
+      "topics": [
+        "3.4.2"
+      ],
+      "skills": [],
+      "summary": "Give two differences between the structure of mRNA and the structure of tRNA.",
+      "specRef": "3.4.2",
+      "image": "img/2016-specimen-set2-7401-2/q04-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q05.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 10,
+      "marks": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [],
+      "summary": "Explain four ways in which the structure of the aorta is related to its function.",
+      "specRef": "3.3.4",
+      "image": "img/2016-specimen-set2-7401-2/q05-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q05.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 11,
+      "marks": 4,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 5 to explain how the haemoglobin of more active species B allows a greater level of activity.",
+      "specRef": "3.3.4",
+      "image": "img/2016-specimen-set2-7401-2/q05-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q05-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q5-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q05.3",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 11,
+      "marks": 2,
+      "topics": [
+        "3.3.4"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Use the ECG in Figure 6 and stroke volume 0.03 cm3 to calculate cardiac output per minute for species B.",
+      "specRef": "3.3.4",
+      "image": "img/2016-specimen-set2-7401-2/q05-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q05-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q5-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q06.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 12,
+      "marks": 5,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Use Figure 7 (with and without oxygen) to conclude the processes involved in calcium ion uptake by plant cells.",
+      "specRef": "3.2.3",
+      "image": "img/2016-specimen-set2-7401-2/q06-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q06-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q06.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 13,
+      "marks": 1,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Suggest one way to ensure the solutions used for curve X in Figure 7 contained no oxygen.",
+      "specRef": "RP",
+      "image": "img/2016-specimen-set2-7401-2/q06-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q06-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q07.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Name the monomers from which a maltose molecule is made.",
+      "specRef": "3.1.2",
+      "image": "img/2016-specimen-set2-7401-2/q07-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q07.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 14,
+      "marks": 1,
+      "topics": [
+        "3.1.2"
+      ],
+      "skills": [],
+      "summary": "Name the type of chemical bond joining the two monomers in maltose.",
+      "specRef": "3.1.2",
+      "image": "img/2016-specimen-set2-7401-2/q07-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q07.3",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 14,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "maths",
+        "practical"
+      ],
+      "summary": "Complete Table 3 with headings, units, and the concentration of the diluted maltose solution.",
+      "specRef": "RP",
+      "image": "img/2016-specimen-set2-7401-2/q07-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q07.4",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 15,
+      "marks": 2,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Explain how to use the Figure 8 calibration curve to determine maltose concentration at 0.45 absorbance.",
+      "specRef": "RP",
+      "image": "img/2016-specimen-set2-7401-2/q07-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q07-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q7-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q08.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 16,
+      "marks": 2,
+      "topics": [
+        "3.4.6"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Complete Table 4 for species richness and total number of insects (N) in each habitat.",
+      "specRef": "3.4.6",
+      "image": "img/2016-specimen-set2-7401-2/q08-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q08-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q8-table4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q08.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 17,
+      "marks": 2,
+      "topics": [
+        "3.4.6"
+      ],
+      "skills": [
+        "maths"
+      ],
+      "summary": "Calculate the index of diversity (d) of the wheat field using Table 4.",
+      "specRef": "3.4.6",
+      "image": "img/2016-specimen-set2-7401-2/q08-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q08-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q8-table4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q08.3",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 17,
+      "marks": 3,
+      "topics": [
+        "3.4.6"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest why the index of diversity of insects was higher in the hedge than in the barley field.",
+      "specRef": "3.4.6",
+      "image": "img/2016-specimen-set2-7401-2/q08-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q08-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q8-table4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q09.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 18,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [],
+      "summary": "Name the process by which bacterial cells divide.",
+      "specRef": "3.2.2",
+      "image": "img/2016-specimen-set2-7401-2/q09-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q09.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 18,
+      "marks": 4,
+      "topics": [
+        "RP"
+      ],
+      "skills": [
+        "practical"
+      ],
+      "summary": "Describe and explain two aseptic techniques used when transferring broth culture onto an agar plate.",
+      "specRef": "RP",
+      "image": "img/2016-specimen-set2-7401-2/q09-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q09.3",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 19,
+      "marks": 1,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Identify from Table 5 which plant oil is least effective at killing L. monocytogenes at 35 C.",
+      "specRef": "3.2.2",
+      "image": "img/2016-specimen-set2-7401-2/q09-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q09-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q9-table5.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q09.4",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 19,
+      "marks": 3,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Conclude from Table 5 about the effectiveness of using plant oils with refrigeration (4 C) against L. monocytogenes.",
+      "specRef": "3.2.2",
+      "image": "img/2016-specimen-set2-7401-2/q09-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q09-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7401-2/fig-q9-table5.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q09.5",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "09.5",
+      "questionNumber": "09.5",
+      "page": 20,
+      "marks": 1,
+      "topics": [
+        "3.2.3"
+      ],
+      "skills": [
+        "analysis"
+      ],
+      "summary": "Suggest how low temperature (4 C) slows the rate of entry of hydrophobic plant oils across bacterial membranes.",
+      "specRef": "3.2.3",
+      "image": "img/2016-specimen-set2-7401-2/q09-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q09-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q10.1",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 21,
+      "marks": 5,
+      "topics": [
+        "3.2.2"
+      ],
+      "skills": [
+        "extended"
+      ],
+      "summary": "Describe the appearance and behaviour of chromosomes during mitosis.",
+      "specRef": "3.2.2",
+      "image": "img/2016-specimen-set2-7401-2/q10-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q10-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7401-2-q10.2",
+      "paper": "2016-specimen-set2-7401-2",
+      "year": 2016,
+      "series": "Specimen (Set 2)",
+      "unit": "7401/2",
+      "level": "AS",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 22,
+      "marks": 5,
+      "topics": [
+        "3.4.3"
+      ],
+      "skills": [
+        "extended"
+      ],
+      "summary": "Describe and explain the processes that occur during meiosis that increase genetic variation.",
+      "specRef": "3.4.3",
+      "image": "img/2016-specimen-set2-7401-2/q10-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7401-2/ms/q10-2.png",
       "figures": []
     }
   ]
