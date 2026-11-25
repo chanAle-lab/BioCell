@@ -59,6 +59,9 @@ PDF_MAP: dict[str, str] = {
     "2016-specimen-set2-7402-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599550998_98216f1a.pdf",
     "2016-specimen-set2-7402-2": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599550898_24987c9a.pdf",
     "2016-specimen-set2-7402-3": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599550909_04dc3dc3.pdf",
+    "2014-specimen-7402-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599564207_7be1c002.pdf",
+    "2014-specimen-7402-2": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599564166_062d8f08.pdf",
+    "2014-specimen-7402-3": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599564148_cbf9c801.pdf",
 }
 
 
@@ -200,6 +203,13 @@ def main() -> None:
                     for bbox, txt in lines:
                         if search_start - 5 <= bbox[1] < max_search_y and 75 <= bbox[0] < 140 and txt.strip() in (dot_sub, f".{m_dot.group(2)}"):
                             if any(b2[0] < bbox[0] and abs(b2[1] - bbox[1]) < 5 and t2.strip() in (left_box, d1, d1[1]) for b2, t2 in lines):
+                                found_y0 = bbox[1]
+                                break
+                if found_y0 is None and m_dot:
+                    for bbox, txt in lines:
+                        if search_start - 5 <= bbox[1] < max_search_y and 95 <= bbox[0] < 140 and txt.strip() == m_dot.group(2):
+                            same_y = [t2.strip() for b2, t2 in lines if b2[0] < bbox[0] and abs(b2[1] - bbox[1]) < 5]
+                            if d1[0] in same_y and d1[1] in same_y and "." in same_y:
                                 found_y0 = bbox[1]
                                 break
 
