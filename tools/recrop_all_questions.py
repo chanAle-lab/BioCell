@@ -50,6 +50,9 @@ PDF_MAP: dict[str, str] = {
     "2020-june-7402-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599464478_051b8849.pdf",
     "2020-june-7402-2": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599464407_3bc9f2a3.pdf",
     "2020-june-7402-3": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599464584_50db2a7d.pdf",
+    "2021-june-7402-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599490055_ad0424f6.pdf",
+    "2021-june-7402-2": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599490127_c511cb5a.pdf",
+    "2021-june-7402-3": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795599490040_bfe9c112.pdf",
 }
 
 

@@ -593,6 +593,34 @@
       "optionalMarks": 25,
       "pdf": null,
       "ms": null
+    },
+    {
+      "id": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "title": "June 2021 Paper 1 (7402/1)",
+      "totalMarks": 91
+    },
+    {
+      "id": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "title": "June 2021 Paper 2 (7402/2)",
+      "totalMarks": 91
+    },
+    {
+      "id": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "title": "June 2021 Paper 3 (7402/3)",
+      "totalMarks": 78,
+      "optionalMarks": 25
     }
   ],
   "questions": [
@@ -23673,6 +23701,1931 @@
       "summary": "Essay: The causes and importance of variation and diversity in organisms.",
       "image": "img/2020-june-7402-3/q07-2.jpg",
       "markscheme": "img/2020-june-7402-3/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q01.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Induced-fit model of enzyme action and catalysis",
+      "image": "img/2021-june-7402-1/q01-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q01.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 1,
+      "specRef": "3.1.6",
+      "topics": [
+        "3.1.6"
+      ],
+      "summary": "ATP synthase reaction: identifying ADP as substrate",
+      "image": "img/2021-june-7402-1/q01-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q01.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "ATP synthase investigation: control procedure at 2 minutes",
+      "image": "img/2021-june-7402-1/q01-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q01.4",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Explaining ATP concentration change with increasing Pi",
+      "image": "img/2021-june-7402-1/q01-4.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q01-4.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q02.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 2,
+      "specRef": "3.3.1",
+      "topics": [
+        "3.3.1"
+      ],
+      "summary": "Advantage of specialised oxygen uptake system in larger animals",
+      "image": "img/2021-june-7402-1/q02-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q02.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 5,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Environmental adaptations for oxygen uptake models A vs B",
+      "image": "img/2021-june-7402-1/q02-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q02-2.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q02.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 6,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Justifying greater efficiency of fish gas exchange from Figure 3",
+      "image": "img/2021-june-7402-1/q02-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q02.4",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 6,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Counter-current principle for efficient gas exchange",
+      "image": "img/2021-june-7402-1/q02-4.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q02.5",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.5",
+      "questionNumber": "02.5",
+      "page": 7,
+      "marks": 3,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Calculating lung volume per unit body mass: bat vs shrew",
+      "image": "img/2021-june-7402-1/q02-5.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q02-5.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q03.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 9,
+      "marks": 3,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Translation: adding an amino acid to a polypeptide at a ribosome",
+      "image": "img/2021-june-7402-1/q03-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q03-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q03.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 10,
+      "marks": 2,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Amino acid replacement in crystallin protein and cataracts",
+      "image": "img/2021-june-7402-1/q03-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q03-2.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q3-table2.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q03.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 11,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Single base substitution mutation: mRNA codon and tRNA anticodon",
+      "image": "img/2021-june-7402-1/q03-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q03-3.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q3-table2.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q04.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Improving scientific drawing quality of blood vessel dissection",
+      "image": "img/2021-june-7402-1/q04-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q04-1.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q4-fig4.jpg",
+        "img/2021-june-7402-1/fig-q4-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q04.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Identifying blood vessels X and Y in dissection photograph",
+      "image": "img/2021-june-7402-1/q04-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q04-2.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q04.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Safe handling and washing of sharp dissection instruments",
+      "image": "img/2021-june-7402-1/q04-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q05.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 14,
+      "marks": 4,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Isolating chloroplasts from leaves by cell fractionation",
+      "image": "img/2021-june-7402-1/q05-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q05.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.2.1.1",
+      "topics": [
+        "3.2.1.1"
+      ],
+      "summary": "Chloroplast feature for protein synthesis vs prokaryotic cells",
+      "image": "img/2021-june-7402-1/q05-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q05.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 1,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Ratio of protein to chlorophyll in iron-deficient plants",
+      "image": "img/2021-june-7402-1/q05-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q05-3.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q5-table4.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q05.4",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 16,
+      "marks": 3,
+      "specRef": "3.2.1.1",
+      "topics": [
+        "3.2.1.1"
+      ],
+      "summary": "Explaining reduced growth rate in iron-deficient chloroplasts",
+      "image": "img/2021-june-7402-1/q05-4.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q05-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q06.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Rate of centromere movement during phase E of mitosis",
+      "image": "img/2021-june-7402-1/q06-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q06.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 19,
+      "marks": 5,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Phases of mitosis C, D, E: spindle fibres and chromosomes",
+      "image": "img/2021-june-7402-1/q06-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q06-2.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q07.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 20,
+      "marks": 3,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Phagocytosis-like entry of antibody-drug conjugate into tumour cell",
+      "image": "img/2021-june-7402-1/q07-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q07.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 21,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Explaining side effects of ADC treatment on healthy cells",
+      "image": "img/2021-june-7402-1/q07-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q07.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Calculating volume of monoclonal antibody solution injected",
+      "image": "img/2021-june-7402-1/q07-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q07-3.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q7-fig9.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q07.4",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 23,
+      "marks": 1,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Explaining why Group G and H lines end at day 26",
+      "image": "img/2021-june-7402-1/q07-4.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q07-4.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q7-fig9.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q07.5",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.5",
+      "questionNumber": "07.5",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Further stages before ADC can be used to treat humans",
+      "image": "img/2021-june-7402-1/q07-5.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q07-5.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q7-fig9.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q08.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 24,
+      "marks": 3,
+      "specRef": "3.1.3",
+      "topics": [
+        "3.1.3"
+      ],
+      "summary": "Structure and synthesis of a triglyceride molecule",
+      "image": "img/2021-june-7402-1/q08-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q08.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 25,
+      "marks": 1,
+      "specRef": "3.1.3",
+      "topics": [
+        "3.1.3"
+      ],
+      "summary": "Identifying unsaturated fatty acid diagram K for palmitoleic acid",
+      "image": "img/2021-june-7402-1/q08-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q08.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 26,
+      "marks": 1,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Using a data logger for root length and why seeds were washed",
+      "image": "img/2021-june-7402-1/q08-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q08-3.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q8-table6.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q08.4",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 27,
+      "marks": 4,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Adaptation of warm and cool plant populations to environment",
+      "image": "img/2021-june-7402-1/q08-4.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q08-4.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q8-table6.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q08.5",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.5",
+      "questionNumber": "08.5",
+      "page": 27,
+      "marks": 1,
+      "specRef": "3.4.5",
+      "topics": [
+        "3.4.5"
+      ],
+      "summary": "Evidence that both populations belong to the same species",
+      "image": "img/2021-june-7402-1/q08-5.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q08-5.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q09.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 29,
+      "marks": 2,
+      "specRef": "3.1.5.1",
+      "topics": [
+        "3.1.5.1"
+      ],
+      "summary": "Elements found in ATP, DNA, RNA, and phospholipids",
+      "image": "img/2021-june-7402-1/q09-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q09.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 31,
+      "marks": 2,
+      "specRef": "3.2.2",
+      "topics": [
+        "3.2.2"
+      ],
+      "summary": "Calculating bacterial generation time from Figure 11",
+      "image": "img/2021-june-7402-1/q09-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q09-2.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q9-fig11.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q09.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 33,
+      "marks": 3,
+      "specRef": "3.1.5.2",
+      "topics": [
+        "3.1.5.2"
+      ],
+      "summary": "Evaluating DNA replication models P, Q, R from 15N/14N results",
+      "image": "img/2021-june-7402-1/q09-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q09-3.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q9-fig12.jpg",
+        "img/2021-june-7402-1/fig-q9-fig13.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-1-q10.1",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 34,
+      "marks": 5,
+      "specRef": "3.1.5.1",
+      "topics": [
+        "3.1.5.1"
+      ],
+      "summary": "Comparing and contrasting DNA and RNA structure",
+      "image": "img/2021-june-7402-1/q10-1.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q10-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q10.2",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 35,
+      "marks": 5,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Transport of substances across cell-surface membranes",
+      "image": "img/2021-june-7402-1/q10-2.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q10-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-1-q10.3",
+      "paper": "2021-june-7402-1",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 37,
+      "marks": 5,
+      "specRef": "3.2.1.1",
+      "topics": [
+        "3.2.1.1"
+      ],
+      "summary": "Comparing animal cell and prokaryotic cell micrographs",
+      "image": "img/2021-june-7402-1/q10-3.jpg",
+      "markscheme": "img/2021-june-7402-1/ms/q10-3.png",
+      "figures": [
+        "img/2021-june-7402-1/fig-q10-fig14.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q01.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 4,
+      "specRef": "3.5.2",
+      "topics": [
+        "3.5.2"
+      ],
+      "summary": "Describing the process of glycolysis",
+      "image": "img/2021-june-7402-2/q01-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q01-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q01.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.5.2",
+      "topics": [
+        "3.5.2"
+      ],
+      "summary": "Explaining why malonate decreases oxygen uptake in a respiring cell",
+      "image": "img/2021-june-7402-2/q01-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q02.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 3,
+      "marks": 3,
+      "specRef": "3.6.2.1",
+      "topics": [
+        "3.6.2.1"
+      ],
+      "summary": "Maintaining a resting potential across an axon membrane",
+      "image": "img/2021-june-7402-2/q02-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q02.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 3,
+      "marks": 3,
+      "specRef": "3.6.2.1",
+      "topics": [
+        "3.6.2.1"
+      ],
+      "summary": "Faster impulse transmission along myelinated vs non-myelinated axon",
+      "image": "img/2021-june-7402-2/q02-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q02.3",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 4,
+      "marks": 3,
+      "specRef": "3.6.2.1",
+      "topics": [
+        "3.6.2.1"
+      ],
+      "summary": "Effect of respiratory inhibitor on neurone resting potential",
+      "image": "img/2021-june-7402-2/q02-3.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q02-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q03.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 5,
+      "marks": 3,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Explaining plant shoot growth curvature using IAA",
+      "image": "img/2021-june-7402-2/q03-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q03-1.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q3-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q03.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 7,
+      "marks": 5,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Comparing IAA concentration in two plant species using bioassay",
+      "image": "img/2021-june-7402-2/q03-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q03-2.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q3-fig2-3.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q03.3",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Conclusions about IAA from directional light experiments",
+      "image": "img/2021-june-7402-2/q03-3.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q03-3.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q3-fig4-table1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q04.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 2,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Sex-linked eye colour cross in fruit flies: offspring phenotypes",
+      "image": "img/2021-june-7402-2/q04-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q04.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 10,
+      "marks": 1,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Genotype of red-eyed female fruit fly offspring",
+      "image": "img/2021-june-7402-2/q04-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q04.3",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 11,
+      "marks": 3,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Explaining dihybrid cross results with autosomal linkage",
+      "image": "img/2021-june-7402-2/q04-3.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q04-3.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q4-table2.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q04.4",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 12,
+      "marks": 3,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Calculating number of female fruit flies in fifth generation",
+      "image": "img/2021-june-7402-2/q04-4.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q05.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.6.4.2",
+      "topics": [
+        "3.6.4.2"
+      ],
+      "summary": "Amino acid sequence change preventing insulin binding to receptor",
+      "image": "img/2021-june-7402-2/q05-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q05.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 14,
+      "marks": 3,
+      "specRef": "3.6.4.2",
+      "topics": [
+        "3.6.4.2"
+      ],
+      "summary": "Explaining how decreased PI3K activity causes type II diabetes",
+      "image": "img/2021-june-7402-2/q05-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q05-2.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q5-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q05.3",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 3,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Explaining glucose in urine of person with untreated diabetes",
+      "image": "img/2021-june-7402-2/q05-3.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q06.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 16,
+      "marks": 3,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "How malignant tumour cells are destroyed by donor T cells",
+      "image": "img/2021-june-7402-2/q06-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q06.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 16,
+      "marks": 3,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "How increased methylation of tumour suppressor genes causes cancer",
+      "image": "img/2021-june-7402-2/q06-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q06.3",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 17,
+      "marks": 2,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "Reasons control patients were treated with conventional drugs",
+      "image": "img/2021-june-7402-2/q06-3.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q06-3.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q06.4",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 17,
+      "marks": 2,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "Difference in number of patients alive at 25 months: AZA vs control",
+      "image": "img/2021-june-7402-2/q06-4.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q06-4.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q6-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q07.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.2.1.2",
+      "topics": [
+        "3.2.1.2"
+      ],
+      "summary": "Calculating how many times larger a liver cell is than HBV",
+      "image": "img/2021-june-7402-2/q07-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q07-1.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q7-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q07.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 19,
+      "marks": 1,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Method of transferring RNAi molecules into cells",
+      "image": "img/2021-june-7402-2/q07-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q07-2.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q7-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q07.3",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 20,
+      "marks": 5,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Evaluating shRNA vs lhRNA for treating hepatitis B in humans",
+      "image": "img/2021-june-7402-2/q07-3.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q07-3.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q7-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q08.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 21,
+      "marks": 4,
+      "specRef": "3.8.4.2",
+      "topics": [
+        "3.8.4.2"
+      ],
+      "summary": "Describing and explaining how PCR amplifies a DNA fragment",
+      "image": "img/2021-june-7402-2/q08-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q08.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 21,
+      "marks": 2,
+      "specRef": "3.8.4.2",
+      "topics": [
+        "3.8.4.2"
+      ],
+      "summary": "Explaining the shape of the PCR DNA amplification curve",
+      "image": "img/2021-june-7402-2/q08-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q08-2.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q8-fig9.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q09.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 22,
+      "marks": 3,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Explaining how succession increases fish variety on coral reefs",
+      "image": "img/2021-june-7402-2/q09-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q09.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 22,
+      "marks": 2,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Using concrete blocks at constant depth in coral reef investigation",
+      "image": "img/2021-june-7402-2/q09-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-2-q09.3",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 23,
+      "marks": 5,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Evaluating effect of parrotfish and surgeonfish on algal growth",
+      "image": "img/2021-june-7402-2/q09-3.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q09-3.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q9-table3.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q10.1",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 24,
+      "marks": 4,
+      "specRef": "3.7.3",
+      "topics": [
+        "3.7.3"
+      ],
+      "summary": "Speciation of fish in Lake Malawi from a common ancestor",
+      "image": "img/2021-june-7402-2/q10-1.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q10-1.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q10.2",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 25,
+      "marks": 2,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Calculating mean loss of forest cover in Malawi per week",
+      "image": "img/2021-june-7402-2/q10-2.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q10-2.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q10.3",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 25,
+      "marks": 4,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "How soil nutrient loss and lake nutrients reduce fish populations",
+      "image": "img/2021-june-7402-2/q10-3.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q10-3.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q10.4",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.4",
+      "questionNumber": "10.4",
+      "page": 26,
+      "marks": 4,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Estimating fish population size using mark-release-recapture",
+      "image": "img/2021-june-7402-2/q10-4.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q10-4.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-2-q10.5",
+      "paper": "2021-june-7402-2",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.5",
+      "questionNumber": "10.5",
+      "page": 26,
+      "marks": 1,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Why mark-release-recapture can be unreliable in very large lakes",
+      "image": "img/2021-june-7402-2/q10-5.jpg",
+      "markscheme": "img/2021-june-7402-2/ms/q10-5.png",
+      "figures": [
+        "img/2021-june-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q01.1",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Hardy-Weinberg estimate of brown-black squirrels",
+      "image": "img/2021-june-7402-3/q01-1.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q01-1.png",
+      "figures": [
+        "img/2021-june-7402-3/fig-q1-table1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q01.2",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 3,
+      "marks": 1,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Calculating actual allele frequency without Hardy-Weinberg",
+      "image": "img/2021-june-7402-3/q01-2.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q01-2.png",
+      "figures": [
+        "img/2021-june-7402-3/fig-q1-table1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q01.3",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 1,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Why actual frequency differs from Hardy-Weinberg estimate",
+      "image": "img/2021-june-7402-3/q01-3.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q01-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q01.4",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 4,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Percentage reduction in protein size from 24 bp deletion",
+      "image": "img/2021-june-7402-3/q01-4.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q01.5",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 5,
+      "marks": 3,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Explaining black fur in CB CB squirrels using Figure 1",
+      "image": "img/2021-june-7402-3/q01-5.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q01-5.png",
+      "figures": [
+        "img/2021-june-7402-3/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q02.1",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 6,
+      "marks": 4,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Replication of HIV inside helper T cells",
+      "image": "img/2021-june-7402-3/q02-1.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q02.2",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 7,
+      "marks": 5,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Evaluating CCR5 gene editing vs ART for HIV-1 treatment",
+      "image": "img/2021-june-7402-3/q02-2.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q02-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q03.1",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 8,
+      "marks": 2,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Taxis behaviour in adult pine beetles and its advantage",
+      "image": "img/2021-june-7402-3/q03-1.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q03-1.png",
+      "figures": [
+        "img/2021-june-7402-3/fig-q3-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q03.2",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 11,
+      "marks": 3,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Evaluating student conclusions on pine beetle movement",
+      "image": "img/2021-june-7402-3/q03-2.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q03-2.png",
+      "figures": [
+        "img/2021-june-7402-3/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q04.1",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 12,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Why freshwater marshes have high carbon use efficiency (CUE)",
+      "image": "img/2021-june-7402-3/q04-1.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q04-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q04.2",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 12,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "How decomposition of dead plants returns carbon to atmosphere",
+      "image": "img/2021-june-7402-3/q04-2.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q04-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q04.3",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Calculating plant growth rate R from biomass measurements",
+      "image": "img/2021-june-7402-3/q04-3.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q04.4",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Estimating dry biomass from fresh plant samples",
+      "image": "img/2021-june-7402-3/q04-4.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q05.1",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "How endopeptidases and exopeptidases increase protein digestion",
+      "image": "img/2021-june-7402-3/q05-1.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q05.2",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Body proteins linked to reduced muscle power and immunity",
+      "image": "img/2021-june-7402-3/q05-2.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q05.3",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 15,
+      "marks": 3,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "Comparing casein vs whey protein for muscle recovery in older men",
+      "image": "img/2021-june-7402-3/q05-3.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q05-3.png",
+      "figures": [
+        "img/2021-june-7402-3/fig-q5-table2.jpg",
+        "img/2021-june-7402-3/fig-q5-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q06.1",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 16,
+      "marks": 4,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Role of SUT1 co-transporter in loading sucrose into phloem",
+      "image": "img/2021-june-7402-3/q06-1.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q06.2",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 17,
+      "marks": 4,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "How antisense SUT1 mRNA reduces SUT1 protein production",
+      "image": "img/2021-june-7402-3/q06-2.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q06-2.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q06.3",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 18,
+      "marks": 1,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Ratio of 14C remaining in type B to type A leaves at 16 hours",
+      "image": "img/2021-june-7402-3/q06-3.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q06.4",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 19,
+      "marks": 2,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Why 14C remaining in type B leaves does not reach zero",
+      "image": "img/2021-june-7402-3/q06-4.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q06-4.png",
+      "figures": [
+        "img/2021-june-7402-3/fig-q6-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q06.5",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.5",
+      "questionNumber": "06.5",
+      "page": 21,
+      "marks": 4,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "Explaining decreased dry mass in type A tobacco plants",
+      "image": "img/2021-june-7402-3/q06-5.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q06-5.png",
+      "figures": [
+        "img/2021-june-7402-3/fig-q6-table3.jpg"
+      ]
+    },
+    {
+      "id": "2021-june-7402-3-q07.1",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 22,
+      "marks": 25,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Essay: The importance of complementary shapes of molecules in organisms",
+      "image": "img/2021-june-7402-3/q07-1.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2021-june-7402-3-q07.2",
+      "paper": "2021-june-7402-3",
+      "year": 2021,
+      "series": "June",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 22,
+      "marks": 25,
+      "specRef": "3.1.8",
+      "topics": [
+        "3.1.8"
+      ],
+      "summary": "Essay: The importance of ions in metabolic processes",
+      "image": "img/2021-june-7402-3/q07-2.jpg",
+      "markscheme": "img/2021-june-7402-3/ms/q07-2.png",
       "figures": []
     }
   ]
