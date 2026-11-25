@@ -19,7 +19,10 @@ REPO_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 QUESTIONS_FILE = os.path.join(REPO_DIR, "questions.json")
 
 # Register ingested papers here: '<paper-id>': r'<path-to-qp.pdf>'
-PDF_MAP: dict[str, str] = {}
+PDF_MAP: dict[str, str] = {
+    "2016-june-7401-1": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795595891833_d3501bca.pdf",
+    "2016-june-7401-2r": r"C:\Users\Alexander\.gemini\antigravity\brain\612a35cc-d762-46fb-84f6-b44e37b7645b\.user_uploaded\media_1795595891937_a37df9a8.pdf",
+}
 
 
 def extract_lines(page: fitz.Page) -> list[tuple]:
@@ -143,7 +146,9 @@ def main() -> None:
                     if found_y0 is not None:
                         break
 
-            # Fallback for split two-digit question boxes in 2017+ AQA papers
+            # Fallback for split two-digit question boxes in 2016+ AQA papers
+            # Case A: '0' at x<65 and '1 . 2' at 60<=x<95
+            # Case B: '0 1' at x<100 and '. 2' at 95<=x<140
             if found_y0 is None and (m_dot or m_mcq):
                 d1 = m_dot.group(1) if m_dot else m_mcq.group(1)
                 right_target = f"{d1[1]} . {m_dot.group(2)}" if m_dot else d1[1]
@@ -152,6 +157,14 @@ def main() -> None:
                         if any(b2[0] < 65 and abs(b2[1] - bbox[1]) < 4 and t2.strip() == d1[0] for b2, t2 in lines):
                             found_y0 = bbox[1]
                             break
+                if found_y0 is None and m_dot:
+                    dot_sub = f". {m_dot.group(2)}"
+                    left_box = f"{d1[0]} {d1[1]}"
+                    for bbox, txt in lines:
+                        if search_start - 5 <= bbox[1] < max_search_y and 95 <= bbox[0] < 140 and txt.strip() in (dot_sub, f".{m_dot.group(2)}"):
+                            if any(b2[0] < 100 and abs(b2[1] - bbox[1]) < 5 and t2.strip() in (left_box, d1) for b2, t2 in lines):
+                                found_y0 = bbox[1]
+                                break
 
             if found_y0 is None and q_idx == 0 and lines:
                 found_y0 = lines[0][0][1]
