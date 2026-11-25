@@ -649,6 +649,34 @@
       "title": "June 2023 Paper 3 (7402/3)",
       "totalMarks": 78,
       "optionalMarks": 25
+    },
+    {
+      "id": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "title": "Specimen Set 2 Paper 1 (7402/1)",
+      "totalMarks": 91
+    },
+    {
+      "id": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "title": "Specimen Set 2 Paper 2 (7402/2)",
+      "totalMarks": 91
+    },
+    {
+      "id": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "title": "Specimen Set 2 Paper 3 (7402/3)",
+      "totalMarks": 78,
+      "optionalMarks": 25
     }
   ],
   "questions": [
@@ -27732,6 +27760,2390 @@
       "figures": [
         "img/2023-june-7402-2/fig-q10-passage.jpg"
       ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q01.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.1.2",
+      "topics": [
+        "3.1.2"
+      ],
+      "summary": "Identifying beta-glucose and adenosine triphosphate in Figure 1",
+      "image": "img/2016-specimen-set2-7402-1/q01-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q01-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q01.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 2,
+      "specRef": "3.1.3",
+      "topics": [
+        "3.1.3"
+      ],
+      "summary": "Identifying molecule C as a saturated fatty acid",
+      "image": "img/2016-specimen-set2-7402-1/q01-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q01-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q01.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Drawing dipeptide formed from two glycine molecules",
+      "image": "img/2016-specimen-set2-7402-1/q01-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q01-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q01.4",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 1,
+      "specRef": "3.1.1",
+      "topics": [
+        "3.1.1"
+      ],
+      "summary": "Naming water formed during peptide bond condensation",
+      "image": "img/2016-specimen-set2-7402-1/q01-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q01-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q02.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Why cell-surface membrane is visible with TEM but not optical microscope",
+      "image": "img/2016-specimen-set2-7402-1/q02-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q02-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q02.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.2.1.1",
+      "topics": [
+        "3.2.1.1"
+      ],
+      "summary": "Why no organelles are visible in red blood cell cytoplasm",
+      "image": "img/2016-specimen-set2-7402-1/q02-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q02-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q02.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 3,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Explaining appearance of cell-surface membrane as two dark lines",
+      "image": "img/2016-specimen-set2-7402-1/q02-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q02-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q02.4",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 5,
+      "marks": 3,
+      "specRef": "3.2.3",
+      "topics": [
+        "3.2.3"
+      ],
+      "summary": "Describing movement of substances by facilitated diffusion",
+      "image": "img/2016-specimen-set2-7402-1/q02-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q02-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q03.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 6,
+      "marks": 1,
+      "specRef": "3.4.5",
+      "topics": [
+        "3.4.5"
+      ],
+      "summary": "Naming the phylum taxon represented by Zygomycota",
+      "image": "img/2016-specimen-set2-7402-1/q03-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q03-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q03.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 6,
+      "marks": 1,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Identifying where meiosis occurs in Rhizopus life cycle",
+      "image": "img/2016-specimen-set2-7402-1/q03-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q03-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q3-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q03.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Advantages of asexual and sexual reproduction in Rhizopus",
+      "image": "img/2016-specimen-set2-7402-1/q03-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q03-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q3-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q03.4",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 7,
+      "marks": 1,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "Advantage of vertical hypha supporting sporangium",
+      "image": "img/2016-specimen-set2-7402-1/q03-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q03.5",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "03.5",
+      "questionNumber": "03.5",
+      "page": 8,
+      "marks": 3,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Calculating mean volume of Rhizopus spores from Figure 5",
+      "image": "img/2016-specimen-set2-7402-1/q03-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q03-5.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q3-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q04.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Explaining enzyme-substrate curve A without inhibitor",
+      "image": "img/2016-specimen-set2-7402-1/q04-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q04-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q4-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q04.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 11,
+      "marks": 4,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Comparing Vmax with competitive vs non-competitive inhibitor",
+      "image": "img/2016-specimen-set2-7402-1/q04-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q04-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q4-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q04.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 11,
+      "marks": 1,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "Using Michaelis constant Km to identify type of inhibition",
+      "image": "img/2016-specimen-set2-7402-1/q04-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q04-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q4-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q05.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Two reasons grassy strips increase animal biodiversity",
+      "image": "img/2016-specimen-set2-7402-1/q05-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q05.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Determining 40 minutes as appropriate soil sorting time",
+      "image": "img/2016-specimen-set2-7402-1/q05-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q05.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 14,
+      "marks": 1,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Why index of diversity cannot be calculated from Table 1",
+      "image": "img/2016-specimen-set2-7402-1/q05-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q05.4",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 15,
+      "marks": 4,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Evaluating journalist conclusion on grassy strips and diversity",
+      "image": "img/2016-specimen-set2-7402-1/q05-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q05-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q5-table1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q06.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 16,
+      "marks": 1,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Range in number of copies of AMY1 gene from Figure 7",
+      "image": "img/2016-specimen-set2-7402-1/q06-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q06-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q06.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 16,
+      "marks": 2,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Estimating standard deviation of AMY1 gene copies from Figure 7",
+      "image": "img/2016-specimen-set2-7402-1/q06-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q06-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q6-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q06.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 17,
+      "marks": 3,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Interpreting correlation coefficient R=0.50, P<0.0001",
+      "image": "img/2016-specimen-set2-7402-1/q06-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q06.4",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "06.4",
+      "questionNumber": "06.4",
+      "page": 17,
+      "marks": 3,
+      "specRef": "3.3.3",
+      "topics": [
+        "3.3.3"
+      ],
+      "summary": "Why AMY1 gene copies unlikely to affect starch digestion",
+      "image": "img/2016-specimen-set2-7402-1/q06-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q06-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q07.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 18,
+      "marks": 2,
+      "specRef": "3.1.5.1",
+      "topics": [
+        "3.1.5.1"
+      ],
+      "summary": "How organic bases stabilise the structure of DNA",
+      "image": "img/2016-specimen-set2-7402-1/q07-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q07.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 18,
+      "marks": 1,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Advantage of showing genetic code as mRNA base sequences",
+      "image": "img/2016-specimen-set2-7402-1/q07-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q07.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 19,
+      "marks": 1,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Naming a group of three mRNA bases coding for an amino acid",
+      "image": "img/2016-specimen-set2-7402-1/q07-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q07.4",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 19,
+      "marks": 2,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Using Table 2 to explain why genetic code is degenerate",
+      "image": "img/2016-specimen-set2-7402-1/q07-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q07-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q07.5",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.5",
+      "questionNumber": "07.5",
+      "page": 19,
+      "marks": 2,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Role of mRNA stop triplets UGA, UAG and UAA",
+      "image": "img/2016-specimen-set2-7402-1/q07-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q07-5.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q07.6",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "07.6",
+      "questionNumber": "07.6",
+      "page": 20,
+      "marks": 2,
+      "specRef": "3.4.2",
+      "topics": [
+        "3.4.2"
+      ],
+      "summary": "Completing DNA template and amino acid sequence in Table 3",
+      "image": "img/2016-specimen-set2-7402-1/q07-6.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q07-6.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q7-table2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q08.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 22,
+      "marks": 1,
+      "specRef": "3.1.4.1",
+      "topics": [
+        "3.1.4.1"
+      ],
+      "summary": "Explaining meaning of quaternary protein structure",
+      "image": "img/2016-specimen-set2-7402-1/q08-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q08-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q08.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 22,
+      "marks": 1,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Formula for percentage saturation of haemoglobin with oxygen",
+      "image": "img/2016-specimen-set2-7402-1/q08-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q08.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Evidence from Figure 8 for cooperative oxygen binding",
+      "image": "img/2016-specimen-set2-7402-1/q08-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q08-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q8-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q08.4",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 23,
+      "marks": 1,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Advantage of haemoglobin affinity change for oxygen",
+      "image": "img/2016-specimen-set2-7402-1/q08-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q08-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q8-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q08.5",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "08.5",
+      "questionNumber": "08.5",
+      "page": 24,
+      "marks": 3,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Calculating volume of oxygen released to tissues per minute",
+      "image": "img/2016-specimen-set2-7402-1/q08-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q08-5.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q8-fig8.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q09.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 26,
+      "marks": 2,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Explaining nutrient-poor sand and 48 hours dark in translocation study",
+      "image": "img/2016-specimen-set2-7402-1/q09-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q09-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q9-table4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q09.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 27,
+      "marks": 2,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Two reasons for drying plant samples in oven at 100 °C",
+      "image": "img/2016-specimen-set2-7402-1/q09-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q09-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q9-table4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q09.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 27,
+      "marks": 4,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Evaluating whether Table 4 supports sucrose-borate hypothesis",
+      "image": "img/2016-specimen-set2-7402-1/q09-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q09-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-1/fig-q9-table4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q09.4",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 27,
+      "marks": 2,
+      "specRef": "3.3.4.2",
+      "topics": [
+        "3.3.4.2"
+      ],
+      "summary": "Adapting method to identify tissue carrying labelled sucrose",
+      "image": "img/2016-specimen-set2-7402-1/q09-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q09-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q10.1",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 28,
+      "marks": 6,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "How vaccination leads to protection against bacterial meningitis",
+      "image": "img/2016-specimen-set2-7402-1/q10-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q10-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q10.2",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 29,
+      "marks": 4,
+      "specRef": "3.4.4",
+      "topics": [
+        "3.4.4"
+      ],
+      "summary": "How Neisseria meningitidis becomes resistant to antibiotics",
+      "image": "img/2016-specimen-set2-7402-1/q10-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q10-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-1-q10.3",
+      "paper": "2016-specimen-set2-7402-1",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/1",
+      "level": "A-Level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 30,
+      "marks": 5,
+      "specRef": "3.2.1.2",
+      "topics": [
+        "3.2.1.2"
+      ],
+      "summary": "Contrasting structure of a bacterial cell and a human cell",
+      "image": "img/2016-specimen-set2-7402-1/q10-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-1/ms/q10-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q01.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 2,
+      "marks": 3,
+      "specRef": "3.6.3",
+      "topics": [
+        "3.6.3"
+      ],
+      "summary": "Identifying M line, mitochondrion and myofibril in Figure 1",
+      "image": "img/2016-specimen-set2-7402-2/q01-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q01-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q01.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 2,
+      "marks": 1,
+      "specRef": "3.6.3",
+      "topics": [
+        "3.6.3"
+      ],
+      "summary": "Naming sarcomere between points A and B in Figure 1",
+      "image": "img/2016-specimen-set2-7402-2/q01-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q01-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q01.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 3,
+      "marks": 1,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Calculating actual distance between points A and B in um",
+      "image": "img/2016-specimen-set2-7402-2/q01-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q01-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q01.4",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 3,
+      "marks": 2,
+      "specRef": "3.6.3",
+      "topics": [
+        "3.6.3"
+      ],
+      "summary": "Role of glycogen granules in skeletal muscle",
+      "image": "img/2016-specimen-set2-7402-2/q01-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q01-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q01.5",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "01.5",
+      "questionNumber": "01.5",
+      "page": 3,
+      "marks": 3,
+      "specRef": "3.6.3",
+      "topics": [
+        "3.6.3"
+      ],
+      "summary": "How fall in pH reduces calcium ion stimulation of contraction",
+      "image": "img/2016-specimen-set2-7402-2/q01-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q01-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q02.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Why Figure 2 nerve pathway is a simple reflex arc",
+      "image": "img/2016-specimen-set2-7402-2/q02-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q02-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q02.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 4,
+      "marks": 2,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Two advantages of simple reflexes",
+      "image": "img/2016-specimen-set2-7402-2/q02-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q02-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q02.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 5,
+      "marks": 2,
+      "specRef": "3.6.2.2",
+      "topics": [
+        "3.6.2.2"
+      ],
+      "summary": "How synapses ensure unidirectional impulse transmission",
+      "image": "img/2016-specimen-set2-7402-2/q02-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q02-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q02.4",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 5,
+      "marks": 2,
+      "specRef": "3.6.2.1",
+      "topics": [
+        "3.6.2.1"
+      ],
+      "summary": "Feature of axon P causing faster impulse conduction",
+      "image": "img/2016-specimen-set2-7402-2/q02-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q02-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q03.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 7,
+      "marks": 1,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "Percentage decrease in sugarcane yield with Atrazine in study G",
+      "image": "img/2016-specimen-set2-7402-2/q03-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q03-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q03.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "Why no definite conclusions can be drawn from Figure 3 means",
+      "image": "img/2016-specimen-set2-7402-2/q03-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q03-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q03.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 7,
+      "marks": 4,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "How Atrazine blocking electron transfer reduces photosynthesis",
+      "image": "img/2016-specimen-set2-7402-2/q03-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q03.4",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 8,
+      "marks": 1,
+      "specRef": "3.5.1",
+      "topics": [
+        "3.5.1"
+      ],
+      "summary": "Why weeds treated with Atrazine give off small amounts of heat",
+      "image": "img/2016-specimen-set2-7402-2/q03-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q03-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q04.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 10,
+      "marks": 1,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Why filtrate concentration remains constant in PCT",
+      "image": "img/2016-specimen-set2-7402-2/q04-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q04-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q04.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 10,
+      "marks": 3,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Explaining filtrate concentration curve in loop of Henle",
+      "image": "img/2016-specimen-set2-7402-2/q04-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q04-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q04.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 11,
+      "marks": 2,
+      "specRef": "3.6.4.3",
+      "topics": [
+        "3.6.4.3"
+      ],
+      "summary": "Evidence in Figure 4 that ADH was being secreted",
+      "image": "img/2016-specimen-set2-7402-2/q04-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q04-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q05.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 12,
+      "marks": 2,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Defining epigenetics",
+      "image": "img/2016-specimen-set2-7402-2/q05-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q05.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 12,
+      "marks": 2,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Binding features of oestrogen, methyl groups and acetyl groups",
+      "image": "img/2016-specimen-set2-7402-2/q05-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q05.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 13,
+      "marks": 3,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "How increased methylation of tumour suppressor genes causes cancer",
+      "image": "img/2016-specimen-set2-7402-2/q05-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q05.4",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 13,
+      "marks": 1,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "One difference between benign and malignant tumours",
+      "image": "img/2016-specimen-set2-7402-2/q05-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q05-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q06.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 14,
+      "marks": 5,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "How Table 2 stream recovery data provide evidence of succession",
+      "image": "img/2016-specimen-set2-7402-2/q06-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q06-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q6-table2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q06.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Comparing population growth per day of two stream species",
+      "image": "img/2016-specimen-set2-7402-2/q06-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q06-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q6-table2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q06.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "06.3",
+      "questionNumber": "06.3",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Two features of a climax community",
+      "image": "img/2016-specimen-set2-7402-2/q06-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q06-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q07.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.1",
+      "questionNumber": "07.1",
+      "page": 16,
+      "marks": 2,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Why cDNA and gene machine work in E. coli without splicing",
+      "image": "img/2016-specimen-set2-7402-2/q07-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q07-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q07.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.2",
+      "questionNumber": "07.2",
+      "page": 16,
+      "marks": 1,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Why gene machine is faster than reverse transcriptase method",
+      "image": "img/2016-specimen-set2-7402-2/q07-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q07-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q07.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.3",
+      "questionNumber": "07.3",
+      "page": 17,
+      "marks": 3,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Inserting HGH gene copies into plasmid vectors",
+      "image": "img/2016-specimen-set2-7402-2/q07-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q07-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q07.4",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.4",
+      "questionNumber": "07.4",
+      "page": 18,
+      "marks": 1,
+      "specRef": "3.8.4.1",
+      "topics": [
+        "3.8.4.1"
+      ],
+      "summary": "Advantage of GFP gene to identify transformed bacteria",
+      "image": "img/2016-specimen-set2-7402-2/q07-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q07-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q07.5",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "07.5",
+      "questionNumber": "07.5",
+      "page": 19,
+      "marks": 2,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "Why arabinose must be included in agar for GFP expression",
+      "image": "img/2016-specimen-set2-7402-2/q07-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q07-5.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q7-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q08.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.1",
+      "questionNumber": "08.1",
+      "page": 20,
+      "marks": 2,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Identifying kinesis behaviour in Tenebrio molitor (Figure 6)",
+      "image": "img/2016-specimen-set2-7402-2/q08-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q08-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q8-fig6.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q08.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.2",
+      "questionNumber": "08.2",
+      "page": 21,
+      "marks": 2,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "How reduced movement in dry conditions reduces insect water loss",
+      "image": "img/2016-specimen-set2-7402-2/q08-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q08-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q08.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.3",
+      "questionNumber": "08.3",
+      "page": 21,
+      "marks": 1,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Identifying taxis behaviour in Figure 7",
+      "image": "img/2016-specimen-set2-7402-2/q08-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q08-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q08.4",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.4",
+      "questionNumber": "08.4",
+      "page": 22,
+      "marks": 2,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Whether Figure 8 supports hypothesis on antenna removal",
+      "image": "img/2016-specimen-set2-7402-2/q08-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q08-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q8-fig6.jpg",
+        "img/2016-specimen-set2-7402-2/fig-q8-fig7.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q08.5",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "08.5",
+      "questionNumber": "08.5",
+      "page": 23,
+      "marks": 2,
+      "specRef": "3.6.1.1",
+      "topics": [
+        "3.6.1.1"
+      ],
+      "summary": "Evaluating student conclusion on humidity and insect movement",
+      "image": "img/2016-specimen-set2-7402-2/q08-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q08-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q09.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.1",
+      "questionNumber": "09.1",
+      "page": 24,
+      "marks": 2,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Parental genotypes in monohybrid fruit fly eye shape cross",
+      "image": "img/2016-specimen-set2-7402-2/q09-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q09-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q09.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.2",
+      "questionNumber": "09.2",
+      "page": 24,
+      "marks": 1,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Expected Mendelian ratio of bar-eyed to round-eyed flies",
+      "image": "img/2016-specimen-set2-7402-2/q09-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q09-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q09.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.3",
+      "questionNumber": "09.3",
+      "page": 24,
+      "marks": 2,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Two reasons observed genetic ratios differ from expected",
+      "image": "img/2016-specimen-set2-7402-2/q09-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q09-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q09.4",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.4",
+      "questionNumber": "09.4",
+      "page": 24,
+      "marks": 1,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Identifying chi-squared test for genetic ratio data",
+      "image": "img/2016-specimen-set2-7402-2/q09-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q09-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q09.5",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.5",
+      "questionNumber": "09.5",
+      "page": 25,
+      "marks": 1,
+      "specRef": "3.7.1",
+      "topics": [
+        "3.7.1"
+      ],
+      "summary": "Defining codominant alleles",
+      "image": "img/2016-specimen-set2-7402-2/q09-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q09-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q09.6",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.6",
+      "questionNumber": "09.6",
+      "page": 25,
+      "marks": 1,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Calculating actual allele frequency without Hardy-Weinberg",
+      "image": "img/2016-specimen-set2-7402-2/q09-6.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q09-6.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q09.7",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "09.7",
+      "questionNumber": "09.7",
+      "page": 25,
+      "marks": 2,
+      "specRef": "3.7.2",
+      "topics": [
+        "3.7.2"
+      ],
+      "summary": "Hardy-Weinberg calculation of heterozygous fruit flies",
+      "image": "img/2016-specimen-set2-7402-2/q09-7.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q09-7.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q10.1",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.1",
+      "questionNumber": "10.1",
+      "page": 26,
+      "marks": 2,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Two reasons poor phosphate supply causes poor plant growth",
+      "image": "img/2016-specimen-set2-7402-2/q10-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q10-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q10.2",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.2",
+      "questionNumber": "10.2",
+      "page": 26,
+      "marks": 2,
+      "specRef": "3.1.4.2",
+      "topics": [
+        "3.1.4.2"
+      ],
+      "summary": "How defensive enzymes produced by plants destroy bacteria",
+      "image": "img/2016-specimen-set2-7402-2/q10-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q10-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q10.3",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.3",
+      "questionNumber": "10.3",
+      "page": 27,
+      "marks": 3,
+      "specRef": "3.8.2.2",
+      "topics": [
+        "3.8.2.2"
+      ],
+      "summary": "How signal proteins lead to expression of defensive enzyme genes",
+      "image": "img/2016-specimen-set2-7402-2/q10-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q10-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q10.4",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.4",
+      "questionNumber": "10.4",
+      "page": 27,
+      "marks": 2,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Advantage of transmitting signals via mycorrhizal networks",
+      "image": "img/2016-specimen-set2-7402-2/q10-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q10-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q10.5",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.5",
+      "questionNumber": "10.5",
+      "page": 27,
+      "marks": 2,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Calculating rate of defensive enzyme secretion per second",
+      "image": "img/2016-specimen-set2-7402-2/q10-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q10-5.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-2-q10.6",
+      "paper": "2016-specimen-set2-7402-2",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/2",
+      "level": "A-Level",
+      "question": "10.6",
+      "questionNumber": "10.6",
+      "page": 28,
+      "marks": 4,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Evaluating whether farmers should stop using fertilisers",
+      "image": "img/2016-specimen-set2-7402-2/q10-6.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-2/ms/q10-6.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-2/fig-q10-passage.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q01.1",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.1",
+      "questionNumber": "01.1",
+      "page": 3,
+      "marks": 3,
+      "specRef": "3.3.1",
+      "topics": [
+        "3.3.1"
+      ],
+      "summary": "Calculating CO2 release per gram and plotting against temperature",
+      "image": "img/2016-specimen-set2-7402-3/q01-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q01-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q1-table1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q01.2",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.2",
+      "questionNumber": "01.2",
+      "page": 4,
+      "marks": 1,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Change in rate per hour of spiracle opening between 10 °C and 20 °C",
+      "image": "img/2016-specimen-set2-7402-3/q01-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q01-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q01.3",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.3",
+      "questionNumber": "01.3",
+      "page": 5,
+      "marks": 1,
+      "specRef": "3.3.2",
+      "topics": [
+        "3.3.2"
+      ],
+      "summary": "Determining total CO2 secreted at 30 °C from Figure 1",
+      "image": "img/2016-specimen-set2-7402-3/q01-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q01-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q01.4",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "01.4",
+      "questionNumber": "01.4",
+      "page": 5,
+      "marks": 3,
+      "specRef": "3.5.2",
+      "topics": [
+        "3.5.2"
+      ],
+      "summary": "Explaining effect of temperature on rate of CO2 release in insects",
+      "image": "img/2016-specimen-set2-7402-3/q01-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q01-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q1-fig1.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q02.1",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.1",
+      "questionNumber": "02.1",
+      "page": 6,
+      "marks": 1,
+      "specRef": "3.4.3",
+      "topics": [
+        "3.4.3"
+      ],
+      "summary": "Defining a substitution mutation",
+      "image": "img/2016-specimen-set2-7402-3/q02-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q02-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q02.2",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.2",
+      "questionNumber": "02.2",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.8.4.3",
+      "topics": [
+        "3.8.4.3"
+      ],
+      "summary": "How gel electrophoresis separates synaptic proteins",
+      "image": "img/2016-specimen-set2-7402-3/q02-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q02-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q02.3",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.3",
+      "questionNumber": "02.3",
+      "page": 7,
+      "marks": 3,
+      "specRef": "3.2.4",
+      "topics": [
+        "3.2.4"
+      ],
+      "summary": "Why each labelled antibody binds specifically to one protein",
+      "image": "img/2016-specimen-set2-7402-3/q02-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q02-3.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q02.4",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.4",
+      "questionNumber": "02.4",
+      "page": 7,
+      "marks": 2,
+      "specRef": "3.6.2.2",
+      "topics": [
+        "3.6.2.2"
+      ],
+      "summary": "Effect of NL3 mutation on synaptic proteins in Figure 2",
+      "image": "img/2016-specimen-set2-7402-3/q02-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q02-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q02.5",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "02.5",
+      "questionNumber": "02.5",
+      "page": 8,
+      "marks": 2,
+      "specRef": "3.6.2.2",
+      "topics": [
+        "3.6.2.2"
+      ],
+      "summary": "How NL3 mutation may affect mouse memory",
+      "image": "img/2016-specimen-set2-7402-3/q02-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q02-5.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q2-fig2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q03.1",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.1",
+      "questionNumber": "03.1",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Calculating percentage of water in freshly cut wood sample",
+      "image": "img/2016-specimen-set2-7402-3/q03-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q03-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q3-table2.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q03.2",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.2",
+      "questionNumber": "03.2",
+      "page": 9,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Determining whether oven drying removed all water from wood",
+      "image": "img/2016-specimen-set2-7402-3/q03-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q03-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q03.3",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.3",
+      "questionNumber": "03.3",
+      "page": 10,
+      "marks": 2,
+      "specRef": "3.5.3",
+      "topics": [
+        "3.5.3"
+      ],
+      "summary": "Relationship between trunk diameter and tree biomass (Figure 3)",
+      "image": "img/2016-specimen-set2-7402-3/q03-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q03-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q03.4",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "03.4",
+      "questionNumber": "03.4",
+      "page": 11,
+      "marks": 4,
+      "specRef": "3.5.4",
+      "topics": [
+        "3.5.4"
+      ],
+      "summary": "Estimating total carbon mass in a tree plantation",
+      "image": "img/2016-specimen-set2-7402-3/q03-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q03-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q3-table2.jpg",
+        "img/2016-specimen-set2-7402-3/fig-q3-fig3.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q04.1",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.1",
+      "questionNumber": "04.1",
+      "page": 13,
+      "marks": 3,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Conclusions on human activities and plant biodiversity (Figure 4)",
+      "image": "img/2016-specimen-set2-7402-3/q04-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q04-1.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q04.2",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.2",
+      "questionNumber": "04.2",
+      "page": 13,
+      "marks": 2,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Explaining effect size when non-native species are introduced",
+      "image": "img/2016-specimen-set2-7402-3/q04-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q04-2.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q4-fig4.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q04.3",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.3",
+      "questionNumber": "04.3",
+      "page": 14,
+      "marks": 3,
+      "specRef": "3.7.4",
+      "topics": [
+        "3.7.4"
+      ],
+      "summary": "Investigating effect of non-native plant invasion over many years",
+      "image": "img/2016-specimen-set2-7402-3/q04-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q04-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q04.4",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "04.4",
+      "questionNumber": "04.4",
+      "page": 14,
+      "marks": 2,
+      "specRef": "3.4.6",
+      "topics": [
+        "3.4.6"
+      ],
+      "summary": "Writing equation and calculating effect size for species richness",
+      "image": "img/2016-specimen-set2-7402-3/q04-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q04-4.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q05.1",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.1",
+      "questionNumber": "05.1",
+      "page": 15,
+      "marks": 1,
+      "specRef": "3.8.2.1",
+      "topics": [
+        "3.8.2.1"
+      ],
+      "summary": "Why embryonic pluripotent stem cells may repair heart damage",
+      "image": "img/2016-specimen-set2-7402-3/q05-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q05-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q05.2",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.2",
+      "questionNumber": "05.2",
+      "page": 15,
+      "marks": 2,
+      "specRef": "3.8.2.3",
+      "topics": [
+        "3.8.2.3"
+      ],
+      "summary": "How putting ESCs into heart might cause tumour/harm",
+      "image": "img/2016-specimen-set2-7402-3/q05-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q05-2.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q05.3",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.3",
+      "questionNumber": "05.3",
+      "page": 16,
+      "marks": 2,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Two ways Group A acts as a control in heart transplant study",
+      "image": "img/2016-specimen-set2-7402-3/q05-3.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q05-3.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q05.4",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.4",
+      "questionNumber": "05.4",
+      "page": 17,
+      "marks": 3,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "Conclusions on cardiomyocyte stimulation of new blood vessels",
+      "image": "img/2016-specimen-set2-7402-3/q05-4.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q05-4.png",
+      "figures": [
+        "img/2016-specimen-set2-7402-3/fig-q5-fig5.jpg"
+      ]
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q05.5",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.5",
+      "questionNumber": "05.5",
+      "page": 17,
+      "marks": 3,
+      "specRef": "3.3.4.1",
+      "topics": [
+        "3.3.4.1"
+      ],
+      "summary": "How new blood vessels increase rate of heart tissue repair",
+      "image": "img/2016-specimen-set2-7402-3/q05-5.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q05-5.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q05.6",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "05.6",
+      "questionNumber": "05.6",
+      "page": 18,
+      "marks": 4,
+      "specRef": "3.2.1.3",
+      "topics": [
+        "3.2.1.3"
+      ],
+      "summary": "Microscope method to find mean number of capillaries per mm2",
+      "image": "img/2016-specimen-set2-7402-3/q05-6.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q05-6.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q06.1",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.1",
+      "questionNumber": "06.1",
+      "page": 19,
+      "marks": 25,
+      "specRef": "3.1.5.1",
+      "topics": [
+        "3.1.5.1"
+      ],
+      "summary": "Essay: Importance of nucleotides, derived molecules and nucleic acids",
+      "image": "img/2016-specimen-set2-7402-3/q06-1.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q06-1.png",
+      "figures": []
+    },
+    {
+      "id": "2016-specimen-set2-7402-3-q06.2",
+      "paper": "2016-specimen-set2-7402-3",
+      "year": 2016,
+      "series": "Specimen Set 2",
+      "unit": "7402/3",
+      "level": "A-Level",
+      "question": "06.2",
+      "questionNumber": "06.2",
+      "page": 19,
+      "marks": 25,
+      "specRef": "3.1.7",
+      "topics": [
+        "3.1.7"
+      ],
+      "summary": "Essay: Ways water and regulation of water content are important",
+      "image": "img/2016-specimen-set2-7402-3/q06-2.jpg",
+      "markscheme": "img/2016-specimen-set2-7402-3/ms/q06-2.png",
+      "figures": []
     }
   ]
 }
